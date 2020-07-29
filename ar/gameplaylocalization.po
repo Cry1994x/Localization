@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gameplaylocalization\n"
 "POT-Creation-Date: 2020-07-01 10:20\n"
-"PO-Revision-Date: 2020-07-29 17:25+0200\n"
+"PO-Revision-Date: 2020-07-29 17:58+0200\n"
 "Language-Team: \n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -2095,7 +2095,7 @@ msgstr "-------->"
 #: /Game/ZELDA/CharacterModels/Mido/BossBP.Default__BossBP_C.text1
 msgctxt ",6EE8BFAB441DB4800E1A54A3DF478F94"
 msgid "Hey you! \"Mr. No Fairy! \"What's your business with the Great Deku Tree?????"
-msgstr "يا أنت! \"سيد بدون جنية! ما عملك بشجرة ديكو العظيمة؟؟؟؟؟"
+msgstr "يا أنت! سيد بدون جنية! ما عملك بشجرة ديكو العظيمة؟؟؟؟؟"
 
 #. Key:	6FD083F44D728E05059EE6A7CA663DD8
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
