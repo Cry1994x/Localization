@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gameplaylocalization\n"
 "POT-Creation-Date: 2020-08-01 20:08\n"
-"PO-Revision-Date: 2020-08-02 13:20+0200\n"
+"PO-Revision-Date: 2020-08-02 14:46+0200\n"
 "Language-Team: \n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -5218,7 +5218,7 @@ msgstr ""
 #: /Game/ZELDA/Maps/OcarinaOfTime/KakarikoGraveyard.KakarikoGraveyard:PersistentLevel.SimpleDialogue_2.Text
 msgctxt ",F8DD25FD451CEDDBC23B9CB486763744"
 msgid "                              Rest in peace DAN <3"
-msgstr "                              Rest in peace DAN <3"
+msgstr "                              Vila i frid DAN <3"
 
 #. Key:	F983932B467E767C7460EE950CD3B17B
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/NPCs/Malon/Malon_BP.Default__Malon_BP_C.text1
