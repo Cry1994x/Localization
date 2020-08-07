@@ -186,7 +186,7 @@ msgstr "...........oui"
 #: /Game/ZELDA/Maps/OcarinaOfTime/KakarikoVillage.KakarikoVillage:PersistentLevel.GuardoPawn_2.text1
 msgctxt ",088D675540FD7EE5F3429D8C76BC1118"
 msgid "mountain level is not yet finished, please waiit for the next update !"
-msgstr "Le level de la montagne n'est pas encore fini, attendez la prochiane mise-à-jour s'il-vous-plait !"
+msgstr "Le level de la montagne n'est pas encore fini, attendez la prochaine mise-à-jour s'il-vous-plait !"
 
 #. Key:	091AFF5446DE3E4D61DAC4A5463B7F4D
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/Options.Options_C:WidgetTree.TextBlock_4.Text
@@ -1019,7 +1019,7 @@ msgstr "Je suis maudit... \r\nJ’ai besoin de toi pour briser la malédiction\r
 #: /Game/ZELDA/Maps/StartupLevel/StartUp_widget.StartUp_widget_C:WidgetTree.SelectGraphics.Text
 msgctxt ",2FDFF349490FB6F964B4BD8AACA6BB06"
 msgid "Select language:"
-msgstr "choisissez la langue"
+msgstr "Choisissez la langue"
 
 #. Key:	305EBA43463108D0D06522B43F73B841
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/Outside/ZeldacastleBackyard.ZeldacastleBackyard_C:ExecuteUbergraph_ZeldacastleBackyard [Script Bytecode]
@@ -1236,7 +1236,7 @@ msgstr "Vous avez obtenu un Bâton Mojo ! Vous pouvez vous-en équiper via le me
 #: /Game/ZELDA/Maps/OcarinaOfTime/KakarikoVillage.KakarikoVillage:PersistentLevel.Zeno_2.text1
 msgctxt ",3FA92322427EA7C2CABAC698BE2766A1"
 msgid "Here its  Zeno ! Your Patreon supporter! Im bored here and siting on the bench! You should visit the graveyard ! "
-msgstr "Voic Zeno ! Le supporter Patreon! Je suis fatiqué et assis sur le banc! Tu devrais visiter le cimetière !"
+msgstr "Voici Zeno ! Le supporter Patreon! Je suis fatiqué et assis sur le banc! Tu devrais visiter le cimetière !"
 
 #. Key:	400A0EC546CFE4A718364BA800659864
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL2.ItemsL2.DisplayNameMap(7 - Value).DisplayNameMap
@@ -2265,7 +2265,7 @@ msgstr "Une fois équipé, tu peux te défendre avec Y"
 #: /Game/ZELDA/Maps/OcarinaOfTime/LostWoods.LostWoods:PersistentLevel.TalkToActors_GEN_VARIABLE_TalkToActors_C_CAT_1516.text1
 msgctxt ",7A91C1BD464897E8C2C07AA5736B830D"
 msgid "Please help me................"
-msgstr "S'il -te-plait, aide moi.........."
+msgstr "S'il-te-plait, aide moi.........."
 
 #. Key:	7B22AAA24C481FF3C2952A8CD1785824
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectLeft2.iTEMSelectLeft2_C:ExecuteUbergraph_iTEMSelectLeft2 [Script Bytecode]
@@ -2384,7 +2384,7 @@ msgstr "Aucun"
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR4.ItemsR4.DisplayNameMap(8 - Value).DisplayNameMap
 msgctxt ",8480FE124C78878C6F934890A60EC759"
 msgid "keaton"
-msgstr "renard"
+msgstr "Renard"
 
 #. Key:	855EC48A4B28DEDFC2A05A858BADE417
 #. SourceLocation:	/Game/ZELDA/PauseMenu/Item_select1.Item_select1_C:WidgetTree.Deku.Text
@@ -2405,7 +2405,7 @@ msgstr "Oui"
 #: /Game/ZELDA/Maps/TrainingLevel/Training.Training_C:ExecuteUbergraph_Training [Script Bytecode]
 msgctxt ",86D932B64C0DB296686C37A12CB9DE0D"
 msgid "Okay the training mode is ending here ! Hope you are ready ! Just go talk to me if you want to end the training or still contiune!"
-msgstr "Okau, l'entrainement ce fini ici ! J'espere que tu es prêt ! Viens me voir si tu veux partir ou continuer l'entrainement!"
+msgstr "Okay, l'entrainement ce fini ici ! J'espere que tu es prêt ! Viens me voir si tu veux partir ou continuer l'entrainement!"
 
 #. Key:	86E275854EF60299F73542AA98E63436
 #. SourceLocation:	/Game/ZELDA/Blueprints/Items/Small_Treasure/SmallChestItems.SmallChestItems.DisplayNameMap(3 - Value).DisplayNameMap
@@ -3812,7 +3812,7 @@ msgstr "Non"
 #: /Game/ZELDA/Maps/OcarinaOfTime/KakarikoVillage.KakarikoVillage:PersistentLevel.AnjuPawn_2.text1
 msgctxt ",CD97BB8749F6F9A45DFD72991DB28C0A"
 msgid "I lost all my cuccos! Please find them for me!"
-msgstr "J'ai perdu mes poules! Je t'en suplie, retrouve les"
+msgstr "J'ai perdu mes poules! Je t'en suplie, retrouve les!"
 
 #. Key:	CDE24F9843E352C1525A9081B8C47702
 #. SourceLocation:	/Game/ZELDA/Link_Child/Fairy/FairyEffect1.FairyEffect1:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_2.DisplayName
@@ -3952,9 +3952,9 @@ msgstr "vous ne pouvez rien en faire, patientez jusqu'à ce qu'il éclose !\r\np
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR2.ItemsR2.DisplayNameMap(8 - Value).DisplayNameMap
 msgctxt ",D78D438847966A55E51FDFBC3BFC3794"
 msgid "keaton"
-msgstr "renard"
+msgstr "Renard"
 
-#. Key:	D7CCE9ED47AC6288BAD237BDCCF7F7FF
+#. Key:D7CCE9ED47AC6288BAD237BDCCF7F7FF
 #. SourceLocation:	/Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:Get Resolutuion Indicator Text [Script Bytecode]
 #: /Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:Get Resolutuion Indicator Text [Script Bytecode]
 msgctxt ",D7CCE9ED47AC6288BAD237BDCCF7F7FF"
@@ -4148,7 +4148,7 @@ msgstr "Cochez l’évenement"
 #: /Game/ZELDA/Maps/OcarinaOfTime/KakarikoVillage.KakarikoVillage:PersistentLevel.Boss_2.text1
 msgctxt ",E39D03EA44D7EF687F0C24B33B4E89EF"
 msgid "why are the workers so useless today?????!!!"
-msgstr "Pourquoi mes ouvriers sont si paresseux aujourd'hui?????!"
+msgstr "pourquoi mes ouvriers sont si paresseux aujourd'hui?????!"
 
 #. Key:	E3E940DF4A4719F943048E992EACE3B3
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:OnRep_GotSlingShot [Script Bytecode]
