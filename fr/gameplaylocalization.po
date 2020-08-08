@@ -39,7 +39,7 @@ msgstr "Post-traitement"
 #: /Game/ZELDA/CPP_Environment/World_Objects/Chests/Small_Chest_BP.Small_Chest_BP_C:ExecuteUbergraph_Small_Chest_BP [Script Bytecode]
 msgctxt ",01760A894258122138CC9592FF793CE3"
 msgid "You got a Green Rupee!\r\nThat's ONE Rupee!"
-msgstr "Tu as obtenu un Rubis Vert!\r\nIl vaut UN rubis"
+msgstr "Tu as obtenu un Rubis Vert!\r\nIl vaut UN rubis!"
 
 #. Key:	02C574D947A8ED7B01E7D68C6DDAC6ED
 #. SourceLocation:	/Game/ZELDA/ZbrushModels/HyruleMarket/ZeldaCastle/ZeldaRoom/TrifoceScene/TriforceModel/Triforce.Triforce_C:ExecuteUbergraph_Triforce [Script Bytecode]
