@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gameplaylocalization\n"
-"POT-Creation-Date: 2020-08-01 20:08\n"
-"PO-Revision-Date: 2020-08-01 20:08\n"
+"POT-Creation-Date: 2020-08-09 17:40\n"
+"PO-Revision-Date: 2020-08-09 17:40\n"
 "Language-Team: \n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -144,7 +144,7 @@ msgstr "باعث نياجرا جديد"
 #: /Game/ZELDA/CPP_Environment/Maps/MainMenuZelda/Main_BP.Main_BP_C:WidgetTree.TextBlock_86.Text
 msgctxt ",0814A7CC44F76E5691FA32A42A7C5E03"
 msgid "Downsampling"
-msgstr "الأختزال"
+msgstr "أخذ عينات للأسفل"
 
 #. Key:	0816206645C7FD936B874598498D6338
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor28.NewTextRenderComponent.Text
@@ -207,7 +207,7 @@ msgstr "درع"
 #: /Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock_9.Text
 msgctxt ",09D0A01645BCCC2DF928A6992F5FD24E"
 msgid "Volumetric Fog"
-msgstr "ضباب حجمي"
+msgstr "ضباب حجمي "
 
 #. Key:	09F7B7224AFA232FFF4164BCB5121A70
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/LostWoods.LostWoods_C:ExecuteUbergraph_LostWoods [Script Bytecode]
@@ -466,7 +466,7 @@ msgstr "ماكس أف بي أس:"
 #: /Game/ZELDA/Maps/OcarinaOfTime/Dungeons/Temple1/Inside_Deku_Tree.Inside_Deku_Tree:PersistentLevel.FairyHelp_2.Text
 msgctxt ",16532DE4443641AD1D17E8BE94340729"
 msgid "Link, Becareful there is a Skulltula in the vine! \r\nTry to sneak up !"
-msgstr "لنط, كن حذر يوجد جمجمة في الكرمةّ \r\n حاول أن تتسلل !"
+msgstr "لنك, كن حذر يوجد جمجمة في الكرمةّ \r\n حاول أن تتسلل !"
 
 #. Key:	16970E584E8AFD2C0BEF3DAB972398DD
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
@@ -557,7 +557,7 @@ msgstr "أحمر"
 #: /Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock_106.Text
 msgctxt ",1B0735B2412A968B62A779BF27B2C25C"
 msgid "Render Resolution"
-msgstr "تقديم القرار"
+msgstr "دقة الصورة"
 
 #. Key:	1B7C052C4012D7EC761E7ABA04035CB8
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
@@ -585,7 +585,7 @@ msgstr "أرجوك ساعدني ..............."
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",1C6CE52547EB38875EDBCAAD0E64AA26"
 msgid "Then, are you....\r\nare you from the forest?????"
-msgstr "بعدها, هل انت...\r\nهل انت من الغابة؟؟؟؟"
+msgstr "أذا, هل انت...\r\nهل انت من الغابة؟؟؟؟"
 
 #. Key:	1D0CDC8048769479F0271A92174CED72
 #. SourceLocation:	/Game/ZELDA/Blueprints/Items/Small_Treasure/SmallChestItems.SmallChestItems.DisplayNameMap(4 - Value).DisplayNameMap
@@ -634,7 +634,7 @@ msgstr "رجوع"
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/Outside/ZeldacastleBackyard.ZeldacastleBackyard:PersistentLevel.Malon_3.text2
 msgctxt ",1FF9D50D4B5038A9725C0BBDB998889A"
 msgid "He must have fallen aasleep somewhere around the castle. What a thing for an adult to do.  Heh ehe. "
-msgstr "هو يجب ان يكون قد غرق بالنوم بمكان ما قرب القلعة. يا له من شيء يفعله البالغ. هيه ايه."
+msgstr "هو يجب ان يكون قد أستغرق بالنوم بمكان ما قرب القلعة. يا له من شيء يفعله البالغ. هيه ايه."
 
 #. Key:	20C23F0B41A167222F12FCB750347045
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/TextItems.TextItems.DisplayNameMap(4 - Value).DisplayNameMap
@@ -970,7 +970,7 @@ msgstr "الاخضر"
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.MalonPawn_2.text2
 msgctxt ",2E4817D94E5A26688D3B37B34E882D5C"
 msgid "But bob is bob² and bob isn't bob if bob is bob² but it's still bob."
-msgstr "لكن بوب هو بوب وبوب ليس بوب أذا كان بوب هو بوب لكن هو مازال بوب\""
+msgstr "لكن بوب هو بوب وبوب ليس بوب أذا كان بوب هو بوب لكن هو مازال بوب"
 
 #. Key:	2EDE5F1C40872384463AAE908CD11B60
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/KokiriForest_CPP.KokiriForest_CPP:PersistentLevel.SignWood_200.Text1
@@ -1019,7 +1019,7 @@ msgstr "لقد لعنت...\r\nأحتاج منك أن تكسر اللعنة\r\nب
 #: /Game/ZELDA/Maps/StartupLevel/StartUp_widget.StartUp_widget_C:WidgetTree.SelectGraphics.Text
 msgctxt ",2FDFF349490FB6F964B4BD8AACA6BB06"
 msgid "Select language:"
-msgstr "أختار اللغة"
+msgstr "أختر اللغة"
 
 #. Key:	305EBA43463108D0D06522B43F73B841
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/Outside/ZeldacastleBackyard.ZeldacastleBackyard_C:ExecuteUbergraph_ZeldacastleBackyard [Script Bytecode]
@@ -1054,7 +1054,7 @@ msgstr "فقست البيضة!"
 #: /Game/ZELDA/Maps/StartupLevel/StartUp_widget.StartUp_widget_C:WidgetTree.TextBlock.Text
 msgctxt ",31C7A6A143F26713C0DEFA9543D93729"
 msgid "Select graphics preset:"
-msgstr "أختار جرافيك معد مسبقا:"
+msgstr "أختر جرافيك معد مسبقا:"
 
 #. Key:	320A37534E2160CD4ACFAA9BAE346093
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
@@ -1096,7 +1096,7 @@ msgstr ""
 #: /Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
 msgctxt ",348C4E7E49FB0DC575350FAA24691FEC"
 msgid "The youth whose destiny it is to lead Hyrule to the path of justice and truth"
-msgstr "الشياب الذي مصيره قيادة هيدرول لطريق العدالة والحقيقة"
+msgstr "الشباب الذي مصيره قيادة هيدرول لطريق العدالة والحقيقة"
 
 #. Key:	35BF82DC46AC81A2B218318CCA2D6D2E
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/Entrace/GuardRoom/GuardRoom.GuardRoom:PersistentLevel.GuardoPawn_3.text1
@@ -1537,133 +1537,133 @@ msgstr "حفظ"
 #: /Game/ZELDA/CPP_Environment/Misc/Dialog_System/Dialog_System_BP.Default__Dialog_System_BP_C.Text
 msgctxt ",4F9A76CD4D96AB75FDE94583AE5E86AF"
 msgid "During your quest, you will be able to find many Great Fairy Fountains hidden in various passages throughout Hyrule. In each one, the Great Fairy will give you helpful power-ups and magic spells."
-msgstr ""
+msgstr "خلال بحثك, سوف تكون قادر على أيجاد العديد من نافورات الجنية, الجنية العظيمة سوف تعطيك قوى مفيدة وتعويذات سحرية."
 
 #. Key:	5009806F42EC37D459D57D970352326F
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
 msgctxt ",5009806F42EC37D459D57D970352326F"
 msgid "Navi...go now ! Find our young friend \r\nand guide him to me... Fly, Navi, fly !"
-msgstr ""
+msgstr "نافي... أذهب الأن ! أعثر على صديقنا الصغير \r\nوأرشده ألي... حلق, نافي, حلق !"
 
 #. Key:	50A1910C4899FA53FD7F7BAAE303A2D1
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",50A1910C4899FA53FD7F7BAAE303A2D1"
 msgid "But it's fortunate that you have come"
-msgstr ""
+msgstr "لكن من حسن الحظ أنك أتيت"
 
 #. Key:	50EEA1FC40598D611710E7B8D6971739
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/MainMenuZelda/Main_BP.Main_BP_C:WidgetTree.TextBlock_0.Text
 #: /Game/ZELDA/CPP_Environment/Maps/MainMenuZelda/Main_BP.Main_BP_C:WidgetTree.TextBlock_0.Text
 msgctxt ",50EEA1FC40598D611710E7B8D6971739"
 msgid "4K"
-msgstr ""
+msgstr "4ك"
 
 #. Key:	52FAB60D43FD541392B3E2A613A4868D
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/World_Objects/Chests/Chest_BP.Default__Chest_BP_C.TEXT
 #: /Game/ZELDA/CPP_Environment/World_Objects/Chests/Chest_BP.Default__Chest_BP_C.TEXT
 msgctxt ",52FAB60D43FD541392B3E2A613A4868D"
 msgid "You got the Kokiri Sword ! On the Equipment Subscreen, select it with the cursor and equip it with Keyboard X or Gamepad Button A."
-msgstr ""
+msgstr "لقد حصلت على سيف كوكيري ! في الشاشة الفرعية للمعدات, أختره بالمؤشر وجهزه بلوحة المفاتيح أكس أو زر لوح الالعاب أي."
 
 #. Key:	537FE78F4A1A7498DD6DF78B07E0953C
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",537FE78F4A1A7498DD6DF78B07E0953C"
 msgid "Can you see the man with the evil eyes?"
-msgstr ""
+msgstr "هل تستطيع رؤية الرجل ذو العين الشريرة؟"
 
 #. Key:	538317894FAB8048E521CFAD101562C1
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor23.NewTextRenderComponent.Text
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor23.NewTextRenderComponent.Text
 msgctxt ",538317894FAB8048E521CFAD101562C1"
 msgid "Red\r\nRupee"
-msgstr ""
+msgstr "أحمر\r\nروبية"
 
 #. Key:	53917E994211308319CF028D4AE53EA9
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL1.ItemsL1.DisplayNameMap(7 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL1.ItemsL1.DisplayNameMap(7 - Value).DisplayNameMap
 msgctxt ",53917E994211308319CF028D4AE53EA9"
 msgid "None"
-msgstr ""
+msgstr "لا شيء"
 
 #. Key:	53BB494E408EDF32E00EB59EDEBB1639
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",53BB494E408EDF32E00EB59EDEBB1639"
 msgid "....."
-msgstr ""
+msgstr "...."
 
 #. Key:	53BD0931490330251D582DA9B13205BF
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL1.ItemsL1.DisplayNameMap(4 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL1.ItemsL1.DisplayNameMap(4 - Value).DisplayNameMap
 msgctxt ",53BD0931490330251D582DA9B13205BF"
 msgid "Arrrow2"
-msgstr ""
+msgstr "سهم2"
 
 #. Key:	53EDA4DD42B8E78F1E9B83AD3565DB15
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/SelectedFile.SelectedFile_C:WidgetTree.TextBlock_107.Text
 #: /Game/ZELDA/PauseMenu/MainMenu/SelectedFile.SelectedFile_C:WidgetTree.TextBlock_107.Text
 msgctxt ",53EDA4DD42B8E78F1E9B83AD3565DB15"
 msgid "FileName"
-msgstr ""
+msgstr "أسم الملف"
 
 #. Key:	541AF62D4F9B08CE22991396F38BD343
 #. SourceLocation:	/Game/ZELDA/ZbrushModels/HyruleMarket/ZeldaCastle/ZeldaRoom/TrifoceScene/TriforceModel/Triforce.Triforce_C:ExecuteUbergraph_Triforce [Script Bytecode]
 #: /Game/ZELDA/ZbrushModels/HyruleMarket/ZeldaCastle/ZeldaRoom/TrifoceScene/TriforceModel/Triforce.Triforce_C:ExecuteUbergraph_Triforce [Script Bytecode]
 msgctxt ",541AF62D4F9B08CE22991396F38BD343"
 msgid "The three goddesses hid the Triforce containing the power of the gods somewhere in Hyrule."
-msgstr ""
+msgstr "الآلهة الثلاثة أخفوا التريفورس التي تحتوي على قوة الاله بمكان ما في هيدرول."
 
 #. Key:	5422D056490DCE42B5C717BB452F98DE
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Welcome.Welcome_C:WidgetTree.TextBlock_0.Text
 #: /Game/ZELDA/Blueprints/ShopKeeper/Welcome.Welcome_C:WidgetTree.TextBlock_0.Text
 msgctxt ",5422D056490DCE42B5C717BB452F98DE"
 msgid "Talk to shopkeeper"
-msgstr ""
+msgstr "تحدث مع صاحب المحل"
 
 #. Key:	5459A69F4FBA8C328BB18F90FD54B0A0
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR2.ItemsR2.DisplayNameMap(4 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR2.ItemsR2.DisplayNameMap(4 - Value).DisplayNameMap
 msgctxt ",5459A69F4FBA8C328BB18F90FD54B0A0"
 msgid "Arrrow2"
-msgstr ""
+msgstr "سهم2"
 
 #. Key:	54B019D44D111D35D0F5AEB99A873F8C
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:OnRep_GotSlingShot [Script Bytecode]
 #: /Game/ZELDA/Blueprints/ChildLink.ChildLink_C:OnRep_GotSlingShot [Script Bytecode]
 msgctxt ",54B019D44D111D35D0F5AEB99A873F8C"
 msgid "You found the Fairy SlingShot!\r\n You can select it in the Item subscreen."
-msgstr ""
+msgstr "لقد وجدت مقلاع الجنية!\r\n تستطيع أختياره في الشاشة الفرعية للمواد."
 
 #. Key:	54BD6A7F47882B94934AF2B713CDC5A7
 #. SourceLocation:	/Game/ZELDA/Blueprints/MiniMap/LevelList.LevelList.DisplayNameMap(0 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/MiniMap/LevelList.LevelList.DisplayNameMap(0 - Value).DisplayNameMap
 msgctxt ",54BD6A7F47882B94934AF2B713CDC5A7"
 msgid "KokiriForest"
-msgstr ""
+msgstr "غابة كوكيري"
 
 #. Key:	569B573441F7F0258FDAEA9864C5138F
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/TextItems.TextItems.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/TextItems.TextItems.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",569B573441F7F0258FDAEA9864C5138F"
 msgid "DekuNuts"
-msgstr ""
+msgstr "بندق ديكو"
 
 #. Key:	572EA9904B8BDEA2C618DC9E26C9E763
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor13.NewTextRenderComponent.Text
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor13.NewTextRenderComponent.Text
 msgctxt ",572EA9904B8BDEA2C618DC9E26C9E763"
 msgid "MarvelMaster water system"
-msgstr ""
+msgstr "نظام مارفيل ماستر المائي"
 
 #. Key:	574F7F7E4DC9A89EB37A81B118DFF9C2
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
 msgctxt ",574F7F7E4DC9A89EB37A81B118DFF9C2"
 msgid "Thou must never allow the desert man in black armor to lay his hands on the sacred Triforce...."
-msgstr ""
+msgstr "يجب عليك أن لا تسمح أبدا لرجل الصحراء ذو الدرع الأسود أن يضع يده على تريفورس المقدسة...."
 
 #. Key:	57D80F0A4989D1A0E161898B7F7C4C4A
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KakarikoVillage.KakarikoVillage:PersistentLevel.Iwata_2.text1
@@ -1677,126 +1677,126 @@ msgstr ""
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/Outside/ZeldacastleBackyard.ZeldacastleBackyard:PersistentLevel.Malon_3.text4
 msgctxt ",580AB33F49B831AEBBB1738D59F03057"
 msgid "I have been incubating this egg very carefully."
-msgstr ""
+msgstr "لقد قمت بحضانة هذه البيضة للتفقيس بحذر شديد."
 
 #. Key:	582DC77F4B408B16A17CE1AFDEF1B1DC
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:OnRep_GotStick [Script Bytecode]
 #: /Game/ZELDA/Blueprints/ChildLink.ChildLink_C:OnRep_GotStick [Script Bytecode]
 msgctxt ",582DC77F4B408B16A17CE1AFDEF1B1DC"
 msgid "You got a Deku Stick !  \r\n You can select it in the Item subscreen."
-msgstr ""
+msgstr "لقد حصلت على عصا ديكو ! \r\n تستطيع أختيارها من الشاشة الفرعية للمواد."
 
 #. Key:	5835FDD841EB6547337350A1B33319FF
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/MainMenuFinalWidget.MainMenuFinalWidget_C:WidgetTree.TextBlock_363.Text
 #: /Game/ZELDA/PauseMenu/MainMenu/MainMenuFinalWidget.MainMenuFinalWidget_C:WidgetTree.TextBlock_363.Text
 msgctxt ",5835FDD841EB6547337350A1B33319FF"
 msgid "Main Menu"
-msgstr ""
+msgstr "القائمة الرئيسية"
 
 #. Key:	5979930C41A2DA5C4A406D87F692D6F7
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/StartMenu.StartMenu_C:WidgetTree.TextBlock_1.Text
 #: /Game/ZELDA/Blueprints/ShopKeeper/StartMenu.StartMenu_C:WidgetTree.TextBlock_1.Text
 msgctxt ",5979930C41A2DA5C4A406D87F692D6F7"
 msgid "Load Game"
-msgstr ""
+msgstr "تحميل اللعبة"
 
 #. Key:	5A67DB3E41503F7C71C740BA6EC08BA1
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Shop.Shop_C:ExecuteUbergraph_Shop [Script Bytecode]
 #: /Game/ZELDA/Blueprints/ShopKeeper/Shop.Shop_C:ExecuteUbergraph_Shop [Script Bytecode]
 msgctxt ",5A67DB3E41503F7C71C740BA6EC08BA1"
 msgid "Decide"
-msgstr ""
+msgstr "قرر"
 
 #. Key:	5A8223CB4D9784D03680A0AEAD1B2E6C
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/resolution.resolution_C:WidgetTree.TextBlock_0.Text
 #: /Game/ZELDA/PauseMenu/MainMenu/resolution.resolution_C:WidgetTree.TextBlock_0.Text
 msgctxt ",5A8223CB4D9784D03680A0AEAD1B2E6C"
 msgid "Fullscreen"
-msgstr ""
+msgstr "وضع ملء الشاشة"
 
 #. Key:	5B8C7C154AE680FE9BAD0AA2E759D22F
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL2.ItemsL2.DisplayNameMap(2 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL2.ItemsL2.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",5B8C7C154AE680FE9BAD0AA2E759D22F"
 msgid "Slingshot"
-msgstr ""
+msgstr "مقلاع"
 
 #. Key:	5BF462E345BDF37CD32B1AAF954C9A8C
 #. SourceLocation:	/Game/ZELDA/Blueprints/Items/rubeeImage/rubee/RupeeColor_Enum.RupeeColor_Enum.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/Items/rubeeImage/rubee/RupeeColor_Enum.RupeeColor_Enum.DisplayNameMap(3 - Value).DisplayNameMap
 msgctxt ",5BF462E345BDF37CD32B1AAF954C9A8C"
 msgid "Purple"
-msgstr ""
+msgstr "بنفسجي"
 
 #. Key:	5C051135484537A58A2D37AE369F388E
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:StartDialogue [Script Bytecode]
 #: /Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:StartDialogue [Script Bytecode]
 msgctxt ",5C051135484537A58A2D37AE369F388E"
 msgid "You got a Deku Stick ! You can select it in the Item subscreen."
-msgstr ""
+msgstr "لقد حصلت على عصا ديكو ! تستطيع أختيارها من الشاشة الفرعية للمواد."
 
 #. Key:	5C218F074342F4DFBA8F7D9647015A43
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR3.ItemsR3.DisplayNameMap(7 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR3.ItemsR3.DisplayNameMap(7 - Value).DisplayNameMap
 msgctxt ",5C218F074342F4DFBA8F7D9647015A43"
 msgid "None"
-msgstr ""
+msgstr "لا شيء"
 
 #. Key:	5CD5041348768839874312BD37D82220
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1.Text
 #: /Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1.Text
 msgctxt ",5CD5041348768839874312BD37D82220"
 msgid "Attack"
-msgstr ""
+msgstr "هجوم"
 
 #. Key:	5CE60C6246D459942A09898B0A425CAC
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
 #: /Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
 msgctxt ",5CE60C6246D459942A09898B0A425CAC"
 msgid "you cant do anything with it, just wait until the egg will hatch !\r\nwait till tomorrow!"
-msgstr ""
+msgstr "لا تستطيع فعل أي شيء به, فقط أنتظر حتى تفقس البيضة !\r\nأنتظر حتى الصباح!"
 
 #. Key:	5D9DDE8C44A792444D1D33BBC5935928
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
 #: /Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
 msgctxt ",5D9DDE8C44A792444D1D33BBC5935928"
 msgid "Next"
-msgstr ""
+msgstr "التالي"
 
 #. Key:	5EABBA014DECAC6ABBE755A49EE14161
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/LostWoods_CPP.LostWoods_CPP:PersistentLevel.TalkToActors_GEN_VARIABLE_TalkToActors_C_CAT_1866.text1
 #: /Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/LostWoods_CPP.LostWoods_CPP:PersistentLevel.TalkToActors_GEN_VARIABLE_TalkToActors_C_CAT_1866.text1
 msgctxt ",5EABBA014DECAC6ABBE755A49EE14161"
 msgid "Please help me................"
-msgstr ""
+msgstr "رجاءا ساعدني.............."
 
 #. Key:	5F3204E94BE49BB24121DBBD58E46335
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor3.NewTextRenderComponent.Text
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor3.NewTextRenderComponent.Text
 msgctxt ",5F3204E94BE49BB24121DBBD58E46335"
 msgid "items here to test:"
-msgstr ""
+msgstr "المواد هنا للأختبار:"
 
 #. Key:	5F563E2F4E9677794A5750B5173E013B
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Shop_Enum.Shop_Enum.DisplayNameMap(0 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Shop_Enum.Shop_Enum.DisplayNameMap(0 - Value).DisplayNameMap
 msgctxt ",5F563E2F4E9677794A5750B5173E013B"
 msgid "Item1R"
-msgstr ""
+msgstr "مادة1أر"
 
 #. Key:	5F8E56A748D208FA3DE73396BA7A78F4
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
 msgctxt ",5F8E56A748D208FA3DE73396BA7A78F4"
 msgid "Because of that curse, my end is nigh........"
-msgstr ""
+msgstr "بسبب هذه اللعنة, نهايتي قريبة......."
 
 #. Key:	611A278E476725885FCE42A9C3E691EF
 #. SourceLocation:	/Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock_10.Text
 #: /Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock_10.Text
 msgctxt ",611A278E476725885FCE42A9C3E691EF"
 msgid "Improved Contrast"
-msgstr ""
+msgstr "تحسين التباين"
 
 #. Key:	612E91AB43792D5973DF8CBF92CB7F97
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KakarikoGraveyard.KakarikoGraveyard:PersistentLevel.SimpleDialogue4.Text
@@ -1810,7 +1810,7 @@ msgstr ""
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/Outside/ZeldacastleBackyard.ZeldacastleBackyard:PersistentLevel.talon_pawn_2.text1
 msgctxt ",618751C644EED204ED2F309C6926D488"
 msgid "ZZZZzzzZzzzzzzZZzZzZZZZZzzzzZz"
-msgstr ""
+msgstr "زززززززززززززززززززززززززززز"
 
 #. Key:	61F8B0CF41D9E5D718F360B166A41BDB
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectLeft2.iTEMSelectLeft2_C:ExecuteUbergraph_iTEMSelectLeft2 [Script Bytecode]
@@ -1831,77 +1831,77 @@ msgstr ""
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard:PersistentLevel.Zelda_Pawn_2.text1
 msgctxt ",62848B3040F7924F319CA6BEF2824256"
 msgid "please becareful link!"
-msgstr ""
+msgstr "أرجوك كن حذر لنك!"
 
 #. Key:	62AD678C4971E9E8135DD08F5BAB30F4
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
 #: /Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
 msgctxt ",62AD678C4971E9E8135DD08F5BAB30F4"
 msgid "Thats the letter from Zelda,\r\na message for a Guard in Kakariko village."
-msgstr ""
+msgstr "هذه الرسالة من زيلدا, \r\nرسالة للحترس في قرية كاكاريكو."
 
 #. Key:	63DA914E4EB3159B7B3A80A219F3BAF6
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Welcome.Welcome_C:WidgetTree.TextBlock_2.Text
 #: /Game/ZELDA/Blueprints/ShopKeeper/Welcome.Welcome_C:WidgetTree.TextBlock_2.Text
 msgctxt ",63DA914E4EB3159B7B3A80A219F3BAF6"
 msgid "Quit "
-msgstr ""
+msgstr "غادر"
 
 #. Key:	649D845A4B8E98DD4209EEACFA57A897
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/KokiriForest_CPP.KokiriForest_CPP:PersistentLevel.SignWood6_1596.Text1
 #: /Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/KokiriForest_CPP.KokiriForest_CPP:PersistentLevel.SignWood6_1596.Text1
 msgctxt ",649D845A4B8E98DD4209EEACFA57A897"
 msgid "Links House"
-msgstr ""
+msgstr "منزل لنك"
 
 #. Key:	64AC84D744246F4416C5B2A539652A8B
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectRight.iTEMSelectRight_C:ExecuteUbergraph_iTEMSelectRight [Script Bytecode]
 #: /Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectRight.iTEMSelectRight_C:ExecuteUbergraph_iTEMSelectRight [Script Bytecode]
 msgctxt ",64AC84D744246F4416C5B2A539652A8B"
 msgid "Deku Stick (  1 piece )   10 Rupees"
-msgstr ""
+msgstr "عصا ديكو ( قطعة واحدة )  10 روبية"
 
 #. Key:	64AEB59B4C66533B02627AA5DD11DB2B
 #. SourceLocation:	/Game/ZELDA/Maps/TrainingLevel/Training.Training_C:ExecuteUbergraph_Training [Script Bytecode]
 #: /Game/ZELDA/Maps/TrainingLevel/Training.Training_C:ExecuteUbergraph_Training [Script Bytecode]
 msgctxt ",64AEB59B4C66533B02627AA5DD11DB2B"
 msgid "Do you want to start training?"
-msgstr ""
+msgstr "هل تريد البدأ بالتدريب؟"
 
 #. Key:	6536E6FF40E0F54474A8BAAC1E1879B4
 #. SourceLocation:	/Game/ZELDA/Blueprints/Items/Small_Treasure/SmallChestItems.SmallChestItems.DisplayNameMap(6 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/Items/Small_Treasure/SmallChestItems.SmallChestItems.DisplayNameMap(6 - Value).DisplayNameMap
 msgctxt ",6536E6FF40E0F54474A8BAAC1E1879B4"
 msgid "Heart"
-msgstr ""
+msgstr "القلب"
 
 #. Key:	65BF54A148F7DDC1D96FE983F07122AF
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/KokiriForest_CPP.KokiriForest_CPP:PersistentLevel.WomanBP_422.Text1
 #: /Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/KokiriForest_CPP.KokiriForest_CPP:PersistentLevel.WomanBP_422.Text1
 msgctxt ",65BF54A148F7DDC1D96FE983F07122AF"
 msgid "Look up Link !, Press S ( Keyboard ) or the Shoulder buttons to Target me"
-msgstr ""
+msgstr "أنظر لنك !, أضغط أس ( لوحة المفاتيح ) أو زر شولدر لأستهدافي"
 
 #. Key:	667EAEED4831D21A42FE2E8649AE8F62
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Welcome.Welcome_C:WidgetTree.TypingText.Text
 #: /Game/ZELDA/Blueprints/ShopKeeper/Welcome.Welcome_C:WidgetTree.TypingText.Text
 msgctxt ",667EAEED4831D21A42FE2E8649AE8F62"
 msgid "Welcome"
-msgstr ""
+msgstr "أهلا بك"
 
 #. Key:	66826C8249C789EAB4FB0B8F2C60A00A
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Shop_Enum.Shop_Enum.DisplayNameMap(5 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Shop_Enum.Shop_Enum.DisplayNameMap(5 - Value).DisplayNameMap
 msgctxt ",66826C8249C789EAB4FB0B8F2C60A00A"
 msgid "Item2L"
-msgstr ""
+msgstr "مادة2أل"
 
 #. Key:	66B535B94B70A526AA3A57B74DB665D2
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
 #: /Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
 msgctxt ",66B535B94B70A526AA3A57B74DB665D2"
 msgid "Push"
-msgstr ""
+msgstr "أدفع"
 
 #. Key:	66CB151D47413A0FBEA81585938F8D65
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KakarikoGraveyard.KakarikoGraveyard:PersistentLevel.SimpleDialogue2.Text
@@ -1915,336 +1915,336 @@ msgstr ""
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",676C28144AD1B64D1EF17AB589B08A98"
 msgid "Let's get the Triforce before Ganondorf does, and then defeat him!"
-msgstr ""
+msgstr "لنحصل على تريفورس قبل جانودورف, وبعدها نهزمه!"
 
 #. Key:	6783E0C64550F3A61D24ECA7B386176C
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",6783E0C64550F3A61D24ECA7B386176C"
 msgid "there is mysterious power in these notes."
-msgstr ""
+msgstr "توجد قوة غامضة في هذه الملاحظات."
 
 #. Key:	67A4644242788409E9E33380873AD1AA
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/MainMenuZelda/Main_BP.Main_BP_C:WidgetTree.TextBlock_4.Text
 #: /Game/ZELDA/CPP_Environment/Maps/MainMenuZelda/Main_BP.Main_BP_C:WidgetTree.TextBlock_4.Text
 msgctxt ",67A4644242788409E9E33380873AD1AA"
 msgid "Lost Woods"
-msgstr ""
+msgstr "الغابة الضائعة"
 
 #. Key:	681158404AC046C0229E9AB93D2BDA61
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",681158404AC046C0229E9AB93D2BDA61"
 msgid "He doesn't have any idea what we 're planning yet!!"
-msgstr ""
+msgstr "هو لا يمتلك أي فكرة عن ما نخطط له بعد!!"
 
 #. Key:	68426B6F448403920A66DC8CBB24D1A2
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/VideoSettings.VideoSettings_C:WidgetTree.TextBlock_161.Text
 #: /Game/ZELDA/PauseMenu/MainMenu/VideoSettings.VideoSettings_C:WidgetTree.TextBlock_161.Text
 msgctxt ",68426B6F448403920A66DC8CBB24D1A2"
 msgid "Benchmark"
-msgstr ""
+msgstr "المعيار"
 
 #. Key:	6AEA0AEB461FA4BA6869F899200CABD5
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/HUD/Ocarina_HUD/OcarinaNotes_HUD_BP.Default__OcarinaNotes_HUD_BP_C.PlayedSong
 #: /Game/ZELDA/CPP_Environment/HUD/Ocarina_HUD/OcarinaNotes_HUD_BP.Default__OcarinaNotes_HUD_BP_C.PlayedSong
 msgctxt ",6AEA0AEB461FA4BA6869F899200CABD5"
 msgid "You Played"
-msgstr ""
+msgstr "أنت لعبت"
 
 #. Key:	6B4781CF4BF27D80D75A759481A6F75D
 #. SourceLocation:	/Game/ZELDA/Blueprints/TypingWidget.TypingWidget_C:WidgetTree.TypingText.Text
 #: /Game/ZELDA/Blueprints/TypingWidget.TypingWidget_C:WidgetTree.TypingText.Text
 msgctxt ",6B4781CF4BF27D80D75A759481A6F75D"
 msgid "Typing....    "
-msgstr ""
+msgstr "يطبع...."
 
 #. Key:	6B4F777A4F9F081C4257FD8825DC8857
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/KokiriForest_CPP.KokiriForest_CPP:PersistentLevel.SignWood2_425.Text1
 #: /Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/KokiriForest_CPP.KokiriForest_CPP:PersistentLevel.SignWood2_425.Text1
 msgctxt ",6B4F777A4F9F081C4257FD8825DC8857"
 msgid "                        Twin House"
-msgstr ""
+msgstr "                       منزل التوأم"
 
 #. Key:	6B72DD5B4A51FA53B9BD2EBF93459E36
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/VideoSettings.VideoSettings_C:WidgetTree.TextBlock_52.Text
 #: /Game/ZELDA/PauseMenu/MainMenu/VideoSettings.VideoSettings_C:WidgetTree.TextBlock_52.Text
 msgctxt ",6B72DD5B4A51FA53B9BD2EBF93459E36"
 msgid "CryZENx Settings"
-msgstr ""
+msgstr "cryZENx أعدادات"
 
 #. Key:	6CE7C504423C3C4B38B7708AAFF9215B
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/VideoSettings.VideoSettings_C:WidgetTree.TextBlock_159.Text
 #: /Game/ZELDA/PauseMenu/MainMenu/VideoSettings.VideoSettings_C:WidgetTree.TextBlock_159.Text
 msgctxt ",6CE7C504423C3C4B38B7708AAFF9215B"
 msgid "for PC High end"
-msgstr ""
+msgstr "للحاسبة النهاية العليا"
 
 #. Key:	6E4193C54C4C5594506A079253935506
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/World_Objects/Chests/Chest_BP.Chest_BP_C:ExecuteUbergraph_Chest_BP [Script Bytecode]
 #: /Game/ZELDA/CPP_Environment/World_Objects/Chests/Chest_BP.Chest_BP_C:ExecuteUbergraph_Chest_BP [Script Bytecode]
 msgctxt ",6E4193C54C4C5594506A079253935506"
 msgid "Next"
-msgstr ""
+msgstr "التالي"
 
 #. Key:	6EDAE27243C10628556B038A908793B2
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor11_15.NewTextRenderComponent.Text
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor11_15.NewTextRenderComponent.Text
 msgctxt ",6EDAE27243C10628556B038A908793B2"
 msgid "-------->"
-msgstr ""
+msgstr "-------->"
 
 #. Key:	6EE8BFAB441DB4800E1A54A3DF478F94
 #. SourceLocation:	/Game/ZELDA/CharacterModels/Mido/BossBP.Default__BossBP_C.text1
 #: /Game/ZELDA/CharacterModels/Mido/BossBP.Default__BossBP_C.text1
 msgctxt ",6EE8BFAB441DB4800E1A54A3DF478F94"
 msgid "Hey you! \"Mr. No Fairy! \"What's your business with the Great Deku Tree?????"
-msgstr ""
+msgstr "يا أنت! \"سيد بدون جنية! ما عملك بشجرة ديكو العظيمة؟؟؟؟؟"
 
 #. Key:	6FD083F44D728E05059EE6A7CA663DD8
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
 msgctxt ",6FD083F44D728E05059EE6A7CA663DD8"
 msgid "I knew that thou you wouldest be able to carry my wishes"
-msgstr ""
+msgstr "كنت أعلم أنك ستكون قادر على حمل أمنياتي"
 
 #. Key:	702CE5274A76D3D1F920A8BE06663CB1
 #. SourceLocation:	/Game/ZELDA/ZbrushModels/HyruleMarket/ZeldaCastle/ZeldaRoom/TrifoceScene/TriforceModel/Triforce.Triforce_C:ExecuteUbergraph_Triforce [Script Bytecode]
 #: /Game/ZELDA/ZbrushModels/HyruleMarket/ZeldaCastle/ZeldaRoom/TrifoceScene/TriforceModel/Triforce.Triforce_C:ExecuteUbergraph_Triforce [Script Bytecode]
 msgctxt ",702CE5274A76D3D1F920A8BE06663CB1"
 msgid "The Power to grant the wish of the one who holds the Triforce in his hands."
-msgstr ""
+msgstr "القوة لتحقيق الامنية التي يمتلكها الشخص الذي يحمل التريفورس بيده."
 
 #. Key:	7064720E494BE4C6F8ED8489205105B7
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",7064720E494BE4C6F8ED8489205105B7"
 msgid "He has  such terrifying power!"
-msgstr ""
+msgstr "هو يمتلك قوة جدا مخيفة"
 
 #. Key:	717B58C84251BEB4DF4C1AA8700F5A0A
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/SelectedFile.SelectedFile_C:WidgetTree.SaveGameSlot.Text
 #: /Game/ZELDA/PauseMenu/MainMenu/SelectedFile.SelectedFile_C:WidgetTree.SaveGameSlot.Text
 msgctxt ",717B58C84251BEB4DF4C1AA8700F5A0A"
 msgid "Slot"
-msgstr ""
+msgstr "فتحة"
 
 #. Key:	7185D9D94561B0E3467877B4B25B39E6
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/NPCs/Talon/Talon_BP.Talon_BP_C:ExecuteUbergraph_Talon_BP [Script Bytecode]
 #: /Game/ZELDA/CPP_Environment/Characters/NPCs/Talon/Talon_BP.Talon_BP_C:ExecuteUbergraph_Talon_BP [Script Bytecode]
 msgctxt ",7185D9D94561B0E3467877B4B25B39E6"
 msgid "Hello, and who might you be?"
-msgstr ""
+msgstr "مرحبا, ومن تكون أنت؟"
 
 #. Key:	71990A31409D908B069A489EC7BE7E43
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",71990A31409D908B069A489EC7BE7E43"
 msgid "What happend??? Did he see you??"
-msgstr ""
+msgstr "ماذا حدث؟؟؟ هل راك؟؟"
 
 #. Key:	71C6D18D4BEADCC9B8292FBCB1F49AEE
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",71C6D18D4BEADCC9B8292FBCB1F49AEE"
 msgid "I told my father about my dream......"
-msgstr ""
+msgstr "أخبرت والدي عن حلمي......"
 
 #. Key:	71F893A8495118F5DDE588AA4A13B5E0
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.FairyHelp_2.Text
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.FairyHelp_2.Text
 msgctxt ",71F893A8495118F5DDE588AA4A13B5E0"
 msgid "Oh Link ! It's a test map !"
-msgstr ""
+msgstr "أوه لنك ! أنها خريطة الأختبار !"
 
 #. Key:	71FA913649764CEA0E83F7B76DFE5149
 #. SourceLocation:	/Game/ZELDA/Blueprints/Items/Small_Treasure/SmallChestItems.SmallChestItems.DisplayNameMap(0 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/Items/Small_Treasure/SmallChestItems.SmallChestItems.DisplayNameMap(0 - Value).DisplayNameMap
 msgctxt ",71FA913649764CEA0E83F7B76DFE5149"
 msgid "Green Rupee"
-msgstr ""
+msgstr "روبية خضراء"
 
 #. Key:	720AC6FD4018C485602AB8B6F05CC0DC
 #. SourceLocation:	/Game/ZELDA/CharacterModels/Goron/GoronN64/GoronN64.Default__GoronN64_C.Text
 #: /Game/ZELDA/CharacterModels/Goron/GoronN64/GoronN64.Default__GoronN64_C.Text
 msgctxt ",720AC6FD4018C485602AB8B6F05CC0DC"
 msgid "Hey Link , welcome in our Goron City!"
-msgstr ""
+msgstr "لنك , أهلا بك في مدينة جورون!"
 
 #. Key:	72512B5443C864F8119F68B53619467D
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Misc/Dialog_System/Dialog_System_BP.Default__Dialog_System_BP_C.Text2
 #: /Game/ZELDA/CPP_Environment/Misc/Dialog_System/Dialog_System_BP.Default__Dialog_System_BP_C.Text2
 msgctxt ",72512B5443C864F8119F68B53619467D"
 msgid "Teeeeeeeeeeeeeeeest"
-msgstr ""
+msgstr "أختبااااااااااااااار"
 
 #. Key:	72C00D314B799E0D44DC11AE03C21690
 #. SourceLocation:	/Game/ZELDA/Blueprints/Items/rubeeImage/rubee/RupeeColor_Enum.RupeeColor_Enum.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/Items/rubeeImage/rubee/RupeeColor_Enum.RupeeColor_Enum.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",72C00D314B799E0D44DC11AE03C21690"
 msgid "Blue"
-msgstr ""
+msgstr "أزرق"
 
 #. Key:	72C15E314366167F24A2EDBBBCB7A9B0
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
 #: /Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
 msgctxt ",72C15E314366167F24A2EDBBBCB7A9B0"
 msgid "Decide"
-msgstr ""
+msgstr "قرر"
 
 #. Key:	7319E39D4383C5FB0FD9D9BBA8CBE75E
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL4.ItemsL4.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL4.ItemsL4.DisplayNameMap(3 - Value).DisplayNameMap
 msgctxt ",7319E39D4383C5FB0FD9D9BBA8CBE75E"
 msgid "Arrow1"
-msgstr ""
+msgstr "سهم1"
 
 #. Key:	73790A2E46C7DB93BA0D3CAC990C7D3C
 #. SourceLocation:	/Game/ZELDA/Blueprints/Items/Treasure/Traseure.Traseure_C:ExecuteUbergraph_Traseure [Script Bytecode]
 #: /Game/ZELDA/Blueprints/Items/Treasure/Traseure.Traseure_C:ExecuteUbergraph_Traseure [Script Bytecode]
 msgctxt ",73790A2E46C7DB93BA0D3CAC990C7D3C"
 msgid "You got a Pizza,  On the Item Subscreen, select it with Q W or E !"
-msgstr ""
+msgstr "حصلت على بيتزا, في الشاشة الفرعية للمواد, أختره من Q W أو E !"
 
 #. Key:	73B78FB442C2B7E10EE3C4B9C15DA709
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:OnRep_GotEgg [Script Bytecode]
 #: /Game/ZELDA/Blueprints/ChildLink.ChildLink_C:OnRep_GotEgg [Script Bytecode]
 msgctxt ",73B78FB442C2B7E10EE3C4B9C15DA709"
 msgid "You got a Egg !\r\nWait the next day and it will hatch."
-msgstr ""
+msgstr "حصلت على بيضة !\r\nأنتظر لليوم التالي وسوف تفقس."
 
 #. Key:	73FFF95348339FF0ADB976803681DF9B
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/World_Objects/Chests/Small_Chest_BP.Small_Chest_BP_C:ExecuteUbergraph_Small_Chest_BP [Script Bytecode]
 #: /Game/ZELDA/CPP_Environment/World_Objects/Chests/Small_Chest_BP.Small_Chest_BP_C:ExecuteUbergraph_Small_Chest_BP [Script Bytecode]
 msgctxt ",73FFF95348339FF0ADB976803681DF9B"
 msgid "You got a Purple Rupee!\r\nThat's FIFTY Rupees!"
-msgstr ""
+msgstr "حصلت على روبية بنفسجية!\r\nهذه خمسين روبية!"
 
 #. Key:	753107F44695B124297FB0BF1ADDDA47
 #. SourceLocation:	/Game/ZELDA/Blueprints/Items/Small_Treasure/SmallChestItems.SmallChestItems.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/Items/Small_Treasure/SmallChestItems.SmallChestItems.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",753107F44695B124297FB0BF1ADDDA47"
 msgid "Blue Rupee"
-msgstr ""
+msgstr "روبية زرقاء"
 
 #. Key:	753D0DFA495337E0481C2BBEE80A52D4
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Shop_Enum.Shop_Enum.DisplayNameMap(6 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Shop_Enum.Shop_Enum.DisplayNameMap(6 - Value).DisplayNameMap
 msgctxt ",753D0DFA495337E0481C2BBEE80A52D4"
 msgid "Item3L"
-msgstr ""
+msgstr "مادة3أل"
 
 #. Key:	756BE0B24C0CD0E5BF0AB5A6929B333E
 #. SourceLocation:	/Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.ResolutuionIndicator.Text
 #: /Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.ResolutuionIndicator.Text
 msgctxt ",756BE0B24C0CD0E5BF0AB5A6929B333E"
 msgid "100"
-msgstr ""
+msgstr "100"
 
 #. Key:	75E420C74DFF0CF1F596E4BB268FE6C5
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/Options.Options_C:WidgetTree.TextBlock_3.Text
 #: /Game/ZELDA/PauseMenu/MainMenu/Options.Options_C:WidgetTree.TextBlock_3.Text
 msgctxt ",75E420C74DFF0CF1F596E4BB268FE6C5"
 msgid "Graphics"
-msgstr ""
+msgstr "الجرافيك"
 
 #. Key:	761430CE43BC04E70AA038BF94078676
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",761430CE43BC04E70AA038BF94078676"
 msgid "Please keep this a secret from everyone......"
-msgstr ""
+msgstr "أرجوك أحفظ ذلك سرا عن الجميع.........."
 
 #. Key:	7634D39B440531FC5F6ADCA8D56D60E3
 #. SourceLocation:	/Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock.Text
 #: /Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock.Text
 msgctxt ",7634D39B440531FC5F6ADCA8D56D60E3"
 msgid "Antialiasing"
-msgstr ""
+msgstr "مكافحة التعرج"
 
 #. Key:	768CB4AD4806A5FB797E68BBAF77C0EF
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectLeft2.iTEMSelectLeft2_C:ExecuteUbergraph_iTEMSelectLeft2 [Script Bytecode]
 #: /Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectLeft2.iTEMSelectLeft2_C:ExecuteUbergraph_iTEMSelectLeft2 [Script Bytecode]
 msgctxt ",768CB4AD4806A5FB797E68BBAF77C0EF"
 msgid "Deku Seed ( 30 pieces ) 30 Rupees"
-msgstr ""
+msgstr "بذرة ديكو ( 30 قطعة ) 30 روبية"
 
 #. Key:	769CF548471AC6239E3564A20C9905E7
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectRight.iTEMSelectRight_C:ExecuteUbergraph_iTEMSelectRight [Script Bytecode]
 #: /Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectRight.iTEMSelectRight_C:ExecuteUbergraph_iTEMSelectRight [Script Bytecode]
 msgctxt ",769CF548471AC6239E3564A20C9905E7"
 msgid "A long branch gathered from the Great Deku Tree. \r\nYou can use it as a weapon, but it will break."
-msgstr ""
+msgstr "فرع طويل تجمع من شجرة ديكو العظيمة. \r\nتستطيع أستخدامه كسلاح, لكن سوف ينكسر."
 
 #. Key:	7739C1C74DE61D15E92947880567A936
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:GotStickFunction [Script Bytecode]
 #: /Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:GotStickFunction [Script Bytecode]
 msgctxt ",7739C1C74DE61D15E92947880567A936"
 msgid "You got a Deku Stick !  \r\n You can select it in the Item subscreen."
-msgstr ""
+msgstr "حصلت على عصا ديكو ! \r\n تستطيع أختيارها من الشاشة الفرعية للمواد."
 
 #. Key:	775858B0476FE7368D71B585F43E12F7
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/LostWoods.LostWoods_C:ExecuteUbergraph_LostWoods [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/LostWoods.LostWoods_C:ExecuteUbergraph_LostWoods [Script Bytecode]
 msgctxt ",775858B0476FE7368D71B585F43E12F7"
 msgid "I knew, \r\nthat you would leave the Kokiri Forest...\r\nsomeday Link....."
-msgstr ""
+msgstr "لقد علمت, \r\nأنك سوف تترك غابة كوكيري...\r\nيوما ما لنك"
 
 #. Key:	77824C4341CEF79F9070A5864FB07E3B
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor25.NewTextRenderComponent.Text
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor25.NewTextRenderComponent.Text
 msgctxt ",77824C4341CEF79F9070A5864FB07E3B"
 msgid "Purple\r\nRupee"
-msgstr ""
+msgstr "بنفسجي\r\nروبية"
 
 #. Key:	77B2440D4F5964CD7C592BA8C93C5AB7
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/QuestionWid.QuestionWid_C:WidgetTree.TextBlock_1.Text
 #: /Game/ZELDA/Blueprints/ShopKeeper/QuestionWid.QuestionWid_C:WidgetTree.TextBlock_1.Text
 msgctxt ",77B2440D4F5964CD7C592BA8C93C5AB7"
 msgid "Yes"
-msgstr ""
+msgstr "نعم"
 
 #. Key:	77BBC31C487B3B788EE82BAAD6B23891
 #. SourceLocation:	/Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.Header.Text
 #: /Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.Header.Text
 msgctxt ",77BBC31C487B3B788EE82BAAD6B23891"
 msgid "Advanced Graphics Options"
-msgstr ""
+msgstr "خيارات جرافيك متقدمة"
 
 #. Key:	780BB29E4142636E5D1987A226149C29
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/KokiriForest_CPP.KokiriForest_CPP:PersistentLevel.WomanBP2_686.Text1
 #: /Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/KokiriForest_CPP.KokiriForest_CPP:PersistentLevel.WomanBP2_686.Text1
 msgctxt ",780BB29E4142636E5D1987A226149C29"
 msgid "Hey Link, finally you woke up,\r\ngreat to see you again ! "
-msgstr ""
+msgstr "يا لنك, لقد استيقظت أخيرا,\r\nمن الرائع رؤيتك مجددا !"
 
 #. Key:	7824B5134B5DD01D96DD7A86BF957785
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",7824B5134B5DD01D96DD7A86BF957785"
 msgid "Oh im sorry"
-msgstr ""
+msgstr "أوه أنا أسف"
 
 #. Key:	787E416546A9CBEACB7C72ACC9CFE438
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor15_3.NewTextRenderComponent.Text
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor15_3.NewTextRenderComponent.Text
 msgctxt ",787E416546A9CBEACB7C72ACC9CFE438"
 msgid "GREEN SCREEN"
-msgstr ""
+msgstr "شاشة خضراء"
 
 #. Key:	790279EC431973B26070358435F4FB97
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Misc/Dialog_System/Dialog_System_BP.Default__Dialog_System_BP_C.Text4
 #: /Game/ZELDA/CPP_Environment/Misc/Dialog_System/Dialog_System_BP.Default__Dialog_System_BP_C.Text4
 msgctxt ",790279EC431973B26070358435F4FB97"
 msgid "Teeeeeeeeeeeeeeeest"
-msgstr ""
+msgstr "أختباااااااااااااار"
 
 #. Key:	793B31484CBC2C83AA6D20A51B237505
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
 msgctxt ",793B31484CBC2C83AA6D20A51B237505"
 msgid "Yes.... i will pass away soon...\r\nBut do not grieve for me."
-msgstr ""
+msgstr "نعم.... سوف أموت قريبا...\r\nلكن لا تحزن علي."
 
 #. Key:	797EDFD04CCA9214EBD74EBFE08172E4
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectLeft2.iTEMSelectLeft2_C:ExecuteUbergraph_iTEMSelectLeft2 [Script Bytecode]
@@ -2272,112 +2272,112 @@ msgstr ""
 #: /Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectLeft2.iTEMSelectLeft2_C:ExecuteUbergraph_iTEMSelectLeft2 [Script Bytecode]
 msgctxt ",7B22AAA24C481FF3C2952A8CD1785824"
 msgid "Deku Nuts  ( 5 pieces )     15 Rupeees"
-msgstr ""
+msgstr "بندق ديكو ( 5 قطع )   15 روبية"
 
 #. Key:	7C1882864E42A65489E5C9B6A750A9B4
 #. SourceLocation:	/Game/ZELDA/Maps/MainMenuZelda/Main.Main_C:WidgetTree.TextBlock_1.Text
 #: /Game/ZELDA/Maps/MainMenuZelda/Main.Main_C:WidgetTree.TextBlock_1.Text
 msgctxt ",7C1882864E42A65489E5C9B6A750A9B4"
 msgid "Skip Kokiri Forest"
-msgstr ""
+msgstr "تحطى غابة كوكيري"
 
 #. Key:	7C3F297643E1892C17CAEDAE673BF134
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectRight.iTEMSelectRight_C:ExecuteUbergraph_iTEMSelectRight [Script Bytecode]
 #: /Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectRight.iTEMSelectRight_C:ExecuteUbergraph_iTEMSelectRight [Script Bytecode]
 msgctxt ",7C3F297643E1892C17CAEDAE673BF134"
 msgid "Throw them to stun your enemies. \r\nYou can carry only a limited amount of them."
-msgstr ""
+msgstr "أرميهم لصقع أعدائك. \r\nتستطيع حمل عدد محدد منها فقط."
 
 #. Key:	7C63DDFC4ED04D269E8068A4D1C717C8
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_11.Text
 #: /Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_11.Text
 msgctxt ",7C63DDFC4ED04D269E8068A4D1C717C8"
 msgid "Menu Right"
-msgstr ""
+msgstr "قائمة اليمين"
 
 #. Key:	7D78967F4D3FF4638A923094E093B7AF
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Shop_Enum.Shop_Enum.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Shop_Enum.Shop_Enum.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",7D78967F4D3FF4638A923094E093B7AF"
 msgid "Item2R"
-msgstr ""
+msgstr "مادة2أر"
 
 #. Key:	7F372A774E5EFC3AB01C7785C76F8977
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",7F372A774E5EFC3AB01C7785C76F8977"
 msgid "You are a courageous boy...\r\nYou are heading out on a big, new adventure, aren't you?"
-msgstr ""
+msgstr "أنت صبي شجاع...\r\nأنت تتجه نحو مغامرة كبيرة وجديدة, أليس كذلك؟"
 
 #. Key:	80C5316F43DA7454A2A4E7A9D5EC402B
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL4.ItemsL4.DisplayNameMap(7 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL4.ItemsL4.DisplayNameMap(7 - Value).DisplayNameMap
 msgctxt ",80C5316F43DA7454A2A4E7A9D5EC402B"
 msgid "None"
-msgstr ""
+msgstr "لا شيء"
 
 #. Key:	814860C64E860656AAE8AE95D12610F6
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR1.ItemsR1.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR1.ItemsR1.DisplayNameMap(3 - Value).DisplayNameMap
 msgctxt ",814860C64E860656AAE8AE95D12610F6"
 msgid "Arrow1"
-msgstr ""
+msgstr "سهم1"
 
 #. Key:	81ED6AFA42B3285F4DC38A9A6AB033FC
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/HUD/Options_Menu/InputDevices_UI_BP.Default__InputDevices_UI_BP_C.UpButtonText
 #: /Game/ZELDA/CPP_Environment/HUD/Options_Menu/InputDevices_UI_BP.Default__InputDevices_UI_BP_C.UpButtonText
 msgctxt ",81ED6AFA42B3285F4DC38A9A6AB033FC"
 msgid "No Key"
-msgstr ""
+msgstr "لا يوجد مفتاح"
 
 #. Key:	8247A4594A6A61436E137CB5B73EDADD
 #. SourceLocation:	/Game/ZELDA/CharacterModels/Malon/Malon_2.Default__Malon_2_C.text2
 #: /Game/ZELDA/CharacterModels/Malon/Malon_2.Default__Malon_2_C.text2
 msgctxt ",8247A4594A6A61436E137CB5B73EDADD"
 msgid "Oh.... You are a Fairy boy from the Forest! My name is Malon!  My dad owns Lon Lon Ranch!"
-msgstr ""
+msgstr "أوه.... أنت ولد الجنية من الغابة! أسمي مالون! والدي يمتلك مزرعة لون لون!"
 
 #. Key:	83265B1E4F8CBDF04564BFBB644187D3
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL4.ItemsL4.DisplayNameMap(2 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL4.ItemsL4.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",83265B1E4F8CBDF04564BFBB644187D3"
 msgid "Slingshot"
-msgstr ""
+msgstr "مقلاع"
 
 #. Key:	8349CCB04463394BB905A3BCA5303D97
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR1.ItemsR1.DisplayNameMap(4 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR1.ItemsR1.DisplayNameMap(4 - Value).DisplayNameMap
 msgctxt ",8349CCB04463394BB905A3BCA5303D97"
 msgid "Arrrow2"
-msgstr ""
+msgstr "سهم2"
 
 #. Key:	83BE425445B3AF0EBBE2A88CEFF8554F
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/HUD/Options_Menu/InputDevices_UI_BP.Default__InputDevices_UI_BP_C.DownButtonText
 #: /Game/ZELDA/CPP_Environment/HUD/Options_Menu/InputDevices_UI_BP.Default__InputDevices_UI_BP_C.DownButtonText
 msgctxt ",83BE425445B3AF0EBBE2A88CEFF8554F"
 msgid "No Key"
-msgstr ""
+msgstr "لايوجد مفتاح"
 
 #. Key:	8410A54B476F183EE2BE86A2F220DBC8
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
 msgctxt ",8410A54B476F183EE2BE86A2F220DBC8"
 msgid "Oh, Navi the fairy...\r\nListen to my words, the words of the Deku Tree....."
-msgstr ""
+msgstr "أوه, نافي الجنية...\r\nأصغي لكلماتي, كلمات شجرة ديكو....."
 
 #. Key:	841EF4D44F224E3DD0965B97DEF33CDF
 #. SourceLocation:	/Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock_76.Text
 #: /Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock_76.Text
 msgctxt ",841EF4D44F224E3DD0965B97DEF33CDF"
 msgid "Fullscreen"
-msgstr ""
+msgstr "وضع ملء الشاشة"
 
 #. Key:	847760C548A27932305724909A34ABFC
 #. SourceLocation:	/Game/ZELDA/Blueprints/MiniMap/LevelList.LevelList.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/MiniMap/LevelList.LevelList.DisplayNameMap(3 - Value).DisplayNameMap
 msgctxt ",847760C548A27932305724909A34ABFC"
 msgid "None"
-msgstr ""
+msgstr "لا شيء"
 
 #. Key:	8480FE124C78878C6F934890A60EC759
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR4.ItemsR4.DisplayNameMap(8 - Value).DisplayNameMap
@@ -2391,14 +2391,14 @@ msgstr ""
 #: /Game/ZELDA/PauseMenu/Item_select1.Item_select1_C:WidgetTree.Deku.Text
 msgctxt ",855EC48A4B28DEDFC2A05A858BADE417"
 msgid "99"
-msgstr ""
+msgstr "99"
 
 #. Key:	8601602F4CA88A780264F68625C483DA
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/SelectedFile.SelectedFile_C:WidgetTree.TextBlock_0.Text
 #: /Game/ZELDA/PauseMenu/MainMenu/SelectedFile.SelectedFile_C:WidgetTree.TextBlock_0.Text
 msgctxt ",8601602F4CA88A780264F68625C483DA"
 msgid "Yes"
-msgstr ""
+msgstr "نعم"
 
 #. Key:	86D932B64C0DB296686C37A12CB9DE0D
 #. SourceLocation:	/Game/ZELDA/Maps/TrainingLevel/Training.Training_C:ExecuteUbergraph_Training [Script Bytecode]
@@ -2412,14 +2412,14 @@ msgstr ""
 #: /Game/ZELDA/Blueprints/Items/Small_Treasure/SmallChestItems.SmallChestItems.DisplayNameMap(3 - Value).DisplayNameMap
 msgctxt ",86E275854EF60299F73542AA98E63436"
 msgid "Purple Rupee"
-msgstr ""
+msgstr "روبية بنفسجي"
 
 #. Key:	86E4209D4A09408B63E848AB54995FFF
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/HUD/Options_Menu/InputDevices_UI_BP.InputDevices_UI_BP_C:WidgetTree.MoveUpText.Text
 #: /Game/ZELDA/CPP_Environment/HUD/Options_Menu/InputDevices_UI_BP.InputDevices_UI_BP_C:WidgetTree.MoveUpText.Text
 msgctxt ",86E4209D4A09408B63E848AB54995FFF"
 msgid "No Key"
-msgstr ""
+msgstr "لايوجد مفتاح"
 
 #. Key:	86EBB63242405BD66ABC32A5CA6940A0
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectRight.iTEMSelectRight_C:ExecuteUbergraph_iTEMSelectRight [Script Bytecode]
@@ -2433,252 +2433,252 @@ msgstr ""
 #: /Game/ZELDA/CharacterModels/Malon/Malon_2.Default__Malon_2_C.text1
 msgctxt ",8700BD7540C59ACC1EC1D8A759BEDB23"
 msgid "Hey! Your clothes! They are different... You are not  from around here, are you?"
-msgstr ""
+msgstr "أنت! ملابسك! أنها مختلفة... أنت لست من هنا, أليس كذلك؟"
 
 #. Key:	87365F884B2525BE5C7BC3AE809C2D14
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor21.NewTextRenderComponent.Text
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor21.NewTextRenderComponent.Text
 msgctxt ",87365F884B2525BE5C7BC3AE809C2D14"
 msgid "Small Chests"
-msgstr ""
+msgstr "صناديق صغيرة"
 
 #. Key:	875179B84E10F1BE0851A78EF9394813
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectRight.iTEMSelectRight_C:ExecuteUbergraph_iTEMSelectRight [Script Bytecode]
 #: /Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectRight.iTEMSelectRight_C:ExecuteUbergraph_iTEMSelectRight [Script Bytecode]
 msgctxt ",875179B84E10F1BE0851A78EF9394813"
 msgid "Arrow    ( 10 pieces )   20 Rupees"
-msgstr ""
+msgstr "سهم    ( 10 قطع )    20 روبية"
 
 #. Key:	8759776449F0A6CA5EA92590E57FE742
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",8759776449F0A6CA5EA92590E57FE742"
 msgid "However. he didn't believe it was a prophecy...."
-msgstr ""
+msgstr "ومع ذلك. هو لم يصدق أنها كانت نبوءة...."
 
 #. Key:	878E92874E4B91D93F5552BE5A143574
 #. SourceLocation:	/Game/ZELDA/Blueprints/ExitPrompt_UI.ExitPrompt_UI_C:WidgetTree.TextBlock_1.Text
 #: /Game/ZELDA/Blueprints/ExitPrompt_UI.ExitPrompt_UI_C:WidgetTree.TextBlock_1.Text
 msgctxt ",878E92874E4B91D93F5552BE5A143574"
 msgid "Graphics Settings"
-msgstr ""
+msgstr "أعدادات الجرافيك"
 
 #. Key:	888296ED42F892713926829499AAC24F
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",888296ED42F892713926829499AAC24F"
 msgid "Just as I thought !"
-msgstr ""
+msgstr "تماما كما أعتقدت !"
 
 #. Key:	88FCD82A495B8E4AB906D8B4190C9226
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL3.ItemsL3.DisplayNameMap(5 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL3.ItemsL3.DisplayNameMap(5 - Value).DisplayNameMap
 msgctxt ",88FCD82A495B8E4AB906D8B4190C9226"
 msgid "Heart"
-msgstr ""
+msgstr "القلب"
 
 #. Key:	89366FE4456C248F525B88BCDD5847C2
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR2.ItemsR2.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR2.ItemsR2.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",89366FE4456C248F525B88BCDD5847C2"
 msgid "DekuNuts"
-msgstr ""
+msgstr "بندق ديكو"
 
 #. Key:	897581D1457ED2635663FBA3143F074D
 #. SourceLocation:	/Game/ZELDA/Blueprints/ExitPrompt_UI.ExitPrompt_UI_C:WidgetTree.TextBlock_102.Text
 #: /Game/ZELDA/Blueprints/ExitPrompt_UI.ExitPrompt_UI_C:WidgetTree.TextBlock_102.Text
 msgctxt ",897581D1457ED2635663FBA3143F074D"
 msgid "Edit Controls"
-msgstr ""
+msgstr "تحرير عناصر التحكم"
 
 #. Key:	89813C64425830AA36AAEEAB9F778C5B
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_10.Text
 #: /Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_10.Text
 msgctxt ",89813C64425830AA36AAEEAB9F778C5B"
 msgid "Hud previous"
-msgstr ""
+msgstr "هود السابق"
 
 #. Key:	89A7CC744B6CD6B404233E9888F6DB49
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",89A7CC744B6CD6B404233E9888F6DB49"
 msgid "What Ganondorf is after must be nohting less than  the \r\nTriforce of the Sacred Realm."
-msgstr ""
+msgstr "جرانوندورف بعد ذلك يجب أن يكون لاشيء أقل من\r\nالتريفورس للمملكة المقدسة."
 
 #. Key:	8A1A59774B28CCDC9C5E2FA1F648D286
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/Graphics.Graphics_C:WidgetTree.TextBlock_1.Text
 #: /Game/ZELDA/PauseMenu/MainMenu/Graphics.Graphics_C:WidgetTree.TextBlock_1.Text
 msgctxt ",8A1A59774B28CCDC9C5E2FA1F648D286"
 msgid "Back"
-msgstr ""
+msgstr "رجوع"
 
 #. Key:	8A741AF54AA4D2D3D0ED0997306171C2
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/Options.Options_C:WidgetTree.TextBlock_5.Text
 #: /Game/ZELDA/PauseMenu/MainMenu/Options.Options_C:WidgetTree.TextBlock_5.Text
 msgctxt ",8A741AF54AA4D2D3D0ED0997306171C2"
 msgid "Controls"
-msgstr ""
+msgstr "التحكم"
 
 #. Key:	8B3E342548178133768ED193AC0CC8A9
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Shop_Enum.Shop_Enum.DisplayNameMap(4 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Shop_Enum.Shop_Enum.DisplayNameMap(4 - Value).DisplayNameMap
 msgctxt ",8B3E342548178133768ED193AC0CC8A9"
 msgid "Item1L"
-msgstr ""
+msgstr "مادة1أل"
 
 #. Key:	8B5D0342400C57D43E1032A09629B419
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/MainMenuFinalWidget.MainMenuFinalWidget_C:WidgetTree.TextBlock_110.Text
 #: /Game/ZELDA/PauseMenu/MainMenu/MainMenuFinalWidget.MainMenuFinalWidget_C:WidgetTree.TextBlock_110.Text
 msgctxt ",8B5D0342400C57D43E1032A09629B419"
 msgid "Copyright by Nintendo"
-msgstr ""
+msgstr "حقوق النشر بواسطة نينتيندو"
 
 #. Key:	8BB2B85745296F418B3CD5A261652D5D
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_12.Text
 #: /Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_12.Text
 msgctxt ",8BB2B85745296F418B3CD5A261652D5D"
 msgid "Menu Left"
-msgstr ""
+msgstr "القائمة لليسار"
 
 #. Key:	8BEA2FA547D1A582CEDB90804BEA7E35
 #. SourceLocation:	/Game/ZELDA/Maps/MainMenuZelda/Main.Main_C:WidgetTree.TextBlock_5.Text
 #: /Game/ZELDA/Maps/MainMenuZelda/Main.Main_C:WidgetTree.TextBlock_5.Text
 msgctxt ",8BEA2FA547D1A582CEDB90804BEA7E35"
 msgid "StoryMode"
-msgstr ""
+msgstr "وضع القصة"
 
 #. Key:	8C247674400CD0848CEF079ADED0577F
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL4.ItemsL4.DisplayNameMap(6 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL4.ItemsL4.DisplayNameMap(6 - Value).DisplayNameMap
 msgctxt ",8C247674400CD0848CEF079ADED0577F"
 msgid "Stick"
-msgstr ""
+msgstr "عصا"
 
 #. Key:	8C489C0B4575D87C6A24798F2FB846CA
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
 #: /Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
 msgctxt ",8C489C0B4575D87C6A24798F2FB846CA"
 msgid "Enter"
-msgstr ""
+msgstr "الدخول"
 
 #. Key:	8C8A513F4D615778777061A1B72AA663
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor18.NewTextRenderComponent.Text
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor18.NewTextRenderComponent.Text
 msgctxt ",8C8A513F4D615778777061A1B72AA663"
 msgid "BOMBING AREA"
-msgstr ""
+msgstr "منطقة القصف"
 
 #. Key:	8D2FFCB34EF9F5994C62C69F3223F65D
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Welcome.Welcome_C:ExecuteUbergraph_Welcome [Script Bytecode]
 #: /Game/ZELDA/Blueprints/ShopKeeper/Welcome.Welcome_C:ExecuteUbergraph_Welcome [Script Bytecode]
 msgctxt ",8D2FFCB34EF9F5994C62C69F3223F65D"
 msgid "Speak"
-msgstr ""
+msgstr "تحدث"
 
 #. Key:	8D39E8874CDA998315DDCEB25B458D52
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_8.Text
 #: /Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_8.Text
 msgctxt ",8D39E8874CDA998315DDCEB25B458D52"
 msgid "Z-Target"
-msgstr ""
+msgstr "Z-الهدف"
 
 #. Key:	8D45547B4A4FA5C6695C97AD05AE9A9E
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
 #: /Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
 msgctxt ",8D45547B4A4FA5C6695C97AD05AE9A9E"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #. Key:	8D681A5349466D1E3ABE83808B79EC71
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor12.NewTextRenderComponent.Text
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor12.NewTextRenderComponent.Text
 msgctxt ",8D681A5349466D1E3ABE83808B79EC71"
 msgid "<--------"
-msgstr ""
+msgstr "<--------"
 
 #. Key:	8E85B68D4D496F3780F4ECAB68DCD0B3
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
 #: /Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
 msgctxt ",8E85B68D4D496F3780F4ECAB68DCD0B3"
 msgid "Throw"
-msgstr ""
+msgstr "أرمي"
 
 #. Key:	8EAFB0FD41666348D8DE07BD938F00B7
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR3.ItemsR3.DisplayNameMap(2 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR3.ItemsR3.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",8EAFB0FD41666348D8DE07BD938F00B7"
 msgid "Slingshot"
-msgstr ""
+msgstr "المقلاع"
 
 #. Key:	8FBF5BD641CF8C9BA4AC4B99A37748F9
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
 #: /Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
 msgctxt ",8FBF5BD641CF8C9BA4AC4B99A37748F9"
 msgid "Speak"
-msgstr ""
+msgstr "تحدث"
 
 #. Key:	9043FAF5449C2738DAFE00BE1CDAB8AB
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectLeft2.iTEMSelectLeft2_C:ExecuteUbergraph_iTEMSelectLeft2 [Script Bytecode]
 #: /Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectLeft2.iTEMSelectLeft2_C:ExecuteUbergraph_iTEMSelectLeft2 [Script Bytecode]
 msgctxt ",9043FAF5449C2738DAFE00BE1CDAB8AB"
 msgid "This will instantly refill one Heart Container."
-msgstr ""
+msgstr "هذه ستعيد فورا ملئ صندوق حياة واحد "
 
 #. Key:	905CFA744B794F073E1D6085DE9C9D84
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",905CFA744B794F073E1D6085DE9C9D84"
 msgid "Yes, I thought you might be the one...."
-msgstr ""
+msgstr "نعم, لقد ظننت أنك الشخص المنشود...."
 
 #. Key:	9077346147E3851EC539EFBA65D0B148
 #. SourceLocation:	/Game/ZELDA/Maps/StartupLevel/Languages.Languages.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/ZELDA/Maps/StartupLevel/Languages.Languages.DisplayNameMap(3 - Value).DisplayNameMap
 msgctxt ",9077346147E3851EC539EFBA65D0B148"
 msgid "Russian"
-msgstr ""
+msgstr "روسي"
 
 #. Key:	90FB031B4B8A27D6877041BA907F31B7
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",90FB031B4B8A27D6877041BA907F31B7"
 msgid "The legend goes like this....."
-msgstr ""
+msgstr "الاسطورة يذهب هكذا....."
 
 #. Key:	914D26A3495424B3747A2B8821583A8C
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:GotEggFunction [Script Bytecode]
 #: /Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:GotEggFunction [Script Bytecode]
 msgctxt ",914D26A3495424B3747A2B8821583A8C"
 msgid "You got a Egg !\r\nWait the next day and it will hatch."
-msgstr ""
+msgstr "حصلت هلى بيضة !\r\nأنتظر لليوم التالي وسوف تفقس."
 
 #. Key:	918006FB43E0390479C58D8B0A5DFCB8
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
 #: /Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
 msgctxt ",918006FB43E0390479C58D8B0A5DFCB8"
 msgid "doesnt work here...."
-msgstr ""
+msgstr "لا تعمل هنا...."
 
 #. Key:	920499CC4E4AB5C17C1A0CBD464D1CC6
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",920499CC4E4AB5C17C1A0CBD464D1CC6"
 msgid "Then.....then....you wouldn't happen to have the Spiritual Stone of the Forest, would you?! That green and shining stone....."
-msgstr ""
+msgstr "أذا.....أذا.... لم تكن تملك الحجر الروحي للغابة, أليس كذلك؟! هذه الحجرة الخضراء اللامعة....."
 
 #. Key:	922B3FA740BF657AA9C0DB8014525B5C
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
 #: /Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
 msgctxt ",922B3FA740BF657AA9C0DB8014525B5C"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. Key:	9319210646E040FA73F81D8254631F7A
 #. SourceLocation:	/Game/ZELDA/Enemys/Boss/GOHMAQueen/NewNiagaraSystem1.NewNiagaraSystem1:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_5.DisplayName
 #: /Game/ZELDA/Enemys/Boss/GOHMAQueen/NewNiagaraSystem1.NewNiagaraSystem1:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_5.DisplayName
 msgctxt ",9319210646E040FA73F81D8254631F7A"
 msgid "NewNiagaraEmitter"
-msgstr ""
+msgstr "باعث نياجرا جديد"
 
 #. Key:	936E67104D293ED2FEEC6D9E3AD0D768
 #. SourceLocation:	/Game/ZELDA/Blueprints/SimpleDialogue.Default__SimpleDialogue_C.Text
@@ -2692,105 +2692,105 @@ msgstr ""
 #: /Game/ZELDA/CharacterModels/Mido/BossBP.Default__BossBP_C.text4
 msgctxt ",9376114F4C699EBAA27EF68B9B6F911E"
 msgid "If you want to pass through here, you should at least equip a sword and shield!\r\nSHEEEEEEESH!!"
-msgstr ""
+msgstr "أذا أردت العبور من هنا, يجب على الأقل أن تجهز سيف ودرع!\r\nشييييييييش!!"
 
 #. Key:	93F0A35B4C34FB1E99DE029F17F1F920
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",93F0A35B4C34FB1E99DE029F17F1F920"
 msgid "Strange.... it sounds somehow familiar."
-msgstr ""
+msgstr "غريب.... يبدو مألوفا الى حد ما."
 
 #. Key:	945D313641AF4EB16754329737280F3F
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL1.ItemsL1.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL1.ItemsL1.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",945D313641AF4EB16754329737280F3F"
 msgid "DekuNuts"
-msgstr ""
+msgstr "بندق ديكو"
 
 #. Key:	95DCD63B4C3DCFB159D356860D6C5D69
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",95DCD63B4C3DCFB159D356860D6C5D69"
 msgid "That's right.... The Temple of Time is the entrace Through which you can enter the Sacred Realm from our world."
-msgstr ""
+msgstr "هذا صحيح....معبد الزمن هو المدخل الذي من خلاله تستطيع الدخول الى المملكة من عالمنا."
 
 #. Key:	96202CBB4BD8089ABB8452BE6E80D181
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR2.ItemsR2.DisplayNameMap(2 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR2.ItemsR2.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",96202CBB4BD8089ABB8452BE6E80D181"
 msgid "Slingshot"
-msgstr ""
+msgstr "مقلاع"
 
 #. Key:	968E861648F172B6213613804ED3E6FC
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/KokiriForest_CPP.KokiriForest_CPP:PersistentLevel.SignWood5_1206.Text1
 #: /Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/KokiriForest_CPP.KokiriForest_CPP:PersistentLevel.SignWood5_1206.Text1
 msgctxt ",968E861648F172B6213613804ED3E6FC"
 msgid "You need to Crouch, Press Keyboard X or Gamepad A infront the hole."
-msgstr ""
+msgstr "تحتاج أن تنحني, أضغط أكس من لوحة المفاتيح أو أي من لوح الالعاب أمام الفتحة."
 
 #. Key:	969BF7914EEC6C392725BA9DAF7BD47E
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",969BF7914EEC6C392725BA9DAF7BD47E"
 msgid "we must not let Ganondorf get the Triforce!"
-msgstr ""
+msgstr "يجب أن لا ندع جاندودورف يحصل على التريفورس!"
 
 #. Key:	96EDB17D4D1DEF2CEF3DBA9EC3A91B4D
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
 #: /Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
 msgctxt ",96EDB17D4D1DEF2CEF3DBA9EC3A91B4D"
 msgid "Cant a person get a little shut-eye around here?"
-msgstr ""
+msgstr "الا يستطيع الشخص الحصول على نوم قليل هنا؟"
 
 #. Key:	96F7530A42368065F5585BB765B0A2CF
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Misc/Dialog_System/Dialog_System_BP.Default__Dialog_System_BP_C.Text3
 #: /Game/ZELDA/CPP_Environment/Misc/Dialog_System/Dialog_System_BP.Default__Dialog_System_BP_C.Text3
 msgctxt ",96F7530A42368065F5585BB765B0A2CF"
 msgid "Teeeeeeeeeeeeeeeest"
-msgstr ""
+msgstr "أختبااااااااااااااار"
 
 #. Key:	970340C64FD866AF9672869462B4A771
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",970340C64FD866AF9672869462B4A771"
 msgid "I was spying through this window just now...."
-msgstr ""
+msgstr "كنت أتجسس من خلال النافذة قبل قليل...."
 
 #. Key:	97759075461D5B0F391A03A3EC7B1A00
 #. SourceLocation:	/Game/ZELDA/Blueprints/Items/Small_Treasure/SmallChestItems.SmallChestItems.DisplayNameMap(2 - Value).DisplayNameMap
 #: /Game/ZELDA/Blueprints/Items/Small_Treasure/SmallChestItems.SmallChestItems.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",97759075461D5B0F391A03A3EC7B1A00"
 msgid "Red Rupee"
-msgstr ""
+msgstr "روبية حمراء"
 
 #. Key:	977751B747F0301D833B58B39915F053
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/StartMenu.StartMenu_C:WidgetTree.TextBlock_3.Text
 #: /Game/ZELDA/Blueprints/ShopKeeper/StartMenu.StartMenu_C:WidgetTree.TextBlock_3.Text
 msgctxt ",977751B747F0301D833B58B39915F053"
 msgid "Quit"
-msgstr ""
+msgstr "غادر"
 
 #. Key:	97BAD4B844260BFED6A5EAB800B661E9
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/World_Objects/Chests/Small_Chest_BP.Small_Chest_BP_C:ExecuteUbergraph_Small_Chest_BP [Script Bytecode]
 #: /Game/ZELDA/CPP_Environment/World_Objects/Chests/Small_Chest_BP.Small_Chest_BP_C:ExecuteUbergraph_Small_Chest_BP [Script Bytecode]
 msgctxt ",97BAD4B844260BFED6A5EAB800B661E9"
 msgid "You got a RECOVERY HEART!\r\nYour health has increased by one!"
-msgstr ""
+msgstr "حصلت على قلب معالجة!\r\nصحتك زادت بمقدار واحد!"
 
 #. Key:	980835D147D8DFC71CC1B9A4F9ED3AC7
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
 #: /Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
 msgctxt ",980835D147D8DFC71CC1B9A4F9ED3AC7"
 msgid "Speak"
-msgstr ""
+msgstr "تحدث"
 
 #. Key:	985D676340AB506749A23AA63841D1B6
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text
 msgctxt ",985D676340AB506749A23AA63841D1B6"
 msgid "guard, ennemies, navi box, jumping, ladders, doors,"
-msgstr ""
+msgstr "حارس, الأعداء, صندوق نافي, القفز, السلالم, الأبواب,"
 
 #. Key:	988357954C4F2324B50370B079242640
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleField.HyruleField_C:ExecuteUbergraph_HyruleField [Script Bytecode]
