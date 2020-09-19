@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gameplaylocalization\n"
 "POT-Creation-Date: 2020-08-01 20:08\n"
-"PO-Revision-Date: 2020-09-19 23:53+0200\n"
+"PO-Revision-Date: 2020-09-20 00:03+0200\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -1257,7 +1257,7 @@ msgstr "Keaton Maske 15 Rubine"
 #: /Game/ZELDA/PauseMenu/MainMenu/Graphics.Graphics_C:WidgetTree.TextBlock_110.Text
 msgctxt ",3332DA8B4F326C4A83BFD4A3EBDB37F2"
 msgid "Copyright by Nintendo"
-msgstr "Copryright by Nintendo "
+msgstr "Copyright by Nintendo "
 
 #. Key:	33C130554744E9E6B41C21A15C6B53B2
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL3.ItemsL3.DisplayNameMap(10 - Value).DisplayNameMap
@@ -1329,8 +1329,8 @@ msgid ""
 "I went to the castle to deliver some milk,\r\n"
 "but I sat down here to rest, and i guess i fell asleep..."
 msgstr ""
-"Ich ging zum Schloss, um etwas Milch zu liefern,\r\n"
-"dabei saß ich hier zur Rast, und ich nehme an dabei schluf ich ein..."
+"Ich ging zum Schloss, um Milch auszuliefern,\r\n"
+"dabei saß ich nieder zur Rast, und bin dabei wohl eingeschlafen..."
 
 #. Key:	372EA48543A18000B10BD0986B465110
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL1.ItemsL1.DisplayNameMap(2 - Value).DisplayNameMap
