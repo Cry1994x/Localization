@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gameplaylocalization\n"
 "POT-Creation-Date: 2020-08-01 20:08\n"
-"PO-Revision-Date: 2020-09-20 00:03+0200\n"
+"PO-Revision-Date: 2020-09-20 10:59+0200\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -1534,7 +1534,7 @@ msgstr "Pfeil1"
 #: [Script Bytecode]
 msgctxt ",42E061934401A85216B71695686C3420"
 msgid "The Princess is waiting for you to return to the castle with the stones... All right We are counting on you!"
-msgstr "Die Prinzessin wartet darauf, dass du zurückkehrst mit den Steinen zum Schloss... Gut, wir zählen auf dich!"
+msgstr "Die Prinzessin wartet darauf, dass du zurückkehrst mit den Steinen zum Schloß... Gut, wir zählen auf dich!"
 
 # Hat seine Richtigkeit, so ist es im Deutschen
 #. Key:	43FCA6E641F981ED03D8828E7A994C85
@@ -2511,7 +2511,7 @@ msgid ""
 "A long branch gathered from the Great Deku Tree. \r\n"
 "You can use it as a weapon, but it will break."
 msgstr ""
-"Ein langer Zweig aufgesammelt vom Deku-Baum.\n"
+"Ein langer Zweig aufgesammelt vom Deku-Baum.\r\n"
 "Du kannst ihn als Waffe verwenden, aber er wird zerbrechen."
 
 #. Key:	7739C1C74DE61D15E92947880567A936
@@ -3238,7 +3238,7 @@ msgstr "Schutz, Feinde, Navi-Box, Springen, Leitern, Türen,"
 #: [Script Bytecode]
 msgctxt ",988357954C4F2324B50370B079242640"
 msgid "At the foot of Death Mountain you will find my village, Kakariko. That is where i was born and raised. You should talk to some of the villagers there before you go up Death Mountain."
-msgstr "Am Fuß des Todesberges wirst du mein Dorf finden, Kakariko heißt es. Dort wurde ich geboren und aufgezogen. Du solltest mit einigen Leuten dort reden, bevor du auf den Todesberg gehst."
+msgstr "Am Fuß des Todesberges wirst du mein Dorf finden, Kakariko. Dort kam ich zur Welt und wuchs auf. Du solltest mit einigen Dorfbewohnern unterhalten, vor Aufbruch hinauf zum Todesberg."
 
 #. Key:	98930FF248191890C1A009B252AC7E7F
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL4.ItemsL4.DisplayNameMap(4 - Value).DisplayNameMap
@@ -3368,7 +3368,7 @@ msgid ""
 msgstr ""
 "Gehst du zum Schloss, Feenjunge?\r\n"
 "\r\n"
-"Würde es dir etwas ausmachen, meinen Vater zu suchen?"
+"Würde es dir etwas ausmachen meinen Vater aufzusuchen?"
 
 #. Key:	9C8B283F4AF6B53AA01BD08C66154F35
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor4.NewTextRenderComponent.Text
@@ -4043,7 +4043,7 @@ msgstr "Hase"
 #: [Script Bytecode]
 msgctxt ",BA15FAFD48679C3A7D7D0DB6939A6CDF"
 msgid "And, in order to open the door, it is said that you need to collect three Spiritual Stones."
-msgstr "Und es heißt, um dieses Tor zu öffnen, musst du drei Heilige Steine sammeln."
+msgstr "Und, um dieses Tor zu öffnen besagt sich, man müsse drei Heilige Steine einsammeln."
 
 #. Key:	BA5A4FA74B9C13A9AB6D859D2B4DD340
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:OnRep_GotHeartContainer [Script Bytecode]
@@ -4516,8 +4516,8 @@ msgid ""
 "And he wants to conquer Hyrule.....\r\n"
 "nooo , the entire world!"
 msgstr ""
-"Und er möchte Hyrule erobern.....\n"
-"nein, die gesamte Welt!"
+"Und er möchte Hyrule erobern.....\r\n"
+"nein, die ganze Welt!"
 
 #. Key:	D41A626243DA54E6C979B59FD90DAE37
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL4.ItemsL4.DisplayNameMap(0 - Value).DisplayNameMap
