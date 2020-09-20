@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gameplaylocalization\n"
 "POT-Creation-Date: 2020-08-01 20:08\n"
-"PO-Revision-Date: 2020-09-20 10:59+0200\n"
+"PO-Revision-Date: 2020-09-20 16:06+0200\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -19,6 +19,7 @@ msgstr ""
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard
 #: [Script Bytecode]
+#, fuzzy
 msgctxt ",00226FBB4E4F3E44E532BA8741D23425"
 msgid "Link.... now, we are the only ones who can protect Hyrule!"
 msgstr "Link .... jetzt sind wir die Einzigen welche Hyrule schützen können!"
@@ -32,8 +33,7 @@ msgid ""
 "I hope you understood it! Please try to make the world a better place! \r\n"
 "Good bye link!"
 msgstr ""
-"Ich hoffe du verstehst es! Bitte versuche mache aus der Welt einen besseren\n"
-" Ort!\r\n"
+"Ich hoffe du hast verstanden! Bitte bemühe aus der Welt einen besseren Ort zu schaffen\r\n"
 "Auf Wiedersehen Link!"
 
 #. Key:	0168EE4547D3872DE9D6E199CF3C9922
@@ -41,7 +41,7 @@ msgstr ""
 #: /Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock_2.Text
 msgctxt ",0168EE4547D3872DE9D6E199CF3C9922"
 msgid "PostProcessing"
-msgstr "Nachbearbeitung"
+msgstr "Nachverarbeitung"
 
 #. Key:	01760A894258122138CC9592FF793CE3
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/World_Objects/Chests/Small_Chest_BP.Small_Chest_BP_C:ExecuteUbergraph_Small_Chest_BP [Script Bytecode]
@@ -52,7 +52,7 @@ msgid ""
 "You got a Green Rupee!\r\n"
 "That's ONE Rupee!"
 msgstr ""
-"Du erhälst einen grünen Rubin!\r\n"
+"Du hast einen grünen Rubin erhalten!\r\n"
 "Das ist EIN Rubin!"
 
 #. Key:	02C574D947A8ED7B01E7D68C6DDAC6ED
@@ -61,7 +61,7 @@ msgstr ""
 #: [Script Bytecode]
 msgctxt ",02C574D947A8ED7B01E7D68C6DDAC6ED"
 msgid "So, the ancient Sages built the Temple of Time to protect the Triforce from evil ones."
-msgstr "Also bauten die alten Weisen den Tempel der Zeit, um das Triforce vor den Bösen zu schützen."
+msgstr "Also erbauten die alten Weisen die ZItadelle der Zeit zum Triforce vor dem Bösen."
 
 #. Key:	0349C9D64C8A88C47F841DB0FDC9C28D
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR2.ItemsR2.DisplayNameMap(3 - Value).DisplayNameMap
@@ -163,7 +163,7 @@ msgstr "NewNiagaraEmitter"
 #: /Game/ZELDA/CPP_Environment/Maps/MainMenuZelda/Main_BP.Main_BP_C:WidgetTree.TextBlock_86.Text
 msgctxt ",0814A7CC44F76E5691FA32A42A7C5E03"
 msgid "Downsampling"
-msgstr "Runterskalieren"
+msgstr "Abwärtsskalierung"
 
 #. Key:	0816206645C7FD936B874598498D6338
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor28.NewTextRenderComponent.Text
@@ -252,8 +252,8 @@ msgid ""
 "If you feel your friend has Depression, Please! Help him out! \r\n"
 "Support them to get help. You can't force anyone to get help if they don't want it, so it's important to reassure your loved one that it's OK to ask for help, and that there is help out there."
 msgstr ""
-"Wenn du das Gefühl hast, dass dein Freund an Depressionen leidet, bitte! Hilf ihm!\r\n"
-"Unterstütze ihn dabei, sich Hilfe zu holen. Du kannst niemanden dazu zwingen, sich Hilfe zu holen, wenn er dies nicht möchte, daher ist es wichtig, ihm zu sagen, das es in Ordnung ist, sich Hilfe zu holen, und dass es dort draußen Hilfe gibt."
+"Wenn du deb Eindruck hast, dein Freund leidet unter Depressionen, bitte! Leiste Hilfe !\r\n"
+"Unterstütze die Person dabei sich Hilfe anzunehmen. Du kannst niemanden dazu zwingen Hilfe zu holen, sofern sie keine wollen, daher sei vorbereitet deinem Nächsten zu versichern das dies in Ordnung geht sich Hilfe zu holen, die es dort draußen Hilfe gibt."
 
 #. Key:	0B4A36874A7E9AC88CE240B4335DFB19
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/World_Objects/Chests/Chest_BP.Chest_BP_C:ExecuteUbergraph_Chest_BP [Script Bytecode]
@@ -283,7 +283,7 @@ msgstr "ZURÜCK"
 #: Value).DisplayNameMap
 msgctxt ",0BFFADED45835F23CA765A9C95F5B4FC"
 msgid "Testlevel"
-msgstr "Testlevel"
+msgstr "Probeebene"
 
 #. Key:	0C25D03D486F1886BD12959DDA5E3005
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/NPCs/AIPerformance_BP.Default__AIPerformance_BP_C.text1
@@ -297,7 +297,7 @@ msgstr "test"
 #: /Game/ZELDA/Link_Child/Ocarina/PauseOcarinaNotes.Default__PauseOcarinaNotes_C.PlayedSong
 msgctxt ",0D2444FE4BF663BA893C68BEE8616E62"
 msgid "You Played"
-msgstr "Du Spieltest"
+msgstr "Du spieltest"
 
 #. Key:	0D247AE84441368931B59CB550AE74A6
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_2.Text
@@ -319,7 +319,7 @@ msgstr "Optionen"
 #: [Script Bytecode]
 msgctxt ",0DF0AB4B46FB43F42C45D0895AB3D787"
 msgid "Deku Shield  - 40 Rupees"
-msgstr "Deku-Schild - 40 Rubine"
+msgstr "Dekuschild - 40 Rubine"
 
 #. Key:	0DF445EB4C51279C444036ABAECF51A9
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -388,7 +388,7 @@ msgstr "Fenster"
 #: /Game/ZELDA/Blueprints/SignWood.Default__SignWood_C.Text1
 msgctxt ",1144BFEA4A47A97F228954B7D27C81C2"
 msgid "Sign"
-msgstr "Schild"
+msgstr "Wegweiser"
 
 #. Key:	11B05E8141B09F555DA34390CBF0AAF8
 #. SourceLocation:	/Game/ZELDA/Enemys/Boss/GOHMAQueen/NewNiagaraSystem1.NewNiagaraSystem1:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_6.DisplayName
@@ -522,7 +522,7 @@ msgid ""
 "Link, Becareful there is a Skulltula in the vine! \r\n"
 "Try to sneak up !"
 msgstr ""
-"Link, sei vorsichtig, da ist eine Skulltula in der Ranke!\r\n"
+"Link, seu vorsichtig, da ist eine Skulltula in der Ranke!\r\n"
 "Versuche dich an sie anzuschleichen!"
 
 #. Key:	16970E584E8AFD2C0BEF3DAB972398DD
@@ -531,7 +531,7 @@ msgstr ""
 #: [Script Bytecode]
 msgctxt ",16970E584E8AFD2C0BEF3DAB972398DD"
 msgid "Next"
-msgstr "Nächstes"
+msgstr "Nächste"
 
 #. Key:	16D5DF154ADD2D4CE7D2E2A9A5FD8473
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -543,14 +543,14 @@ msgid ""
 "I believe they symbolize... that man in there!"
 msgstr ""
 "Das andere Element aus meinem Traum.... die dunklen Wolken….\r\n"
-"Ich glaube, sie sind ein Symbol für... diesen Mann da!"
+"Ich glaube, sie sind ein Symbol für... diesen Mann da drin!"
 
 #. Key:	16F2F6004526F8D7E98750AFEE66F64A
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/HUD/Options_Menu/InputDevices_UI_BP.InputDevices_UI_BP_C:WidgetTree.Header.Text
 #: /Game/ZELDA/CPP_Environment/HUD/Options_Menu/InputDevices_UI_BP.InputDevices_UI_BP_C:WidgetTree.Header.Text
 msgctxt ",16F2F6004526F8D7E98750AFEE66F64A"
 msgid "Input Device Options"
-msgstr "Eingabegeräteeinstellungen"
+msgstr "Eingabegeräteeinstellunge"
 
 #. Key:	1719C6714E5CF618CE51E0B9C890467D
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
@@ -562,16 +562,16 @@ msgid ""
 "This is the Spiritual Stone of the Forest,\r\n"
 "now entrusted to you by the Great Deku Tree."
 msgstr ""
-"Du hast den Kokiri-Smaragd erhalten!\r\n"
+"Du hälst den Kokiri-Smaragd!\r\n"
 "Dies ist der Heilige Stein des Waldes,\r\n"
-"den der Große Deku-Baum mir anvertraut hat."
+"sofort dir anvertraut wurde vom großen Dekubaum."
 
 #. Key:	171CA0894D46850CC9092A825361CAB5
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor8.NewTextRenderComponent.Text
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor8.NewTextRenderComponent.Text
 msgctxt ",171CA0894D46850CC9092A825361CAB5"
 msgid "TOO LOW"
-msgstr "ZU NIEDER"
+msgstr "ZU NIEDRIG"
 
 #. Key:	1778026E43A9C8DAEFED38AF972C0F9D
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KakarikoGraveyard.KakarikoGraveyard:PersistentLevel.SimpleDialogue3.Text
@@ -612,8 +612,8 @@ msgid ""
 "Thy slumber these past moons must have been restless, \r\n"
 "and full of nightmares..."
 msgstr ""
-"Dein Schlaf in den vergangenen Monden muss unruhig gewesen sein,\r\n"
-"und voller Albträume..."
+"Dein Schlaf der letzten Monden müssen rastlos gewesen sein,\r\n"
+"und erfüllt von Albträume..."
 
 #. Key:	1913EFCF462EF752B655028DD880E1CF
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL2.ItemsL2.DisplayNameMap(0 - Value).DisplayNameMap
@@ -636,7 +636,7 @@ msgstr "Rot"
 #: /Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock_106.Text
 msgctxt ",1B0735B2412A968B62A779BF27B2C25C"
 msgid "Render Resolution"
-msgstr "Rendering-Auflösung"
+msgstr "Wiedergabeauflösung"
 
 #. Key:	1B7C052C4012D7EC761E7ABA04035CB8
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
@@ -752,7 +752,7 @@ msgstr ""
 #: /Game/ZELDA/CharacterModels/Mido/BossBP.Default__BossBP_C.text3
 msgctxt ",210F61994A9298956C8B0E9E16C71398"
 msgid "How do you think you're going to help the Great Deku Tree without both a sword and shield ready?"
-msgstr "Wie denkst du, wirst du dem Großen Deku-Baum helfen können, ganz ohne Schwert und Schild?"
+msgstr "Wie denkst du, wirst du dem Großen Deku-Baum helfen wollen, ohne Schwert und Schild?"
 
 #. Key:	2157F65E46B7A84B3EBC1C97D9BB608A
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
@@ -844,7 +844,7 @@ msgstr "Hase"
 #: [Script Bytecode]
 msgctxt ",25CA90AF409E7504BA67D3994AF9FF4B"
 msgid "Deku Seed ( 30 pieces ) 30 Rupees"
-msgstr "Deku-Nüsse   ( 30 Stück )     30 Rubine"
+msgstr "Deku-Kerne   ( 30 Stück )     30 Rubine"
 
 #. Key:	26965EB9458E1CFAF8392D81F6DFF2CC
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:OnRep_GotEgg [Script Bytecode]
@@ -863,7 +863,7 @@ msgstr ""
 #: /Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/LostWoods_CPP.LostWoods_CPP:PersistentLevel.TalkToActors_GEN_VARIABLE_TalkToActors_C_CAT_1866.text2
 msgctxt ",26A001E945E0AC3487705AA09E2EDA90"
 msgid "i lost my family.............."
-msgstr "Ich habe meine Familie verloren.............."
+msgstr "Ich verlor meine Familie.............."
 
 #. Key:	26A22D5B40084A7A6151218AFF44C534
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -875,8 +875,8 @@ msgid ""
 "holding a green and shining stone,\r\n"
 "followed by a fairy....."
 msgstr ""
-"Das Licht wurde zu einer Figur\r\n"
-"die einen grünen und leuchtenden Stein hielt,\r\n"
+"Das Licht formte sich zu einer Gestaltr\n"
+"festhaltend eines grünen und leuchtenden Steines,\r\n"
 "gefolgt von einer Fee....."
 
 #. Key:	26AC82844E5BAD58E0524DA3892E3705
@@ -919,7 +919,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt ",270D7CD44B8616753D27688DC4A6303E"
 msgid "hylianshield"
-msgstr "Hylia-Schild"
+msgstr "Hyliaschild"
 
 #. Key:	27CE0CEE4AC2C3DAA2FA519F65A101E6
 #. SourceLocation:	/Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock_199.Text
@@ -956,14 +956,14 @@ msgstr "Nichts"
 #: /Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_9.Text
 msgctxt ",295CD16448C8E1F906FEE192E8A7E8D2"
 msgid "Raise Shield"
-msgstr "Schild hochhalten"
+msgstr "Erhebe Schild"
 
 #. Key:	296FE22F4751B995E8543692CEDA35A6
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/Dungeons/Temple1/Inside_Deku_Tree.Inside_Deku_Tree:PersistentLevel.FairyHelp3.Text
 #: /Game/ZELDA/Maps/OcarinaOfTime/Dungeons/Temple1/Inside_Deku_Tree.Inside_Deku_Tree:PersistentLevel.FairyHelp3.Text
 msgctxt ",296FE22F4751B995E8543692CEDA35A6"
 msgid "i think there is something underwater... "
-msgstr "Ich denke, es gibt etwas unter Wasser... "
+msgstr "Ich schätze dort ist etwas im Wasser... "
 
 #. Key:	2987CEA145F6119E31B864B30C36DCF3
 #. SourceLocation:	/Game/ZELDA/Blueprints/ExitPrompt_UI.ExitPrompt_UI_C:WidgetTree.TextBlock_186.Text
@@ -978,7 +978,7 @@ msgstr "Spiel fortsetzen"
 #: [Script Bytecode]
 msgctxt ",29930B014A46D34875D0378D68F696CC"
 msgid "And another thing you need is the treasure that the Royal Family keeps along with this legend....."
-msgstr "Und eine andere Sache die du brauchst, ist der Schatz den die Königsfamilie zusammen mit dieser Legende verwahrt....."
+msgstr "Und eine weitere Sache benötigst du, den Schatz der die Königsfamilie zusammen mit dieser Legende verwahrt....."
 
 #. Key:	29A222B349F2911B78B64A96AEB42D2D
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -986,7 +986,7 @@ msgstr "Und eine andere Sache die du brauchst, ist der Schatz den die Königsfam
 #: [Script Bytecode]
 msgctxt ",29A222B349F2911B78B64A96AEB42D2D"
 msgid "He must have come to Hyrule to obtain it !"
-msgstr "Er muss wohl nach Hyrule gekommen sein, um es zu sich zu beschaffen!"
+msgstr "Er muss nach Hyrule gekommen sein, um zu erlangen!"
 
 #. Key:	29AD7C8842A9CF15BD0A2DB703E507C3
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_3.Text
@@ -1011,8 +1011,8 @@ msgid ""
 "You got the Zelda letter!\r\n"
 "bring that to the guard in kakariko village.."
 msgstr ""
-"Du hast Zeldas Brief erhalten!\r\n"
-"Bring das zur Wache in Kakariko."
+"Du erhälst Zeldas Brief!\r\n"
+"Bring diesen zur Wache in Kakariko."
 
 #. Key:	2B2BA59141437AE6630C18B2F0A0F039
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectLeft2.iTEMSelectLeft2_C:ExecuteUbergraph_iTEMSelectLeft2 [Script Bytecode]
@@ -1036,7 +1036,7 @@ msgstr "Schleuder"
 #: [Script Bytecode]
 msgctxt ",2B55AFCF48DB02C82C73B5ADECD36BDE"
 msgid "You Got A Heart Container!  Your maximum life energy is increased by one heart. Your life energy will be totally filled."
-msgstr "Du hast einen Herzcontainer erhalten! Deine maximale Lebensenergie wird um ein Herz erhöht. Deine Lebensenergie wird vollständig aufgefüllt."
+msgstr "Du erhälst einen Herzcontainer! Deine maximale Lebensenergie erhöht sich um ein Herz. Deine Lebensenergie wird vollständig aufgefüllt."
 
 #. Key:	2BAB01B04AC0F2748C83D8AEC47A50CA
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL1.ItemsL1.DisplayNameMap(3 - Value).DisplayNameMap
@@ -1096,7 +1096,7 @@ msgstr "Schleuder"
 #: [Script Bytecode]
 msgctxt ",2DDE25944172272F0D3E8BA56C8867B3"
 msgid "But the entrace is sealed with a stone wall called the Door of Time."
-msgstr "Aber der Eingang versiegelt mit einer Steinmauer genannt das Tor der Zeit."
+msgstr "Aber der Eingang versiegelt mit einer Steinmauer genannt das Tor zur Zeit."
 
 #. Key:	2DF1C1AE488EF5EB1CAACEBBE7643FA7
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
@@ -1163,7 +1163,7 @@ msgid ""
 "You got a Green Rupee!\r\n"
 "That's one Rupee!"
 msgstr ""
-"Du erhälst einen grünen Rubin!\r\n"
+"Du hast einen grünen Rubin erhalten!\r\n"
 "Das ist ein Rubin!"
 
 #. Key:	2F7F7F1B47984F614E273B94BF70CDF1
@@ -1192,7 +1192,7 @@ msgstr ""
 #: /Game/ZELDA/Maps/StartupLevel/StartUp_widget.StartUp_widget_C:WidgetTree.SelectGraphics.Text
 msgctxt ",2FDFF349490FB6F964B4BD8AACA6BB06"
 msgid "Select language:"
-msgstr "Sprachauswahl:"
+msgstr "Sprach auswählen:"
 
 #. Key:	305EBA43463108D0D06522B43F73B841
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/Outside/ZeldacastleBackyard.ZeldacastleBackyard_C:ExecuteUbergraph_ZeldacastleBackyard [Script Bytecode]
@@ -1211,7 +1211,7 @@ msgstr ""
 #: /Game/ZELDA/Maps/OcarinaOfTime/Dungeons/Temple1/Inside_Deku_Tree.Inside_Deku_Tree:PersistentLevel.Scrub2_1353.TextDekuscrub
 msgctxt ",306AEDB846366FAD51BF12BB204B6E05"
 msgid "Please leave me alone ! I will tell you the Order.. 2.....3......1"
-msgstr "Bitte lass mich in Frieden ! Ich werde dir die Reihenfolge sagen.. 2.....3......1"
+msgstr "Bitte lass mich allein ! Ich offenbare dir die Reihenfolge.. 2.....3......1"
 
 #. Key:	30A3D3FA4701F3C7C4C45480B14478B3
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/SelectedFile.SelectedFile_C:WidgetTree.TextBlock_1.Text
@@ -1220,14 +1220,13 @@ msgctxt ",30A3D3FA4701F3C7C4C45480B14478B3"
 msgid "No"
 msgstr "Nein"
 
-# Ein Hahn kräht, aber ein Huhn gackert
 #. Key:	3131007D440D78682576C396C38855C0
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/Outside/ZeldacastleBackyard.ZeldacastleBackyard_C:ExecuteUbergraph_ZeldacastleBackyard [Script Bytecode]
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/Outside/ZeldacastleBackyard.ZeldacastleBackyard_C:ExecuteUbergraph_ZeldacastleBackyard
 #: [Script Bytecode]
 msgctxt ",3131007D440D78682576C396C38855C0"
 msgid "Egg has been hatched!"
-msgstr "Das Huhn ist geschlüpft!"
+msgstr "Das Ei wurde ausgebrütet!"
 
 #. Key:	31C7A6A143F26713C0DEFA9543D93729
 #. SourceLocation:	/Game/ZELDA/Maps/StartupLevel/StartUp_widget.StartUp_widget_C:WidgetTree.TextBlock.Text
@@ -1257,7 +1256,7 @@ msgstr "Keaton Maske 15 Rubine"
 #: /Game/ZELDA/PauseMenu/MainMenu/Graphics.Graphics_C:WidgetTree.TextBlock_110.Text
 msgctxt ",3332DA8B4F326C4A83BFD4A3EBDB37F2"
 msgid "Copyright by Nintendo"
-msgstr "Copyright by Nintendo "
+msgstr "Copyright by Nintendo"
 
 #. Key:	33C130554744E9E6B41C21A15C6B53B2
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL3.ItemsL3.DisplayNameMap(10 - Value).DisplayNameMap
@@ -1265,7 +1264,7 @@ msgstr "Copyright by Nintendo "
 #: Value).DisplayNameMap
 msgctxt ",33C130554744E9E6B41C21A15C6B53B2"
 msgid "hylianshield"
-msgstr "Hylia-Schild"
+msgstr "Hyliaschild"
 
 #. Key:	340BA8A647EA70F62174ABB59E94F888
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR4.ItemsR4.DisplayNameMap(10 - Value).DisplayNameMap
@@ -1273,7 +1272,7 @@ msgstr "Hylia-Schild"
 #: Value).DisplayNameMap
 msgctxt ",340BA8A647EA70F62174ABB59E94F888"
 msgid "hylianshield"
-msgstr "Hylia-Schild"
+msgstr "Hyliaschild"
 
 #. Key:	348C4E7E49FB0DC575350FAA24691FEC
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
@@ -1329,8 +1328,8 @@ msgid ""
 "I went to the castle to deliver some milk,\r\n"
 "but I sat down here to rest, and i guess i fell asleep..."
 msgstr ""
-"Ich ging zum Schloss, um Milch auszuliefern,\r\n"
-"dabei saß ich nieder zur Rast, und bin dabei wohl eingeschlafen..."
+"Ich ging zum Schloss, um etwas Milch ausliefern,\r\n"
+"dabei saß ich hier zu rast nieder, und dabei bin ich wohl eingeschlafen..."
 
 #. Key:	372EA48543A18000B10BD0986B465110
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL1.ItemsL1.DisplayNameMap(2 - Value).DisplayNameMap
@@ -1434,15 +1433,15 @@ msgid ""
 " and for everyone around the world!"
 msgstr ""
 "Hey Link.....\r\n"
-".... JA, DU. Ich habe eine wichtige Nachricht für dich\r\n"
-" und für alle auf der ganzen Welt!"
+".... JA, DUUU. Ich habe eine wichtige Nachricht für dich\r\n"
+" und für Jeden auf der ganzen Welt!"
 
 #. Key:	3FA7856E4A4FC466EACC57A199258AAE
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:StartDialogue [Script Bytecode]
 #: /Game/ZELDA/Blueprints/ChildLink.ChildLink_C:StartDialogue [Script Bytecode]
 msgctxt ",3FA7856E4A4FC466EACC57A199258AAE"
 msgid "You got a Deku Stick ! You can select it in the Item subscreen."
-msgstr "Du hast einen Deku-Stab erhalten! Du kannst ihn im Item-Menü auswählen."
+msgstr "Du hast einen Dekustab erhalten! Du kannst ihn im Item-Menü auswählen."
 
 #. Key:	3FA92322427EA7C2CABAC698BE2766A1
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KakarikoVillage.KakarikoVillage:PersistentLevel.Zeno_2.text1
@@ -1465,7 +1464,7 @@ msgstr "Nichts"
 #: [Script Bytecode]
 msgctxt ",401B89F74ECBE1F26825B2BB078C4D4F"
 msgid "Deku Shield  - 40 Rupees"
-msgstr "Deku-Schild  - 40 Rubine"
+msgstr "Dekuschild  - 40 Rubine"
 
 #. Key:	403412D84B2E785428D52AB9289A9C91
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/KokiriForest_CPP.KokiriForest_CPP:PersistentLevel.SignWood4_1050.Text1
@@ -1510,7 +1509,7 @@ msgstr "Oh ja, falls du nach ihm suchst, werde ich dir das hier geben."
 #: [Script Bytecode]
 msgctxt ",421C2FC74F301F0FD1B957A651A9FC53"
 msgid "Deku Nuts  ( 5 pieces )     15 Rupeees"
-msgstr "Deku-Nüsse   ( 5 Stück )     15 Rubine"
+msgstr "Dekunüsse   ( 5 Stück )     15 Rubine"
 
 #. Key:	429C5E264E18B07EBA5496A1E32A0064
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL4.ItemsL4.DisplayNameMap(9 - Value).DisplayNameMap
@@ -1534,7 +1533,7 @@ msgstr "Pfeil1"
 #: [Script Bytecode]
 msgctxt ",42E061934401A85216B71695686C3420"
 msgid "The Princess is waiting for you to return to the castle with the stones... All right We are counting on you!"
-msgstr "Die Prinzessin wartet darauf, dass du zurückkehrst mit den Steinen zum Schloß... Gut, wir zählen auf dich!"
+msgstr "Die Prinzessin wartet darauf, dass du zurückkehrt mit den Steinen zum Schloss... Gut, wir zählen auf dich!"
 
 # Hat seine Richtigkeit, so ist es im Deutschen
 #. Key:	43FCA6E641F981ED03D8828E7A994C85
@@ -1542,7 +1541,7 @@ msgstr "Die Prinzessin wartet darauf, dass du zurückkehrst mit den Steinen zum 
 #: /Game/ZELDA/Maps/MainMenuZelda/Main.Main_C:WidgetTree.TextBlock_3.Text
 msgctxt ",43FCA6E641F981ED03D8828E7A994C85"
 msgid "TempleOfTime"
-msgstr "ZItadellederZeit"
+msgstr "ZitadellederZeit"
 
 #. Key:	44186BE14AABE21FEC98B5B9ED6FD2DE
 #. SourceLocation:	/Game/ZELDA/Maps/MainMenuZelda/Main.Main_C:WidgetTree.TextBlock_549.Text
@@ -1590,7 +1589,7 @@ msgstr "Ich bin auch Bob!"
 #: Value).DisplayNameMap
 msgctxt ",452BDABF4A4A75BD0858EAA90E423879"
 msgid "English"
-msgstr "English"
+msgstr "Englisch"
 
 #. Key:	456A13F24F6FC4E8365714A7C02D868E
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR2.ItemsR2.DisplayNameMap(10 - Value).DisplayNameMap
@@ -1598,7 +1597,7 @@ msgstr "English"
 #: Value).DisplayNameMap
 msgctxt ",456A13F24F6FC4E8365714A7C02D868E"
 msgid "hylianshield"
-msgstr "Hylia-Shild"
+msgstr "Hyliaschild"
 
 #. Key:	46670C434034B5001B03FE8621136599
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -1613,7 +1612,7 @@ msgstr "eine Fee????"
 #: /Game/ZELDA/CPP_Environment/HUD/Options_Menu/InputDevices_UI_BP.InputDevices_UI_BP_C:WidgetTree.TextBlock_276.Text
 msgctxt ",4741C4F64021E6915C39EF938BA66E24"
 msgid "Movement"
-msgstr "Bewegung"
+msgstr "Fortbewegung"
 
 #. Key:	4757315D4DC3A9D70544D2A1F1133A2E
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -1655,7 +1654,7 @@ msgstr ""
 #: [Script Bytecode]
 msgctxt ",491B15E4402B6E6379983E8575CB738D"
 msgid "People with depression are at an increased risk of suicide. If your loved one is severely depressed, prepare yourself for the possibility that at some point he or she may feel suicidal. Take all signs of suicidal behavior seriously and act immediately. PLEASE HELP HIM!"
-msgstr "Menschen mit Depressionen haben ein erhöhtes Selbstmordrisiko. Wenn ein Nahestehender schwer depressiv ist, bereite dich auf die Möglichkeit das Er oder Sie vielleicht Selbstmordgedanken entwickelt. Nehme alle Warnzeichen des suizidalen Verhalten ernst und handele sofort. BITTE HELFE IHM!"
+msgstr "Menschen mit Depressionen haben ein erhöhtes Selbstmordrisiko. Wenn Nahestehende rschwer depressiv ist, bereite dich auf die Möglichkeit das Er oder Sie vielleicht Selbstmordgedanken entwickelt. Nehme alle Warnzeichen eines Selbstmordverhalten ernst und handele sofort. BITTE UNTERSTÜTZE IHN!"
 
 #. Key:	4925AA3D4CA62379843BAC9C86CB837A
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL3.ItemsL3.DisplayNameMap(7 - Value).DisplayNameMap
@@ -1674,22 +1673,22 @@ msgid ""
 "Take this stone with you. \r\n"
 "The stone that man wanted much, that he cast the curse on me."
 msgstr ""
-"Nimm diesen Stein mit dir.\r\n"
-"Das Verlangen dieses Mannes, diesen Stein zu besitzen, war so stark, dass er mich verfluchte."
+"Nimm diesen Stein dir mit.\r\n"
+"Dieser Stein welcher der Mann begehrte, dass Er den Fluch auf mich warf."
 
 #. Key:	496712A149FB14A4570D19BD68D8D979
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/VideoSettings.VideoSettings_C:WidgetTree.TextBlock_53.Text
 #: /Game/ZELDA/PauseMenu/MainMenu/VideoSettings.VideoSettings_C:WidgetTree.TextBlock_53.Text
 msgctxt ",496712A149FB14A4570D19BD68D8D979"
 msgid "Ultra Settings"
-msgstr "Ultra Einstellungen"
+msgstr "Ultra Einstellwerte"
 
 #. Key:	49790BFF40BFC3E18E643A94C92ABCD0
 #. SourceLocation:	/Game/ZELDA/Maps/TrainingLevel/Training.Training:PersistentLevel.Fox_PAWN_2.text1
 #: /Game/ZELDA/Maps/TrainingLevel/Training.Training:PersistentLevel.Fox_PAWN_2.text1
 msgctxt ",49790BFF40BFC3E18E643A94C92ABCD0"
 msgid "Want to contiune with training?"
-msgstr "Möchtest du mit den Training fortfahren?"
+msgstr "Gewill mit den Training fortzufahren?"
 
 #. Key:	499727BC46442CC00B7EC7A1D1E4DE95
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
@@ -1705,7 +1704,7 @@ msgstr "Öffnen"
 #: [Script Bytecode]
 msgctxt ",49A96E37460C451132B037B8251A3CB2"
 msgid "Yep, Im Talon, the owner of Lon Lon Ranch."
-msgstr "Ja, ich bin Talon, der Besitzer der Lon-Lon-Farm."
+msgstr "Ja, ich bin Talon, der Inhaber der Lon-Lon-Farm."
 
 #. Key:	4A14E1D34CEA4580B5F439A0742A5692
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL3.ItemsL3.DisplayNameMap(6 - Value).DisplayNameMap
@@ -1788,7 +1787,7 @@ msgstr "speichern"
 #: /Game/ZELDA/CPP_Environment/Misc/Dialog_System/Dialog_System_BP.Default__Dialog_System_BP_C.Text
 msgctxt ",4F9A76CD4D96AB75FDE94583AE5E86AF"
 msgid "During your quest, you will be able to find many Great Fairy Fountains hidden in various passages throughout Hyrule. In each one, the Great Fairy will give you helpful power-ups and magic spells."
-msgstr "Während deiner Suche findest du viele große Feen-Brunnen, die an  verschiedenen Stellen in Hyrule versteckt sind. In jedem Fall gibt dir die Große Fee hilfreiche Heilung und Zaubersprüche."
+msgstr "Während deiner Suche findest du viele große Feen-Brunnen, die an  verschiedenen Stellen in Hyrule versteckt sind. In jedem Fall gibt dir die Große Fee hilfreiche Aufstärkungen und Zaubersprüche."
 
 #. Key:	5009806F42EC37D459D57D970352326F
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
@@ -1808,7 +1807,7 @@ msgstr ""
 #: [Script Bytecode]
 msgctxt ",50A1910C4899FA53FD7F7BAAE303A2D1"
 msgid "But it's fortunate that you have come"
-msgstr "Aber es ist ein Glück, dass du gekommen bist"
+msgstr "Aber ein Glück, du bist gekommen"
 
 #. Key:	50EEA1FC40598D611710E7B8D6971739
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/MainMenuZelda/Main_BP.Main_BP_C:WidgetTree.TextBlock_0.Text
@@ -1822,7 +1821,7 @@ msgstr "4K"
 #: /Game/ZELDA/CPP_Environment/World_Objects/Chests/Chest_BP.Default__Chest_BP_C.TEXT
 msgctxt ",52FAB60D43FD541392B3E2A613A4868D"
 msgid "You got the Kokiri Sword ! On the Equipment Subscreen, select it with the cursor and equip it with Keyboard X or Gamepad Button A."
-msgstr "Du hast das Kokiri-Schwert erhalten! Wähle es auf dem Ausrüstungs-Bildschirm mit dem Cursor aus und rüste es (auf der Tastatur mit X, oder auf dem Gamepad mit der Taste A) aus."
+msgstr "Du hast das Kokiri-Schwert erhalten! Im Ausrüstungs-Menü, wähle mit dem Cursor aus und rüste dich mit Tastae X(Tastatur) oder Taste A ( Gamepad) damit aus."
 
 #. Key:	537FE78F4A1A7498DD6DF78B07E0953C
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -1830,7 +1829,7 @@ msgstr "Du hast das Kokiri-Schwert erhalten! Wähle es auf dem Ausrüstungs-Bild
 #: [Script Bytecode]
 msgctxt ",537FE78F4A1A7498DD6DF78B07E0953C"
 msgid "Can you see the man with the evil eyes?"
-msgstr "Kannst du den Mann mit den bösen Augen sehen?"
+msgstr "Kannst du den Mann mit bösem Blick sehen?"
 
 #. Key:	538317894FAB8048E521CFAD101562C1
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor23.NewTextRenderComponent.Text
@@ -1880,7 +1879,7 @@ msgstr "Dateiname"
 #: [Script Bytecode]
 msgctxt ",541AF62D4F9B08CE22991396F38BD343"
 msgid "The three goddesses hid the Triforce containing the power of the gods somewhere in Hyrule."
-msgstr "Die drei Göttinnen versteckten das Triforce, mit die Macht der Götter innewohnend, irgendwo in Hyrule."
+msgstr "Die drei Göttinnen versteckten das Triforce, welches die Macht der Götter enthielt, irgendwo in Hyrule."
 
 #. Key:	5422D056490DCE42B5C717BB452F98DE
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Welcome.Welcome_C:WidgetTree.TextBlock_0.Text
@@ -1906,7 +1905,7 @@ msgid ""
 "You found the Fairy SlingShot!\r\n"
 " You can select it in the Item subscreen."
 msgstr ""
-"Du hast die Feen-Schleuder gefunden!\r\n"
+"Du hast die Feenschleuder gefunden!\r\n"
 "Du kannst sie im Item-Menü auswählen."
 
 #. Key:	54BD6A7F47882B94934AF2B713CDC5A7
@@ -1938,14 +1937,14 @@ msgstr "MarvelMaster Wassersystem"
 #: [Script Bytecode]
 msgctxt ",574F7F7E4DC9A89EB37A81B118DFF9C2"
 msgid "Thou must never allow the desert man in black armor to lay his hands on the sacred Triforce...."
-msgstr "Du darfs dem Wüstenmann in schwarzer Rüstung nicht gestatten das Heilige Triforce in die Hände zu kriegen..."
+msgstr "Du darfst niemals zulassen, dass der Wüstenmann in schwarzer Rüstung seine Hände dem Heilige Triforce auferlegt..."
 
 #. Key:	57D80F0A4989D1A0E161898B7F7C4C4A
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KakarikoVillage.KakarikoVillage:PersistentLevel.Iwata_2.text1
 #: /Game/ZELDA/Maps/OcarinaOfTime/KakarikoVillage.KakarikoVillage:PersistentLevel.Iwata_2.text1
 msgctxt ",57D80F0A4989D1A0E161898B7F7C4C4A"
 msgid "On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer. RIP SATORU IWATA"
-msgstr "Auf meiner Visitenkarte bin ich Chef eines Unternehmen. In meinen Gedanken bin ich ein Spieleentwickler. Aber in meinem Herzen bin ich ein Spieler. RIP SATORU IWATA"
+msgstr "Auf meiner Visitenkarte, bin ich Leiter eines Unternehmens, in Gedanken bin ein Spieleentwickler. Aber in meinem Herzen bin ich ein Spieler. RIP SATORU IWATA"
 
 #. Key:	580AB33F49B831AEBBB1738D59F03057
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/Outside/ZeldacastleBackyard.ZeldacastleBackyard:PersistentLevel.Malon_3.text4
@@ -1963,7 +1962,7 @@ msgid ""
 "You got a Deku Stick !  \r\n"
 " You can select it in the Item subscreen."
 msgstr ""
-"Du hast einen Deku-Stab erhalten!\r\n"
+"Du hast einen Dekustab erhalten!\r\n"
 "Du kannst ihn im Item-Menü auswählen."
 
 #. Key:	5835FDD841EB6547337350A1B33319FF
@@ -2017,7 +2016,7 @@ msgstr "Lila"
 #: [Script Bytecode]
 msgctxt ",5C051135484537A58A2D37AE369F388E"
 msgid "You got a Deku Stick ! You can select it in the Item subscreen."
-msgstr "Du hast einen Deku-Stab erhalten! Du kannst ihn  im Item-Menü auswählen."
+msgstr "Du hast einen Dekustab erhalten! Du kannst diesen im Item-Menü auswählen."
 
 #. Key:	5C218F074342F4DFBA8F7D9647015A43
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR3.ItemsR3.DisplayNameMap(7 - Value).DisplayNameMap
@@ -2032,7 +2031,7 @@ msgstr "Nichts"
 #: /Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1.Text
 msgctxt ",5CD5041348768839874312BD37D82220"
 msgid "Attack"
-msgstr "Angreifen"
+msgstr "Angriff"
 
 #. Key:	5CE60C6246D459942A09898B0A425CAC
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
@@ -2160,7 +2159,7 @@ msgstr "Links Haus"
 #: [Script Bytecode]
 msgctxt ",64AC84D744246F4416C5B2A539652A8B"
 msgid "Deku Stick (  1 piece )   10 Rupees"
-msgstr "Deku-Stab (  1 Stück )   10 Rubine"
+msgstr "Dekustab (  1 Stück )   10 Rubine"
 
 #. Key:	64AEB59B4C66533B02627AA5DD11DB2B
 #. SourceLocation:	/Game/ZELDA/Maps/TrainingLevel/Training.Training_C:ExecuteUbergraph_Training [Script Bytecode]
@@ -2168,7 +2167,7 @@ msgstr "Deku-Stab (  1 Stück )   10 Rubine"
 #: [Script Bytecode]
 msgctxt ",64AEB59B4C66533B02627AA5DD11DB2B"
 msgid "Do you want to start training?"
-msgstr "Möchtest du mit den Training fortfahren?"
+msgstr "Willst du anfangen zu trainieren?"
 
 #. Key:	6536E6FF40E0F54474A8BAAC1E1879B4
 #. SourceLocation:	/Game/ZELDA/Blueprints/Items/Small_Treasure/SmallChestItems.SmallChestItems.DisplayNameMap(6 - Value).DisplayNameMap
@@ -2183,7 +2182,7 @@ msgstr "Herz"
 #: /Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/KokiriForest_CPP.KokiriForest_CPP:PersistentLevel.WomanBP_422.Text1
 msgctxt ",65BF54A148F7DDC1D96FE983F07122AF"
 msgid "Look up Link !, Press S ( Keyboard ) or the Shoulder buttons to Target me"
-msgstr "Schau hoch, Link!, Drücke Die S - oder Schulter-taste um mich anzuvisieren"
+msgstr "Schau hoch, Link!, Drücke S (Tastatur) oder die Schultertasten um mich anzuvisieren"
 
 #. Key:	667EAEED4831D21A42FE2E8649AE8F62
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Welcome.Welcome_C:WidgetTree.TypingText.Text
@@ -2206,7 +2205,7 @@ msgstr "Item2L"
 #: [Script Bytecode]
 msgctxt ",66B535B94B70A526AA3A57B74DB665D2"
 msgid "Push"
-msgstr "Drücken"
+msgstr "Schieben"
 
 #. Key:	66CB151D47413A0FBEA81585938F8D65
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KakarikoGraveyard.KakarikoGraveyard:PersistentLevel.SimpleDialogue2.Text
@@ -2221,7 +2220,7 @@ msgstr "                        Ruhe in Frieden Martin Pfister"
 #: [Script Bytecode]
 msgctxt ",676C28144AD1B64D1EF17AB589B08A98"
 msgid "Let's get the Triforce before Ganondorf does, and then defeat him!"
-msgstr "Lass uns das Triforce vor Ganondorf erlangen und bezwingen Ihn!"
+msgstr "Holen wir uns das Triforce noch vor Ganondorf, und dann besiegen ihn!"
 
 #. Key:	6783E0C64550F3A61D24ECA7B386176C
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -2279,7 +2278,7 @@ msgstr "                        Haus der Zwillinge"
 #: /Game/ZELDA/PauseMenu/MainMenu/VideoSettings.VideoSettings_C:WidgetTree.TextBlock_52.Text
 msgctxt ",6B72DD5B4A51FA53B9BD2EBF93459E36"
 msgid "CryZENx Settings"
-msgstr "CryZENx Einstellungen"
+msgstr "CryZENx Einstellwerte"
 
 #. Key:	6CE7C504423C3C4B38B7708AAFF9215B
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/VideoSettings.VideoSettings_C:WidgetTree.TextBlock_159.Text
@@ -2308,7 +2307,7 @@ msgstr "-------->"
 #: /Game/ZELDA/CharacterModels/Mido/BossBP.Default__BossBP_C.text1
 msgctxt ",6EE8BFAB441DB4800E1A54A3DF478F94"
 msgid "Hey you! \"Mr. No Fairy! \"What's your business with the Great Deku Tree?????"
-msgstr "He du! \"Herr keine Fee!\"  Was hast du mit dem Deku-Baum zu tun?"
+msgstr "He du! \"Herr keine Fee!\" Welche Angelegenheit hast du mit dem großen Dekubaum?"
 
 #. Key:	6FD083F44D728E05059EE6A7CA663DD8
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
@@ -2316,7 +2315,7 @@ msgstr "He du! \"Herr keine Fee!\"  Was hast du mit dem Deku-Baum zu tun?"
 #: [Script Bytecode]
 msgctxt ",6FD083F44D728E05059EE6A7CA663DD8"
 msgid "I knew that thou you wouldest be able to carry my wishes"
-msgstr "Ich wusste, dass du in der Lage sein würdest, meine Wünsche zu erfüllen"
+msgstr "Ich wusste, dass du in der Lage sein würdest, meine Wünsche weiterzutragen"
 
 #. Key:	702CE5274A76D3D1F920A8BE06663CB1
 #. SourceLocation:	/Game/ZELDA/ZbrushModels/HyruleMarket/ZeldaCastle/ZeldaRoom/TrifoceScene/TriforceModel/Triforce.Triforce_C:ExecuteUbergraph_Triforce [Script Bytecode]
@@ -2324,7 +2323,7 @@ msgstr "Ich wusste, dass du in der Lage sein würdest, meine Wünsche zu erfüll
 #: [Script Bytecode]
 msgctxt ",702CE5274A76D3D1F920A8BE06663CB1"
 msgid "The Power to grant the wish of the one who holds the Triforce in his hands."
-msgstr "Die Macht, den Wunsch dessen  zu erfüllen, der das Triforce in seinen Händen hält."
+msgstr "Die Macht den Wunsch dessen zu erfüllen, welcher das Triforce in Händen hält."
 
 #. Key:	7064720E494BE4C6F8ED8489205105B7
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -2355,7 +2354,7 @@ msgstr "Hallo, und wer könntest du sein?"
 #: [Script Bytecode]
 msgctxt ",71990A31409D908B069A489EC7BE7E43"
 msgid "What happend??? Did he see you??"
-msgstr "Was ist passiert??? Hat er dich gesehen???"
+msgstr "Was geschah??? Hat er dich gesehen???"
 
 #. Key:	71C6D18D4BEADCC9B8292FBCB1F49AEE
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -2363,7 +2362,7 @@ msgstr "Was ist passiert??? Hat er dich gesehen???"
 #: [Script Bytecode]
 msgctxt ",71C6D18D4BEADCC9B8292FBCB1F49AEE"
 msgid "I told my father about my dream......"
-msgstr "Ich habe meinem Vater von meinem Traum erzählt......"
+msgstr "Ich erzählte meinem Vater von meinem Traum......"
 
 #. Key:	71F893A8495118F5DDE588AA4A13B5E0
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.FairyHelp_2.Text
@@ -2424,7 +2423,7 @@ msgstr "Pfeil1"
 #: [Script Bytecode]
 msgctxt ",73790A2E46C7DB93BA0D3CAC990C7D3C"
 msgid "You got a Pizza,  On the Item Subscreen, select it with Q W or E !"
-msgstr "Du bekommst eine Pizza, Im Item-Menü, wähle diese mit Q, W oder E aus!"
+msgstr "Du bekommst eine Pizza, Im Item-Menü wähle diese mit Q, W, oder E aus!"
 
 #. Key:	73B78FB442C2B7E10EE3C4B9C15DA709
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:OnRep_GotEgg [Script Bytecode]
@@ -2500,7 +2499,7 @@ msgstr "Kantenglättung"
 #: [Script Bytecode]
 msgctxt ",768CB4AD4806A5FB797E68BBAF77C0EF"
 msgid "Deku Seed ( 30 pieces ) 30 Rupees"
-msgstr "Deku-Nüsse   ( 30 Stück )     30 Rubine"
+msgstr "Dekukerne   ( 30 Stück )     30 Rubine"
 
 #. Key:	769CF548471AC6239E3564A20C9905E7
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectRight.iTEMSelectRight_C:ExecuteUbergraph_iTEMSelectRight [Script Bytecode]
@@ -2511,8 +2510,8 @@ msgid ""
 "A long branch gathered from the Great Deku Tree. \r\n"
 "You can use it as a weapon, but it will break."
 msgstr ""
-"Ein langer Zweig aufgesammelt vom Deku-Baum.\r\n"
-"Du kannst ihn als Waffe verwenden, aber er wird zerbrechen."
+"Ein langer Zweig aufgesammelt vom großen Dekubaum.\n"
+"Du kannst ihn als Waffe verwenden, aber zerbricht dieser."
 
 #. Key:	7739C1C74DE61D15E92947880567A936
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:GotStickFunction [Script Bytecode]
@@ -2523,8 +2522,8 @@ msgid ""
 "You got a Deku Stick !  \r\n"
 " You can select it in the Item subscreen."
 msgstr ""
-"Du hast einen Deku-Stab erhalten!\r\n"
-"Du kannst ihn im Item-Menü auswählen."
+"Du hast einen Dekustab erhalten!\r\n"
+"Du wählst diesen im Item-Menü aus."
 
 #. Key:	775858B0476FE7368D71B585F43E12F7
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/LostWoods.LostWoods_C:ExecuteUbergraph_LostWoods [Script Bytecode]
@@ -2547,9 +2546,7 @@ msgctxt ",77824C4341CEF79F9070A5864FB07E3B"
 msgid ""
 "Purple\r\n"
 "Rupee"
-msgstr ""
-"Lilaner\r\n"
-"Rubon"
+msgstr "Lila"
 
 #. Key:	77B2440D4F5964CD7C592BA8C93C5AB7
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/QuestionWid.QuestionWid_C:WidgetTree.TextBlock_1.Text
@@ -2574,7 +2571,7 @@ msgid ""
 "great to see you again ! "
 msgstr ""
 "Hey Link, endlich bist du aufgewacht!\r\n"
-"Schön, dich wiederzusehen! "
+"Schön, dich wieder zu sehen! "
 
 #. Key:	7824B5134B5DD01D96DD7A86BF957785
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -2589,7 +2586,7 @@ msgstr "Oh, tut mir Leid"
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor15_3.NewTextRenderComponent.Text
 msgctxt ",787E416546A9CBEACB7C72ACC9CFE438"
 msgid "GREEN SCREEN"
-msgstr "GRÜNE LEINWAND"
+msgstr "GRÜNEE LEINWAND"
 
 #. Key:	790279EC431973B26070358435F4FB97
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Misc/Dialog_System/Dialog_System_BP.Default__Dialog_System_BP_C.Text4
@@ -2624,7 +2621,7 @@ msgstr "Hylia-Schild  - 80 Rubine"
 #: [Script Bytecode]
 msgctxt ",7A0EF8DC4A6A3FD8FE51589752B37741"
 msgid "Once equipped, you can defend with Y"
-msgstr "Einmal ausgerüstet, kannst du mit Y verteidigen"
+msgstr "Einmal ausgerüstet, kannst du dich verteigien mit Y"
 
 #. Key:	7A91C1BD464897E8C2C07AA5736B830D
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/LostWoods.LostWoods:PersistentLevel.TalkToActors_GEN_VARIABLE_TalkToActors_C_CAT_1516.text1
@@ -2639,14 +2636,14 @@ msgstr "Bitte helf mir................"
 #: [Script Bytecode]
 msgctxt ",7B22AAA24C481FF3C2952A8CD1785824"
 msgid "Deku Nuts  ( 5 pieces )     15 Rupeees"
-msgstr "Deku-Nüsse   ( 5 Stück )     15 Rubine"
+msgstr "Dekunüsse   ( 5 Stück )     15 Rubine"
 
 #. Key:	7C1882864E42A65489E5C9B6A750A9B4
 #. SourceLocation:	/Game/ZELDA/Maps/MainMenuZelda/Main.Main_C:WidgetTree.TextBlock_1.Text
 #: /Game/ZELDA/Maps/MainMenuZelda/Main.Main_C:WidgetTree.TextBlock_1.Text
 msgctxt ",7C1882864E42A65489E5C9B6A750A9B4"
 msgid "Skip Kokiri Forest"
-msgstr "Überspringe den Kokiri-Wald"
+msgstr "Überspringe Kokiriwald"
 
 #. Key:	7C3F297643E1892C17CAEDAE673BF134
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectRight.iTEMSelectRight_C:ExecuteUbergraph_iTEMSelectRight [Script Bytecode]
@@ -2658,7 +2655,7 @@ msgid ""
 "You can carry only a limited amount of them."
 msgstr ""
 "Wirf sie, um deine Feinde zu betäuben. \r\n"
-"Du können nur eine begrenzte Anzahl davon tragen."
+"Du kannst nur eine begrenzte Anzahl davon tragen."
 
 #. Key:	7C63DDFC4ED04D269E8068A4D1C717C8
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_11.Text
@@ -2715,7 +2712,7 @@ msgstr "Kein Schlüssel"
 #: /Game/ZELDA/CharacterModels/Malon/Malon_2.Default__Malon_2_C.text2
 msgctxt ",8247A4594A6A61436E137CB5B73EDADD"
 msgid "Oh.... You are a Fairy boy from the Forest! My name is Malon!  My dad owns Lon Lon Ranch!"
-msgstr "Oh... Du bist ein Feenjunge aus dem Wald! Mein Name ist Malon! Meinem Vater gehört die Lon-Lon-Farm!"
+msgstr "Oh.... Du bist ein Feenjunge aus dem Wald! Mein Name ist Malon! Meinem Vater gehört die Lon-Lon-Farm!"
 
 #. Key:	83265B1E4F8CBDF04564BFBB644187D3
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL4.ItemsL4.DisplayNameMap(2 - Value).DisplayNameMap
@@ -2795,7 +2792,7 @@ msgstr "Ja"
 #: [Script Bytecode]
 msgctxt ",86D932B64C0DB296686C37A12CB9DE0D"
 msgid "Okay the training mode is ending here ! Hope you are ready ! Just go talk to me if you want to end the training or still contiune!"
-msgstr "Okay, der Trainingsmodus endet hier! Hoffe du bist bereit! Sprich einfach mit mir, wenn du das Training beenden oder trotzdem weitermachen willst!"
+msgstr "Okay, der Trainingsmodus endet hier! Hoffe du bist bereit! Sprich einfach mit mir, wenn du das Training beenden oder trotzdem fortsetztst!"
 
 #. Key:	86E275854EF60299F73542AA98E63436
 #. SourceLocation:	/Game/ZELDA/Blueprints/Items/Small_Treasure/SmallChestItems.SmallChestItems.DisplayNameMap(3 - Value).DisplayNameMap
@@ -2818,7 +2815,7 @@ msgstr "Kein Schlüssel"
 #: [Script Bytecode]
 msgctxt ",86EBB63242405BD66ABC32A5CA6940A0"
 msgid "Hylian Shield  - 80 Rupees"
-msgstr "Hylia Schild  - 80 Rubine"
+msgstr "Hyliaschild  - 80 Rubine"
 
 #. Key:	8700BD7540C59ACC1EC1D8A759BEDB23
 #. SourceLocation:	/Game/ZELDA/CharacterModels/Malon/Malon_2.Default__Malon_2_C.text1
@@ -2840,7 +2837,7 @@ msgstr "Kleine Truhe"
 #: [Script Bytecode]
 msgctxt ",875179B84E10F1BE0851A78EF9394813"
 msgid "Arrow    ( 10 pieces )   20 Rupees"
-msgstr "Pfeil    ( 10 Stück )   20 Rubine"
+msgstr "Pfeile    ( 10 Stück )   20 Rubine"
 
 #. Key:	8759776449F0A6CA5EA92590E57FE742
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -2848,7 +2845,7 @@ msgstr "Pfeil    ( 10 Stück )   20 Rubine"
 #: [Script Bytecode]
 msgctxt ",8759776449F0A6CA5EA92590E57FE742"
 msgid "However. he didn't believe it was a prophecy...."
-msgstr "Wie auch immer. Er glaubte nicht, dass das eine Prophezeiung war...."
+msgstr "Wie auch immer. Er glaubte nicht ,dass es eine Prophezeiung war...."
 
 #. Key:	878E92874E4B91D93F5552BE5A143574
 #. SourceLocation:	/Game/ZELDA/Blueprints/ExitPrompt_UI.ExitPrompt_UI_C:WidgetTree.TextBlock_1.Text
@@ -2863,7 +2860,7 @@ msgstr "Grafikeinstellungen"
 #: [Script Bytecode]
 msgctxt ",888296ED42F892713926829499AAC24F"
 msgid "Just as I thought !"
-msgstr "Genau wie ich dachte!"
+msgstr "Genau so wie ich dachte!"
 
 #. Key:	88FCD82A495B8E4AB906D8B4190C9226
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL3.ItemsL3.DisplayNameMap(5 - Value).DisplayNameMap
@@ -2886,14 +2883,14 @@ msgstr "DekuNuss"
 #: /Game/ZELDA/Blueprints/ExitPrompt_UI.ExitPrompt_UI_C:WidgetTree.TextBlock_102.Text
 msgctxt ",897581D1457ED2635663FBA3143F074D"
 msgid "Edit Controls"
-msgstr "Steuerung bearbeiten"
+msgstr "Steuerung Ändern"
 
 #. Key:	89813C64425830AA36AAEEAB9F778C5B
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_10.Text
 #: /Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_10.Text
 msgctxt ",89813C64425830AA36AAEEAB9F778C5B"
 msgid "Hud previous"
-msgstr "Vorheriges HUD"
+msgstr "Vorherige HUD"
 
 #. Key:	89A7CC744B6CD6B404233E9888F6DB49
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -2904,7 +2901,7 @@ msgid ""
 "What Ganondorf is after must be nohting less than  the \r\n"
 "Triforce of the Sacred Realm."
 msgstr ""
-"Was Ganondorf will, ist nichts weniger als das \r\n"
+"Was Ganondorf begehrt ist nichts Geringeres als das \r\n"
 "Triforce aus dem Heiligen Reich."
 
 #. Key:	8A1A59774B28CCDC9C5E2FA1F648D286
@@ -2971,7 +2968,7 @@ msgstr "Enter"
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor18.NewTextRenderComponent.Text
 msgctxt ",8C8A513F4D615778777061A1B72AA663"
 msgid "BOMBING AREA"
-msgstr "Bombierungs-Bereich"
+msgstr "Bombierungsbereich"
 
 #. Key:	8D2FFCB34EF9F5994C62C69F3223F65D
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Welcome.Welcome_C:ExecuteUbergraph_Welcome [Script Bytecode]
@@ -3033,7 +3030,7 @@ msgstr "Sprich"
 #: [Script Bytecode]
 msgctxt ",9043FAF5449C2738DAFE00BE1CDAB8AB"
 msgid "This will instantly refill one Heart Container."
-msgstr "Dies wird einen Herzcontainer sofort auffüllen."
+msgstr "Das sofortige auffüllen eines Herzcontainer."
 
 #. Key:	905CFA744B794F073E1D6085DE9C9D84
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -3041,7 +3038,7 @@ msgstr "Dies wird einen Herzcontainer sofort auffüllen."
 #: [Script Bytecode]
 msgctxt ",905CFA744B794F073E1D6085DE9C9D84"
 msgid "Yes, I thought you might be the one...."
-msgstr "Ja, ich dachte, dass du vielleicht der eine bist...."
+msgstr "Ja, ich dachte du könntest der Eine sein...."
 
 #. Key:	9077346147E3851EC539EFBA65D0B148
 #. SourceLocation:	/Game/ZELDA/Maps/StartupLevel/Languages.Languages.DisplayNameMap(3 - Value).DisplayNameMap
@@ -3068,8 +3065,8 @@ msgid ""
 "You got a Egg !\r\n"
 "Wait the next day and it will hatch."
 msgstr ""
-"Du hast ein Ei erhalten!\r\n"
-"Warte bis morgen, und es wird schlüpfen."
+"Du kriegst ein Ei !\r\n"
+"Warte bis morgen, und Es wird schlüpfen."
 
 #. Key:	918006FB43E0390479C58D8B0A5DFCB8
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
@@ -3117,8 +3114,8 @@ msgid ""
 "If you want to pass through here, you should at least equip a sword and shield!\r\n"
 "SHEEEEEEESH!!"
 msgstr ""
-"Wenn du hier durch willst, solltest du zumindest Schwert und Schild ausrüsten!\r\n"
-"SHEEEEEEESH!!"
+"Wenn du hier durch willst, solltest du zumindest mit einem Schwert und Schild ausrüsten!\r\n"
+"TSSSSSSSSHH!!"
 
 #. Key:	93F0A35B4C34FB1E99DE029F17F1F920
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -3142,7 +3139,7 @@ msgstr "DekuNuss"
 #: [Script Bytecode]
 msgctxt ",95DCD63B4C3DCFB159D356860D6C5D69"
 msgid "That's right.... The Temple of Time is the entrace Through which you can enter the Sacred Realm from our world."
-msgstr "Das ist richtig.... Der Tempel der Zeit ist der Eingang, durch welchen du das Heilige Reich von unserer Welt aus betreten kannst."
+msgstr "Das ist richtig.... Die Zitadelle der Zeit ist der Eingang für deinen Eintritt in das Heilige Reich von unserer Welt."
 
 #. Key:	96202CBB4BD8089ABB8452BE6E80D181
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR2.ItemsR2.DisplayNameMap(2 - Value).DisplayNameMap
@@ -3157,7 +3154,7 @@ msgstr "Schleuder"
 #: /Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/KokiriForest_CPP.KokiriForest_CPP:PersistentLevel.SignWood5_1206.Text1
 msgctxt ",968E861648F172B6213613804ED3E6FC"
 msgid "You need to Crouch, Press Keyboard X or Gamepad A infront the hole."
-msgstr "Du musst kriechen. Drücke X auf der Tastatur, oder A auf dem Gamepad, wenn du dich vor einem Loch befindest."
+msgstr "Du musst kriechen. Drücke(Tastatur)X ode(Gamepad) A vor einem Loch."
 
 #. Key:	969BF7914EEC6C392725BA9DAF7BD47E
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -3173,7 +3170,7 @@ msgstr "Wir dürfen Ganondorf das Triforce nicht überlassen!"
 #: [Script Bytecode]
 msgctxt ",96EDB17D4D1DEF2CEF3DBA9EC3A91B4D"
 msgid "Cant a person get a little shut-eye around here?"
-msgstr "Kann man hier nicht einmal in Ruhe ein Nickerchen halten?"
+msgstr "Kann man hier nicht einmal in Ruhe sein Nickerchen halten?"
 
 #. Key:	96F7530A42368065F5585BB765B0A2CF
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Misc/Dialog_System/Dialog_System_BP.Default__Dialog_System_BP_C.Text3
@@ -3215,7 +3212,7 @@ msgid ""
 "Your health has increased by one!"
 msgstr ""
 "Du hast einen Herzcontainer erhalten!\r\n"
-"Deine Gesundheit hat sich erhöht!"
+"Deine Lebensanzeige erhöht sich um Eins!"
 
 #. Key:	980835D147D8DFC71CC1B9A4F9ED3AC7
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
@@ -3238,7 +3235,7 @@ msgstr "Schutz, Feinde, Navi-Box, Springen, Leitern, Türen,"
 #: [Script Bytecode]
 msgctxt ",988357954C4F2324B50370B079242640"
 msgid "At the foot of Death Mountain you will find my village, Kakariko. That is where i was born and raised. You should talk to some of the villagers there before you go up Death Mountain."
-msgstr "Am Fuß des Todesberges wirst du mein Dorf finden, Kakariko. Dort kam ich zur Welt und wuchs auf. Du solltest mit einigen Dorfbewohnern unterhalten, vor Aufbruch hinauf zum Todesberg."
+msgstr "Am Fuß des Todesberges wirst du mein Dorf finden, Kakariko. Dort wurde ich geboren und aufgezogen. Du solltest mit einigen Leuten dort reden bevor du auf zum Todesberg begibst."
 
 #. Key:	98930FF248191890C1A009B252AC7E7F
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL4.ItemsL4.DisplayNameMap(4 - Value).DisplayNameMap
@@ -3287,8 +3284,8 @@ msgid ""
 "You need a bow to shoot them.\r\n"
 "You can't buy them unless you have a bow.."
 msgstr ""
-"Du brauchst einen Bogen, um sie abzuschießen.\r\n"
-"Solange du keinen Bogen hast, kannst du sie nicht kaufen.."
+"Du brauchst einen Bogen um diese abzufeuern.\r\n"
+"Du kannst sie nicht kaufen außer du besitzt einen Bogen."
 
 #. Key:	9A4416F949026B6C6ACDB284D292BEF6
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Shop_Enum.Shop_Enum.DisplayNameMap(3 - Value).DisplayNameMap
@@ -3304,7 +3301,7 @@ msgstr "Item4R"
 #: [Script Bytecode]
 msgctxt ",9A530A35404D3678796E4495835D9275"
 msgid "What have you done to the Great Deku Tree...."
-msgstr "Was hast du dem großen Deku-Baum angetan...."
+msgstr "Was hast du angerichtet mit dem großen Dekubaum...."
 
 #. Key:	9A55BF4E4B0C5C3303C6FC940BCA5124
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL4.ItemsL4.DisplayNameMap(8 - Value).DisplayNameMap
@@ -3328,7 +3325,7 @@ msgstr "Was zum Teufel?"
 #: [Script Bytecode]
 msgctxt ",9ABAC7F840EFCEBEEF01F9BBF36C1CF8"
 msgid "if someone with an evil mind has wish granted. the world will be consumed by evil... that is what has been told...."
-msgstr "Wenn sich jemand mit einem unreinen Herzen einen Wunsch erfüllt bekommt, wird die Welt von Bösem verzehrt werden... So wird es erzählt..."
+msgstr "Wenn Jemand mit Unreinen Herzens den Wunsch zusteht, wird die Welt verzehrt durch Übelstand... So die Überlieferung..."
 
 #. Key:	9BE1D2684E2AC929EA93F6B2C73E528A
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -3368,7 +3365,7 @@ msgid ""
 msgstr ""
 "Gehst du zum Schloss, Feenjunge?\r\n"
 "\r\n"
-"Würde es dir etwas ausmachen meinen Vater aufzusuchen?"
+"Würde es dir etwas ausmachen meinen Vater aufsuchen?"
 
 #. Key:	9C8B283F4AF6B53AA01BD08C66154F35
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor4.NewTextRenderComponent.Text
@@ -3413,7 +3410,7 @@ msgid ""
 "You got a Deku Stick !  \r\n"
 " You can select it in the Item subscreen."
 msgstr ""
-"Du hast einen Deku-Stab erhalten!\r\n"
+"Du hast einen Dekustab erhalten!\r\n"
 "Du kannst ihn im Item-Menü auswählen."
 
 #. Key:	9DB3B33C48356384EBA131866DEEEC1E
@@ -3422,7 +3419,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt ",9DB3B33C48356384EBA131866DEEEC1E"
 msgid "hylianshield"
-msgstr "Hylia-Schild"
+msgstr "hyliaschild"
 
 #. Key:	9DB3B926420C84ECCFB57FB131D0A2E4
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/SelectedFile.SelectedFile_C:WidgetTree.TextBlock_109.Text
@@ -3462,7 +3459,7 @@ msgstr ""
 #: /Game/ZELDA/PauseMenu/MainMenu/VideoSettings.VideoSettings_C:WidgetTree.TextBlock_158.Text
 msgctxt ",9E8D963B4F959E09D8ED74A6E7A46FA9"
 msgid "Midrange PC's / Nintendo Switch optimized"
-msgstr "Mittleklasse-PCs / Nintendo Switch optimirtz"
+msgstr "Mittleklasse-PCs / optimiert für die Nintendo Switch"
 
 #. Key:	9EE6BA0842FF805FFF52AFBA6ABF9BC8
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -3550,7 +3547,7 @@ msgstr "Soll ich das Tor öffnen? Dann zahle mir 10 Rubine."
 #: [Script Bytecode]
 msgctxt ",A19576E04CF9CBF659D0DE951027CEEA"
 msgid "My role in the Princess's dream was to teach a melody to the one from the forest."
-msgstr "Meine Rolle im Traum der Prinzessin war es eine Melodie beizubringen Dem aus dem Walde."
+msgstr "Meine Rolle im Traum der Prinzessin war es, dem aus dem Wald eine Melodie beizubringen."
 
 #. Key:	A24F8C6C4169FD5BCAAA4D91E92669F2
 #. SourceLocation:	/Game/ZELDA/Blueprints/TalkToActors.Default__TalkToActors_C.text4
@@ -3623,7 +3620,7 @@ msgstr "Speicherstand löschen"
 #: /Game/ZELDA/PauseMenu/MainMenu/SelectName.SelectName_C:WidgetTree.TextBlock_63.Text
 msgctxt ",A577B47D4644E1EA50E02F985F6B9561"
 msgid "Choose your name"
-msgstr "Wähle deinen Namen aus"
+msgstr "Wähle deinen Namen"
 
 #. Key:	A5C8DD9F4ED63E5A433A77873BB3B47B
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL3.ItemsL3.DisplayNameMap(4 - Value).DisplayNameMap
@@ -3646,14 +3643,14 @@ msgstr "NewNiagaraEmitter"
 #: [Script Bytecode]
 msgctxt ",A6FCB0E244CAAD8A2D7CC6895E81B20C"
 msgid "Deku Stick (  1 piece )   10 Rupees"
-msgstr "Deku-Stab (  1 Stück )   10 Rubine"
+msgstr "Dekustab (  1 Stück )   10 Rubine"
 
 #. Key:	A749CD6E4E157FB0FF28CAAC97B1637D
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/VideoSettings.VideoSettings_C:WidgetTree.TextBlock_160.Text
 #: /Game/ZELDA/PauseMenu/MainMenu/VideoSettings.VideoSettings_C:WidgetTree.TextBlock_160.Text
 msgctxt ",A749CD6E4E157FB0FF28CAAC97B1637D"
 msgid "for low end laptops"
-msgstr "Für Einsteigerklasse-Laptops"
+msgstr "Für Low-End-Laptops"
 
 #. Key:	A7D7CE0147BE9AF3339ED5978D003233
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL1.ItemsL1.DisplayNameMap(6 - Value).DisplayNameMap
@@ -3679,7 +3676,7 @@ msgid ""
 "You got a Deku Nut !  \r\n"
 " You can select it in the Item subscreen."
 msgstr ""
-"Du hast eine Deku-Nuss erhalten!\r\n"
+"Du hast eine Dekunuss!\r\n"
 "Du kannst sie im Item-Menu auswählen."
 
 #. Key:	A82DE0F645D1BB2C7BEC11BC16A9188A
@@ -3699,8 +3696,8 @@ msgid ""
 "I ...... entreat ....................... navi\r\n"
 "Go....od ..... bye........"
 msgstr ""
-"Ich ...... ersuche ............…....... Navi\n"
-"Le.... .....bt... wo…ohl…..."
+"Ich ...... bitte … dich .................... Navi\n"
+"Au....uf ..... wieder ........ se …. hen……..."
 
 #. Key:	A938D6264E2552586F4B4C8FE69713CB
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL2.ItemsL2.DisplayNameMap(6 - Value).DisplayNameMap
@@ -3737,14 +3734,14 @@ msgstr "test"
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.talon_pawn_2.text1
 msgctxt ",AB83311948BBD6FCF36A528344E8AB9C"
 msgid "This.... is... a.. roooffff... test map."
-msgstr "Das.... ist... eine.. roooffff... Test-Karte."
+msgstr "Das.... ist... eine.. Dach... Test-Karte."
 
 #. Key:	ABCE181C45DAE39BF83868AAFE4A440F
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/ItemText.ItemText_C:WidgetTree.TypingText.Text
 #: /Game/ZELDA/Blueprints/ShopKeeper/ItemText.ItemText_C:WidgetTree.TypingText.Text
 msgctxt ",ABCE181C45DAE39BF83868AAFE4A440F"
 msgid "Deku Shield  - 40 Rupees"
-msgstr "Deku-Schild  - 40 Rubine"
+msgstr "Dekuschild  - 40 Rubine"
 
 #. Key:	ABEDEE474927F5C55E715AA37A0892B5
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectLeft2.iTEMSelectLeft2_C:ExecuteUbergraph_iTEMSelectLeft2 [Script Bytecode]
@@ -3780,7 +3777,7 @@ msgstr "Nichts"
 #: [Script Bytecode]
 msgctxt ",ACA48E9643A8A66725CB9A89575ECE4D"
 msgid "Once equipped, you can defend with Y, if set on fire, it will burn !"
-msgstr "Sobald ausgerüstet, kannst du dich mit Y schützen. Wenn es angezündet wird, verbrennt es!"
+msgstr "Sobald ausgerüstet, kannst du dich damit verteidigen. Falls es angezündet wird, verbrennt es!"
 
 #. Key:	AD00E47F4AE2D800F46FA8963E80332B
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
@@ -3921,7 +3918,7 @@ msgstr "Wechsel zur WASD-Fortbewegung"
 #: /Game/ZELDA/CPP_Environment/Characters/Foes/Minions/Deku/Deku_Scrub/Deku_Scrub_BP.Default__Deku_Scrub_BP_C.TextDekuscrub
 msgctxt ",B501F4244EAA761B59398580F907879D"
 msgid "Sorry ! Leave me alone !"
-msgstr "Entschuldige! Lasst mich in Ruhe!"
+msgstr "Entschuldigung! Lass mich in Ruhe!"
 
 #. Key:	B56E2761408A63562D7EC0A7C633DE7D
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/resolution.resolution_C:WidgetTree.TextBlock_3.Text
@@ -3957,7 +3954,7 @@ msgstr "Es ist Zeit, ein paar VASEN zu zerschmettern!"
 #: /Game/ZELDA/Maps/MainMenuZelda/Main.Main_C:WidgetTree.TextBlock_86.Text
 msgctxt ",B66481A54BE93DF80EFBF289234E4005"
 msgid "Downsampling"
-msgstr "Runterskalieren"
+msgstr "Abwärtsskalierung"
 
 #. Key:	B68F71B446A8A19D955DAE850589D35B
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor6_8.NewTextRenderComponent.Text
@@ -4043,7 +4040,7 @@ msgstr "Hase"
 #: [Script Bytecode]
 msgctxt ",BA15FAFD48679C3A7D7D0DB6939A6CDF"
 msgid "And, in order to open the door, it is said that you need to collect three Spiritual Stones."
-msgstr "Und, um dieses Tor zu öffnen besagt sich, man müsse drei Heilige Steine einsammeln."
+msgstr "Und es heißt, um dieses Tor zu öffnen, musst du drei Heilige Steine sammeln."
 
 #. Key:	BA5A4FA74B9C13A9AB6D859D2B4DD340
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:OnRep_GotHeartContainer [Script Bytecode]
@@ -4051,7 +4048,7 @@ msgstr "Und, um dieses Tor zu öffnen besagt sich, man müsse drei Heilige Stein
 #: [Script Bytecode]
 msgctxt ",BA5A4FA74B9C13A9AB6D859D2B4DD340"
 msgid "You Got A Heart Container!  Your maximum life energy is increased by one heart. Your life energy will be totally filled."
-msgstr "Du hast einen Herzcontainer erhalten! Deine maximale Lebensenergie erhöht sich um ein Herz. Deine Lebensenergie wird vollständig aufgefüllt."
+msgstr "Du erhälst einen Herzcontainer! Deine maximale Lebensenergie erhöht sich um ein Herz. Deine Lebensenergie wird vollständig aufgefüllt."
 
 #. Key:	BA69513642F25345A8855990918ECBA1
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/MainMenuZelda/Main_BP.Main_BP_C:WidgetTree.TextBlock_3.Text
@@ -4066,7 +4063,7 @@ msgstr "ZitadellederZeit"
 #: [Script Bytecode]
 msgctxt ",BAC7744F49CB19906D2F26BBADE890C0"
 msgid "Once equipped, you can defend with Y, if set on fire, it will burn !"
-msgstr "Sobald ausgerüstet, kannst du dich damit verteidigen. Falls es angezündet wird, verbrennt es!"
+msgstr "Einmal damit gerüstet schützt du dich mit Y. Falls es entflammt, verbrennt es!"
 
 #. Key:	BAC952E548DB881C82C5EBA76DC455DD
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectRight.iTEMSelectRight_C:ExecuteUbergraph_iTEMSelectRight [Script Bytecode]
@@ -4089,7 +4086,7 @@ msgstr "Bewegungsunschärfe"
 #: [Script Bytecode]
 msgctxt ",BB43BBE34EAF92B8D00ABD8E7D8D7856"
 msgid "I am Impa of the Sheikahs. I am responsible for protecting Princess Zelda. Everything is exactly as the princess foretold."
-msgstr "Ich bin Impa einer der Shiekahs. Ich bin verantwotlich   Prinzessin Zelda zu schützen. Alles ist genau so wie die Prinzessin es voraussagte."
+msgstr "Ich bin Impa vom Stamm der Shiekah. Meine Aufgabe ist es, Prinzessin Zelda zu beschützen. Alles ist genau so, wie die Prinzessin es vorausgesagt hat."
 
 #. Key:	BB666733408AAFF1FF941690208A510C
 #. SourceLocation:	/Game/ZELDA/Enemys/Boss/GOHMAQueen/NewNiagaraSystem1.NewNiagaraSystem1:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_4.DisplayName
@@ -4129,7 +4126,7 @@ msgid ""
 "You got a Red Rupee!\r\n"
 "That's TWENTY Rupees!"
 msgstr ""
-"Du erhälst einen roten Rubin!\r\n"
+"Du hast einen roten Rubin erhalten!\r\n"
 "Das sind ZWANZIG Rubine!"
 
 #. Key:	BE157E6D4AA04B03B89B94B77EBFC5E0
@@ -4149,8 +4146,8 @@ msgid ""
 "When you play the ocarina, I hope you will think of me \r\n"
 "and come back to forest to visit."
 msgstr ""
-"Ich hoffe, dass du an mich denkst, wenn du auf der Okarina spielst,\r\n"
-"und zurück in den Wald kommst, um mich zu besuchen."
+"Wenn du auf der Okarina spielst, hoffe Ich du wirst an mich denken\r\n"
+"und, in den Wald zurückkehrst, mich besuchen."
 
 #. Key:	BF78CDC347F7161DC518F2A70199655E
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KakarikoVillage.KakarikoVillage:PersistentLevel.Jabba_2.text1
@@ -4165,7 +4162,7 @@ msgstr "Ich bin Jabbathetuck, ein Patreon Supporter! Wo schaust du hin? "
 #: [Script Bytecode]
 msgctxt ",BF7E48AF4290BB3BD5B4C1B2D43FECBD"
 msgid "Good bye!"
-msgstr "Auf wiedersehen!"
+msgstr "Auf Wiedersehen!"
 
 #. Key:	BFD55C864F1777A57787B498E7A19D3D
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Shop_Enum.Shop_Enum.DisplayNameMap(7 - Value).DisplayNameMap
@@ -4205,7 +4202,7 @@ msgstr "Schild"
 #: [Script Bytecode]
 msgctxt ",C1283E1140F613152F2406BCFE73B03C"
 msgid "Whoooo !????"
-msgstr "Weeeeer !????"
+msgstr "Weeeer!????"
 
 #. Key:	C1891FB24B1892508552DBAE6F28C74B
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/LostWoods.LostWoods_C:ExecuteUbergraph_LostWoods [Script Bytecode]
@@ -4216,7 +4213,7 @@ msgid ""
 "I want you to have this ocarina....\r\n"
 "Please take good care of it."
 msgstr ""
-"Ich möchte, dass du diese Okarina nimmst....\r\n"
+"Ich möchte dir diese Okarina geben....\r\n"
 "Pass gut darauf auf."
 
 #. Key:	C23ACEF54272C0BA4F1CB881BFD06421
@@ -4258,7 +4255,7 @@ msgstr "99"
 #: /Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_7.Text
 msgctxt ",C3CC173E40141C241B435CB8A12C059A"
 msgid "C-Up"
-msgstr "C-Hoch"
+msgstr "C-Auf"
 
 #. Key:	C4F0776D4DC3A8B61BD12FAFA666976D
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor24.NewTextRenderComponent.Text
@@ -4284,7 +4281,7 @@ msgstr "Neustart?"
 #: [Script Bytecode]
 msgctxt ",C5AB2E2C4509D01A56C818BE1EF9F40F"
 msgid "You got the HylianShield ! On the Equipment Subscreen, select it with the cursor and equip it with Keyboard X or Gamepad Button A."
-msgstr "Du hast das Hylia-Shield! Wähle es auf dem Ausrüstungs-Menü mit dem Cursor aus und statten es mit Tastatur X oder Gamepad-Taste A aus."
+msgstr "Du hast das Hyliaschield! Im Ausrüstungs-Menü, wähle mit dem Cursor aus und statte dich mit Tastatur X oder Gamepadtaste A aus."
 
 #. Key:	C5AEC038414B376A32CFDFA197BD31AE
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
@@ -4308,7 +4305,7 @@ msgstr "                        Okarina der Zeit!"
 #: [Script Bytecode]
 msgctxt ",C75F150748C9FC94577DF28B24577CF8"
 msgid "We found my family again! "
-msgstr "Wir haben meine Familie wiedergefunden! "
+msgstr "Wir haben meine Familie  wiedergefunden! "
 
 #. Key:	C8B83DE840CFBE0D98F8D280850C7731
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectLeft2.iTEMSelectLeft2_C:ExecuteUbergraph_iTEMSelectLeft2 [Script Bytecode]
@@ -4364,7 +4361,7 @@ msgstr "Pfeil1"
 #: /Game/ZELDA/Maps/OcarinaOfTime/Dungeons/Temple1/Inside_Deku_Tree.Inside_Deku_Tree:PersistentLevel.FairyHelp2_478.Text
 msgctxt ",CADE14BA4D6E74FE2172179B7DC2BA31"
 msgid "Becareful Link, the spikes will hurt you pretty badly!"
-msgstr "Sei vorsichtig Link, diese Stacheln werden dich ziemlich stark verletzen!"
+msgstr "Sei vorsichtig Link, die Stacheln können dich ziemlich stark verletzen!"
 
 #. Key:	CB0C637347E208C066A4918A7D87B4B0
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectLeft2.iTEMSelectLeft2_C:ExecuteUbergraph_iTEMSelectLeft2 [Script Bytecode]
@@ -4392,8 +4389,7 @@ msgid ""
 "You can't buy them unless you have a bow.."
 msgstr ""
 "Du brauchst einen Bogen, um sie abzuschießen.\r\n"
-"Du kannst nicht einkaufen außer du besitzt\n"
-" einen Bogen.."
+"Solange du keinen Bogen hast, kannst du sie nicht kaufen.."
 
 #. Key:	CC35CE154B3FCA04BF9C14A16CBA22B9
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectLeft2.iTEMSelectLeft2_C:ExecuteUbergraph_iTEMSelectLeft2 [Script Bytecode]
@@ -4404,8 +4400,8 @@ msgid ""
 "A long branch gathered from the Great Deku Tree. \r\n"
 "You can use it as a weapon, but it will break."
 msgstr ""
-"Ein langer Zweig eingesammelt vom Deku-Baum.\n"
-"Du kannst ihn als Waffe verwenden, aber er wird zerbrechen."
+"Ein langer eingesammelt vom Großen Dekubaum.\n"
+"Du kannst diesen als Waffe verwenden, aber er wird zerbrechen."
 
 #. Key:	CC5D9B0045E08258EA700B80A98386D0
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor22.NewTextRenderComponent.Text
@@ -4435,7 +4431,7 @@ msgstr "Nein"
 #: /Game/ZELDA/Maps/OcarinaOfTime/KakarikoVillage.KakarikoVillage:PersistentLevel.AnjuPawn_2.text1
 msgctxt ",CD97BB8749F6F9A45DFD72991DB28C0A"
 msgid "I lost all my cuccos! Please find them for me!"
-msgstr "Ich habe alle meine Hühner verloren! Bitte finde sie für mich!"
+msgstr "Ich habe alle meine Hühner verloren! Bitte finde die für mich!"
 
 #. Key:	CDE24F9843E352C1525A9081B8C47702
 #. SourceLocation:	/Game/ZELDA/Link_Child/Fairy/FairyEffect1.FairyEffect1:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_2.DisplayName
@@ -4489,7 +4485,7 @@ msgstr "test"
 #: [Script Bytecode]
 msgctxt ",D12A75A346FDCF3E16150EAB3A8CEE58"
 msgid "Put Away"
-msgstr "Verwahren"
+msgstr "Weglegen"
 
 #. Key:	D15A6F77406CF17E8A0434B109C2318E
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/TextItems.TextItems.DisplayNameMap(6 - Value).DisplayNameMap
@@ -4516,8 +4512,8 @@ msgid ""
 "And he wants to conquer Hyrule.....\r\n"
 "nooo , the entire world!"
 msgstr ""
-"Und er möchte Hyrule erobern.....\r\n"
-"nein, die ganze Welt!"
+"Und er möchte Hyrule erobern.....\n"
+"nein, die gesamte Welt!"
 
 #. Key:	D41A626243DA54E6C979B59FD90DAE37
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL4.ItemsL4.DisplayNameMap(0 - Value).DisplayNameMap
@@ -4574,8 +4570,8 @@ msgid ""
 "          That is Ganondorf, the leader of the Gerudos. \r\n"
 "          They hail from the desert far to the west."
 msgstr ""
-"          Das ist Ganondorf, der Anführer der Gerudos.\r \n"
-"          Sie kommen aus der Wüste weit entfernt aus dem Westen."
+"          Das ist Ganondorf, der Anführer der Gerudo.\r \n"
+"          Sie kommen aus der Wüste weit im Westen."
 
 #. Key:	D66787B94A2EDF723DF9CD8BD6B8A14A
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL3.ItemsL3.DisplayNameMap(1 - Value).DisplayNameMap
@@ -4602,8 +4598,7 @@ msgid ""
 "you cant do anything with it, just wait until the egg will hatch !\r\n"
 "wait till tomorrow!"
 msgstr ""
-"Du kannst damit nichts anfangen. Warte einfach, bis das Ei ausbrütet\n"
-"!\r\n"
+"Du kannst damit nichts anfangen. Warte einfach, bis das Ei schlüpft!\r\n"
 "Warte bis Morgen!"
 
 #. Key:	D78D438847966A55E51FDFBC3BFC3794
@@ -4722,7 +4717,7 @@ msgstr "2"
 #: /Game/ZELDA/Maps/MainMenuZelda/Main.Main_C:WidgetTree.TextBlock_112.Text
 msgctxt ",DBDB48AE4CD07AC1A6C8D3A7446CDDD1"
 msgid "By CryZENx"
-msgstr "By CryZENx"
+msgstr "Von CryZENx"
 
 #. Key:	DC2E651748ABC1B167C31897143C6F8F
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Misc/Widgets/TypingWidget_BP.TypingWidget_BP_C:WidgetTree.TextBlock_113.Text
@@ -4793,7 +4788,7 @@ msgstr ""
 #: /Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.Default__AdvancedGraphicsSettings_UI_C.DefaultSaveFolderPath
 msgctxt ",DFC4F6B9488044268212318F210E3219"
 msgid "Current Location : "
-msgstr "Momentaner Standort: "
+msgstr "Jetziger Standort: "
 
 #. Key:	E0788F024C3754486E5F9DB85BD1426C
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/NPCs/Saria/Saria_BP.Saria_BP_C:ExecuteUbergraph_Saria_BP [Script Bytecode]
@@ -4804,8 +4799,8 @@ msgid ""
 "Finally you woke up ! \r\n"
 "Deku Tree wants to talk with you."
 msgstr ""
-"Endlich bist du aufgewacht! \r\n"
-"Der Deku-Baum möchte mit dir sprechen."
+"Endlich wachst du auf ! \r\n"
+"Der Dekubaum möchte mit dir sprechen."
 
 #. Key:	E0E54E8D4EADD3EB29BD37AC1632F924
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -4816,8 +4811,8 @@ msgid ""
 "if the castle soldiers find you, there will be trouble.\r\n"
 "Let me lead you out of the castle."
 msgstr ""
-"Wenn die Schlosswachen dich hier finden, wirst du in Schwierigkeiten sein.\r\n"
-"Lass mich dich aus dem Schloss führen."
+"Wenn dich die Schlosswachen hier finden, kommst du in Schwierigkeiten.\r\n"
+"Lass mich dich aus dem Schloss hinausführen."
 
 #. Key:	E175DDE04BA8A4B0E5D497AEA5F1AFD1
 #. SourceLocation:	/Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock_126.Text
@@ -5074,7 +5069,7 @@ msgstr ""
 #: [Script Bytecode]
 msgctxt ",F1E5B7B44FDA719A164DA9B387311DC8"
 msgid "alright, in the options you can always call me for training !"
-msgstr "Okay, unter den Optionen kannst du mich immer anrufen für das Training!"
+msgstr "Okay, in den Optionen kannst du mich immer zum Training anrufen!"
 
 #. Key:	F22546C34D8983AA9E0B32B1EFBD5928
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:OnRep_GotHeartContainer [Script Bytecode]
@@ -5082,7 +5077,7 @@ msgstr "Okay, unter den Optionen kannst du mich immer anrufen für das Training!
 #: Bytecode]
 msgctxt ",F22546C34D8983AA9E0B32B1EFBD5928"
 msgid "You Got A Heart Container!  Your maximum life energy is increased by one heart. Your life energy will be totally filled."
-msgstr "Du hast einen Herzcontainer erhalten! Deine maximale Lebensenergie wird um ein Herz erhöht. Deine Lebensenergie wird vollständig aufgefüllt."
+msgstr "Du erhälst einen Herzcontainer! Deine maximale Lebensenergie erhöht sich um ein Herz. Deine Lebensenergie wird vollständig aufgefüllt."
 
 #. Key:	F30051CB490E9C3CACD747BC7778DEAA
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectLeft2.iTEMSelectLeft2_C:ExecuteUbergraph_iTEMSelectLeft2 [Script Bytecode]
@@ -5188,7 +5183,7 @@ msgstr ""
 #: /Game/ZELDA/CPP_Environment/HUD/Options_Menu/ExitPrompt_UI_BP.ExitPrompt_UI_BP_C:WidgetTree.TextBlock_102.Text
 msgctxt ",F77CBFD44CA3523E88F80084127AE7FD"
 msgid "Edit Controls"
-msgstr "Steuerung bearbeiten"
+msgstr "Steuerung Ändern"
 
 #. Key:	F78391A84A700FCC67070493ECD852D1
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL2.ItemsL2.DisplayNameMap(1 - Value).DisplayNameMap
@@ -5215,8 +5210,8 @@ msgid ""
 "Did you understand well the story \r\n"
 "I just told you?"
 msgstr ""
-"Hast du die Geschichte, die ich gerade erzählt habe\r\n"
-"gut verstanden?"
+"Hast du die Geschichte gut verstanden\r\n"
+"die ich dir gerade erzählte?"
 
 #. Key:	F8DD25FD451CEDDBC23B9CB486763744
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KakarikoGraveyard.KakarikoGraveyard:PersistentLevel.SimpleDialogue_2.Text
@@ -5230,7 +5225,7 @@ msgstr "                              Ruhe in Frieden DAN <3"
 #: /Game/ZELDA/CPP_Environment/Characters/NPCs/Malon/Malon_BP.Default__Malon_BP_C.text1
 msgctxt ",F983932B467E767C7460EE950CD3B17B"
 msgid "Hey! Your clothes! They are different... You are not  from around here, are you?"
-msgstr "Hey! Deine Kleidung! Sie ist anders… Du kommst nicht aus dieser Gegend, oder?"
+msgstr "Hey! Deine Kleidung! Sie ist anders… Du kommst etwas nicht aus dieser Gegend?"
 
 #. Key:	FAA10ACB4251B8541F9C028C7F098EE0
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
@@ -5291,7 +5286,7 @@ msgid ""
 "You got a Deku Nut !  \r\n"
 " You can select it in the Item subscreen."
 msgstr ""
-"Du hast eine Deku-Nuss erhalten!\r\n"
+"Du erwirbst eine Dekunuss!\r\n"
 "Du kannst sie im Item-Menu auswählen."
 
 #. Key:	FBEBB4854DA2BB5BCCE1B485CBA57A37
