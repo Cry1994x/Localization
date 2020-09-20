@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gameplaylocalization\n"
 "POT-Creation-Date: 2020-08-01 20:08\n"
-"PO-Revision-Date: 2020-09-20 16:06+0200\n"
+"PO-Revision-Date: 2020-09-20 16:28+0200\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -76,7 +76,7 @@ msgstr "Pfeil1"
 #: /Game/ZELDA/CPP_Environment/HUD/Pause_Menu/PauseOcarinaNotes_BP.Default__PauseOcarinaNotes_BP_C.PlayedSong
 msgctxt ",04247CCB43191400D20770BC98F72390"
 msgid "You Played"
-msgstr "Du spieltest"
+msgstr "Du Spieltest"
 
 #. Key:	0445F3F64277038E79282FAFEC593E4E
 #. SourceLocation:	/Game/ZELDA/Blueprints/HUD.HUD_C:WidgetTree.TextBlock_154.Text
@@ -297,7 +297,7 @@ msgstr "test"
 #: /Game/ZELDA/Link_Child/Ocarina/PauseOcarinaNotes.Default__PauseOcarinaNotes_C.PlayedSong
 msgctxt ",0D2444FE4BF663BA893C68BEE8616E62"
 msgid "You Played"
-msgstr "Du spieltest"
+msgstr "Du Spieltest"
 
 #. Key:	0D247AE84441368931B59CB550AE74A6
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_2.Text
@@ -522,7 +522,7 @@ msgid ""
 "Link, Becareful there is a Skulltula in the vine! \r\n"
 "Try to sneak up !"
 msgstr ""
-"Link, seu vorsichtig, da ist eine Skulltula in der Ranke!\r\n"
+"Link, sei vorsichtig, da ist eine Skulltula in der Ranke!\r\n"
 "Versuche dich an sie anzuschleichen!"
 
 #. Key:	16970E584E8AFD2C0BEF3DAB972398DD
@@ -564,14 +564,14 @@ msgid ""
 msgstr ""
 "Du hälst den Kokiri-Smaragd!\r\n"
 "Dies ist der Heilige Stein des Waldes,\r\n"
-"sofort dir anvertraut wurde vom großen Dekubaum."
+"der jetzt dir anvertraut wurde vom Großen Dekubaum."
 
 #. Key:	171CA0894D46850CC9092A825361CAB5
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor8.NewTextRenderComponent.Text
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor8.NewTextRenderComponent.Text
 msgctxt ",171CA0894D46850CC9092A825361CAB5"
 msgid "TOO LOW"
-msgstr "ZU NIEDRIG"
+msgstr "ZU NIEDER"
 
 #. Key:	1778026E43A9C8DAEFED38AF972C0F9D
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KakarikoGraveyard.KakarikoGraveyard:PersistentLevel.SimpleDialogue3.Text
@@ -875,9 +875,9 @@ msgid ""
 "holding a green and shining stone,\r\n"
 "followed by a fairy....."
 msgstr ""
-"Das Licht formte sich zu einer Gestaltr\n"
+"Das Licht wandelt sich zu einer Gestaltr\n"
 "festhaltend eines grünen und leuchtenden Steines,\r\n"
-"gefolgt von einer Fee....."
+"begleitend mit einer Fee....."
 
 #. Key:	26AC82844E5BAD58E0524DA3892E3705
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL4.ItemsL4.DisplayNameMap(10 - Value).DisplayNameMap
@@ -1036,7 +1036,7 @@ msgstr "Schleuder"
 #: [Script Bytecode]
 msgctxt ",2B55AFCF48DB02C82C73B5ADECD36BDE"
 msgid "You Got A Heart Container!  Your maximum life energy is increased by one heart. Your life energy will be totally filled."
-msgstr "Du erhälst einen Herzcontainer! Deine maximale Lebensenergie erhöht sich um ein Herz. Deine Lebensenergie wird vollständig aufgefüllt."
+msgstr "Du erhälst einen Herzcontainer! Deine gesamte Lebensenergie erweitert sich um ein Herz. Deine Lebensenergie wird vollständig aufgefüllt."
 
 #. Key:	2BAB01B04AC0F2748C83D8AEC47A50CA
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL1.ItemsL1.DisplayNameMap(3 - Value).DisplayNameMap
@@ -2307,7 +2307,7 @@ msgstr "-------->"
 #: /Game/ZELDA/CharacterModels/Mido/BossBP.Default__BossBP_C.text1
 msgctxt ",6EE8BFAB441DB4800E1A54A3DF478F94"
 msgid "Hey you! \"Mr. No Fairy! \"What's your business with the Great Deku Tree?????"
-msgstr "He du! \"Herr keine Fee!\" Welche Angelegenheit hast du mit dem großen Dekubaum?"
+msgstr "He du! \"Herr keine Fee!\" Welche Angelegenheit hast du mit dem Großen Dekubaum?"
 
 #. Key:	6FD083F44D728E05059EE6A7CA663DD8
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
@@ -2510,7 +2510,7 @@ msgid ""
 "A long branch gathered from the Great Deku Tree. \r\n"
 "You can use it as a weapon, but it will break."
 msgstr ""
-"Ein langer Zweig aufgesammelt vom großen Dekubaum.\n"
+"Ein langer Zweig aufgesammelt vom Großen Dekubaum.\n"
 "Du kannst ihn als Waffe verwenden, aber zerbricht dieser."
 
 #. Key:	7739C1C74DE61D15E92947880567A936
@@ -2621,7 +2621,7 @@ msgstr "Hylia-Schild  - 80 Rubine"
 #: [Script Bytecode]
 msgctxt ",7A0EF8DC4A6A3FD8FE51589752B37741"
 msgid "Once equipped, you can defend with Y"
-msgstr "Einmal ausgerüstet, kannst du dich verteigien mit Y"
+msgstr "Einmal damit gerüstet schützt du dich mit Y"
 
 #. Key:	7A91C1BD464897E8C2C07AA5736B830D
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/LostWoods.LostWoods:PersistentLevel.TalkToActors_GEN_VARIABLE_TalkToActors_C_CAT_1516.text1
@@ -3030,7 +3030,7 @@ msgstr "Sprich"
 #: [Script Bytecode]
 msgctxt ",9043FAF5449C2738DAFE00BE1CDAB8AB"
 msgid "This will instantly refill one Heart Container."
-msgstr "Das sofortige auffüllen eines Herzcontainer."
+msgstr "Dies bewirkt sofortiges Wiederauffüllen eines Herzcontainers."
 
 #. Key:	905CFA744B794F073E1D6085DE9C9D84
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -3301,7 +3301,7 @@ msgstr "Item4R"
 #: [Script Bytecode]
 msgctxt ",9A530A35404D3678796E4495835D9275"
 msgid "What have you done to the Great Deku Tree...."
-msgstr "Was hast du angerichtet mit dem großen Dekubaum...."
+msgstr "Was hast du angerichtet mit dem Großen Dekubaum...."
 
 #. Key:	9A55BF4E4B0C5C3303C6FC940BCA5124
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL4.ItemsL4.DisplayNameMap(8 - Value).DisplayNameMap
@@ -3459,7 +3459,7 @@ msgstr ""
 #: /Game/ZELDA/PauseMenu/MainMenu/VideoSettings.VideoSettings_C:WidgetTree.TextBlock_158.Text
 msgctxt ",9E8D963B4F959E09D8ED74A6E7A46FA9"
 msgid "Midrange PC's / Nintendo Switch optimized"
-msgstr "Mittleklasse-PCs / optimiert für die Nintendo Switch"
+msgstr "Mittleklasse-PC / Nintendo Switch optimiert"
 
 #. Key:	9EE6BA0842FF805FFF52AFBA6ABF9BC8
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -3482,7 +3482,7 @@ msgstr "ZURÜCK"
 #: [Script Bytecode]
 msgctxt ",9FD4A45E44633ECE00BBCE8426317448"
 msgid "Once equipped, you can defend with Y"
-msgstr "Einmal ausgerüstet, kannst du mit Y verteidigen"
+msgstr "Einmal damit gerüstet schützt du dich mit Y"
 
 #. Key:	9FEDD62746B605564C3D33B626E07245
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectRight.iTEMSelectRight_C:ExecuteUbergraph_iTEMSelectRight [Script Bytecode]
@@ -3490,7 +3490,7 @@ msgstr "Einmal ausgerüstet, kannst du mit Y verteidigen"
 #: [Script Bytecode]
 msgctxt ",9FEDD62746B605564C3D33B626E07245"
 msgid "Recovery Heart   10 Rupees"
-msgstr "Herzteil   10 Rubine"
+msgstr "Reserve Herz   10 Rubine"
 
 #. Key:	9FF5C97A4A9D9BEC9597EEA0B4FF34BB
 #. SourceLocation:	/Game/ZELDA/CharacterModels/Malon/Malon_2.Default__Malon_2_C.text3
@@ -3650,7 +3650,7 @@ msgstr "Dekustab (  1 Stück )   10 Rubine"
 #: /Game/ZELDA/PauseMenu/MainMenu/VideoSettings.VideoSettings_C:WidgetTree.TextBlock_160.Text
 msgctxt ",A749CD6E4E157FB0FF28CAAC97B1637D"
 msgid "for low end laptops"
-msgstr "Für Low-End-Laptops"
+msgstr "Für Einsteiger-Laptops"
 
 #. Key:	A7D7CE0147BE9AF3339ED5978D003233
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL1.ItemsL1.DisplayNameMap(6 - Value).DisplayNameMap
@@ -3761,7 +3761,7 @@ msgstr ""
 #: [Script Bytecode]
 msgctxt ",ABEF097F4E34B3E13E6394A28C784078"
 msgid "This will instantly refill one Heart Container."
-msgstr "Dies wird einen Herzcontainer sofort auffüllen."
+msgstr "Dies bewirkt sofortiges Wiederauffüllen eines Herzcontainers."
 
 #. Key:	AC40ABCA4FBB13944BE15F954B8501AD
 #. SourceLocation:	/Game/ZELDA/Blueprints/MiniMap/DungeonMaps.DungeonMaps.DisplayNameMap(1 - Value).DisplayNameMap
@@ -4048,7 +4048,7 @@ msgstr "Und es heißt, um dieses Tor zu öffnen, musst du drei Heilige Steine sa
 #: [Script Bytecode]
 msgctxt ",BA5A4FA74B9C13A9AB6D859D2B4DD340"
 msgid "You Got A Heart Container!  Your maximum life energy is increased by one heart. Your life energy will be totally filled."
-msgstr "Du erhälst einen Herzcontainer! Deine maximale Lebensenergie erhöht sich um ein Herz. Deine Lebensenergie wird vollständig aufgefüllt."
+msgstr "Du erhälst einen Herzcontainer! Deine gesamte Lebensenergie erweitert sich um ein Herz. Deine Lebensenergie wird vollständig aufgefüllt."
 
 #. Key:	BA69513642F25345A8855990918ECBA1
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/MainMenuZelda/Main_BP.Main_BP_C:WidgetTree.TextBlock_3.Text
@@ -5077,7 +5077,7 @@ msgstr "Okay, in den Optionen kannst du mich immer zum Training anrufen!"
 #: Bytecode]
 msgctxt ",F22546C34D8983AA9E0B32B1EFBD5928"
 msgid "You Got A Heart Container!  Your maximum life energy is increased by one heart. Your life energy will be totally filled."
-msgstr "Du erhälst einen Herzcontainer! Deine maximale Lebensenergie erhöht sich um ein Herz. Deine Lebensenergie wird vollständig aufgefüllt."
+msgstr "Du erhälst einen Herzcontainer! Deine gesamte Lebensenergie erweitert sich um ein Herz. Deine Lebensenergie wird vollständig aufgefüllt."
 
 #. Key:	F30051CB490E9C3CACD747BC7778DEAA
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectLeft2.iTEMSelectLeft2_C:ExecuteUbergraph_iTEMSelectLeft2 [Script Bytecode]
@@ -5329,7 +5329,7 @@ msgstr "Herz"
 #: /Game/ZELDA/Link_Child/Ocarina/OcarinaNotes.Default__OcarinaNotes_C.PlayedSong
 msgctxt ",FD183FE14C65FBE7E789F7AF4BAEF76A"
 msgid "You Played"
-msgstr "Du spieltest"
+msgstr "Du Spieltest"
 
 #. Key:	FD63923B47C9384CC2060BA0F174A164
 #. SourceLocation:	/Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock_5.Text
