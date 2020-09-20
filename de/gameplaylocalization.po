@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gameplaylocalization\n"
 "POT-Creation-Date: 2020-08-01 20:08\n"
-"PO-Revision-Date: 2020-09-20 16:28+0200\n"
+"PO-Revision-Date: 2020-09-20 16:31+0200\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -4255,7 +4255,7 @@ msgstr "99"
 #: /Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_7.Text
 msgctxt ",C3CC173E40141C241B435CB8A12C059A"
 msgid "C-Up"
-msgstr "C-Auf"
+msgstr "C-Hoch"
 
 #. Key:	C4F0776D4DC3A8B61BD12FAFA666976D
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor24.NewTextRenderComponent.Text
