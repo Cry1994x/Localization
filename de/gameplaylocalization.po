@@ -1,10 +1,11 @@
 # Copyright Epic Games, Inc. All Rights Reserved.
-# MakerMario <MakerMario@gmx.de>, 2020.
+# Right are reserved each Translators individual expressions and contribution as their right cannot dismissed.
 msgid ""
 msgstr ""
 "Project-Id-Version: gameplaylocalization\n"
 "POT-Creation-Date: 2020-08-01 20:08\n"
-"PO-Revision-Date: 2020-09-21 14:07+0200\n"
+"PO-Revision-Date: 2020-09-21 14:18+0200\n"
+"Previous-Translator: Heros_Jani <rojan.kelava@web.de>\n"
 "Last-Translator: MakerMario <MakerMario@gmx.de>\n"
 "Language-Team: Blue Ruppe and Blue (enjambment) Rupee are not treated the "
 "same for example!\n"
@@ -718,7 +719,7 @@ msgid ""
 "You got a Deku Nut !  \r\n"
 " You can select it in the Item subscreen."
 msgstr ""
-"Du besitzt eine Dekunuss!\r\n Du vermagst diese austzüsten im Item-Menü."
+"Du besitzt eine Dekunuss!\r\n Du vermagst diese austzüsten im Gegenstandsmenü."
 
 #. Key:	23B93E9648B7C965772080A67C643E76
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
@@ -1297,7 +1298,7 @@ msgstr "Hey Link.....\r\n .... JA, DUUU. Ich habe eine wichtige Nachricht für d
 #: /Game/ZELDA/Blueprints/ChildLink.ChildLink_C:StartDialogue [Script Bytecode]
 msgctxt ",3FA7856E4A4FC466EACC57A199258AAE"
 msgid "You got a Deku Stick ! You can select it in the Item subscreen."
-msgstr "Du hast einen Dekustab erhalten! Du kannst ihn im Item-Untermenü auswählen."
+msgstr "Du hast einen Dekustab erhalten! Du kannst ihn im Gegenstandsmenü auswählen."
 
 #. Key:	3FA92322427EA7C2CABAC698BE2766A1
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KakarikoVillage.KakarikoVillage:PersistentLevel.Zeno_2.text1
@@ -1768,7 +1769,7 @@ msgctxt ",582DC77F4B408B16A17CE1AFDEF1B1DC"
 msgid ""
 "You got a Deku Stick !  \r\n"
 " You can select it in the Item subscreen."
-msgstr "Du erwirbst einen Dekustab!\r\n Du kannst ihn im Item-Untermenü auswählen."
+msgstr "Du erwirbst einen Dekustab!\r\n Du kannst ihn im Gegenstandsmenü auswählen."
 
 #. Key:	5835FDD841EB6547337350A1B33319FF
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/MainMenuFinalWidget.MainMenuFinalWidget_C:WidgetTree.TextBlock_363.Text
@@ -1817,7 +1818,7 @@ msgstr "Lila"
 #: /Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:StartDialogue [Script Bytecode]
 msgctxt ",5C051135484537A58A2D37AE369F388E"
 msgid "You got a Deku Stick ! You can select it in the Item subscreen."
-msgstr "Du hast einen Dekustab erhalten! Du kannst diesen im Item-Menü auswählen."
+msgstr "Du hast einen Dekustab erhalten! Du kannst diesen im Gegenstandsmenü auswählen."
 
 #. Key:	5C218F074342F4DFBA8F7D9647015A43
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR3.ItemsR3.DisplayNameMap(7 - Value).DisplayNameMap
@@ -2192,7 +2193,7 @@ msgstr "Pfeil1"
 #: /Game/ZELDA/Blueprints/Items/Treasure/Traseure.Traseure_C:ExecuteUbergraph_Traseure [Script Bytecode]
 msgctxt ",73790A2E46C7DB93BA0D3CAC990C7D3C"
 msgid "You got a Pizza,  On the Item Subscreen, select it with Q W or E !"
-msgstr "Du bekommst eine Pizza, Im Item-Menü selektiere diese mit Q, W, oder E!"
+msgstr "Du bekommst eine Pizza, Im Gegenstandsmenü selektiere diese mit Q, W, oder E!"
 
 #. Key:	73B78FB442C2B7E10EE3C4B9C15DA709
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:OnRep_GotEgg [Script Bytecode]
@@ -2278,7 +2279,7 @@ msgid ""
 "You got a Deku Stick !  \r\n"
 " You can select it in the Item subscreen."
 msgstr ""
-"Du hast einen Dekustab erhalten!\r\n Du wählst diesen im Item-Untermenü aus."
+"Du hast einen Dekustab erhalten!\r\n Du wählst diesen im Gegenstandsmenü aus."
 
 #. Key:	775858B0476FE7368D71B585F43E12F7
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/LostWoods.LostWoods_C:ExecuteUbergraph_LostWoods [Script Bytecode]
@@ -4375,7 +4376,7 @@ msgid ""
 "You found the Fairy SlingShot!\r\n"
 " You can select it in the Item subscreen."
 msgstr "Du hast die Feen-Schleuder gefunden!\r\n"
-"Du kannst sie im Item-Menü auswählen."
+"Du kannst sie im Gegenstandsmenü auswählen."
 
 #. Key:	E3FF75CC4045E49196C735ADB488D192
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleField.HyruleField_C:ExecuteUbergraph_HyruleField [Script Bytecode]
@@ -4553,7 +4554,7 @@ msgctxt ",F18683494745F1C347F0D1818B630BC1"
 msgid ""
 "You found the Fairy SlingShot!\r\n"
 " You can select it in the Item subscreen."
-msgstr "Du erhälst die Feen-Schleuder!\r\n Wähle sie im Item-Menü aus."
+msgstr "Du erhälst die Feen-Schleuder!\r\n Wähle sie im Gegenstandsmenü aus."
 
 #. Key:	F1E5B7B44FDA719A164DA9B387311DC8
 #. SourceLocation:	/Game/ZELDA/Blueprints/NPCdialogue.NPCdialogue_C:ExecuteUbergraph_NPCdialogue [Script Bytecode]
@@ -4827,7 +4828,7 @@ msgstr "Ich werde dir das Geheimnis des Heiligen Reiches erzählen welches von d
 #: /Game/ZELDA/CPP_Environment/World_Objects/Chests/Chest_BP.Chest_BP_C:ExecuteUbergraph_Chest_BP [Script Bytecode]
 msgctxt ",FF3CF6B04462C545B08E908364EA5137"
 msgid "You got the Sling Shot ! On the Item Subscreen, select it with Q W or E !"
-msgstr "Du hast die Schleuder! Wähle sie im Item-Menü mit Q W oder E aus!"
+msgstr "Du hast die Schleuder! Wähle sie im Gegenstandsenü mit Q W oder E aus!"
 
 #. Key:	FF9474E145A3493D874FFE846C544D8D
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
