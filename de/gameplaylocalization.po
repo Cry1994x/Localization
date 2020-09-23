@@ -1,18 +1,18 @@
 # Copyright Epic Games, Inc. All Rights Reserved.
-# Rights are reserved for each individual's and entity's contribution
+# All Rights are reserved for each individual's and entity's contribution within the UN(United Nation)which cannot be dismissed. Let's Credit the german Contributors in this file.
 msgid ""
 msgstr ""
 "Project-Id-Version: gameplaylocalization\n"
 "POT-Creation-Date: 2020-08-01 20:08\n"
 "PO-Revision-Date: 2020-09-21 14:18+0200\n"
-"Previous-Translator: Heros_Jani <rojan.kelava@web.de>\n"
-"Last-Translator: MakerMario <MakerMario@gmx.de>\n"
-"same for example!\n"
-"Language: fi\n"
+"Language-Team: \n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Previous-Translator: Heros_Jani <rojan.kelava@web.de>\n"
+"Last-Translator: MakerMario <MakerMario@gmx.de>\n"
 "X-Generator: Virtaal 0.7.1\n"
 
 #. Key:	00226FBB4E4F3E44E532BA8741D23425
