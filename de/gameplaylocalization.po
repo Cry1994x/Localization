@@ -1,5 +1,5 @@
 # Copyright Epic Games, Inc. All Rights Reserved.
-# Right are reserved each individual's and entity's contribution
+# Rights are reserved each individual's and entity's contribution
 msgid ""
 msgstr ""
 "Project-Id-Version: gameplaylocalization\n"
