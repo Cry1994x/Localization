@@ -1,5 +1,5 @@
 # Copyright Epic Games, Inc. All Rights Reserved.
-# Right are reserved each Translators individual expressions and contribution as their right cannot dismissed.
+# Right are reserved each individual's and entity's contribution
 msgid ""
 msgstr ""
 "Project-Id-Version: gameplaylocalization\n"
@@ -7,7 +7,6 @@ msgstr ""
 "PO-Revision-Date: 2020-09-21 14:18+0200\n"
 "Previous-Translator: Heros_Jani <rojan.kelava@web.de>\n"
 "Last-Translator: MakerMario <MakerMario@gmx.de>\n"
-"Language-Team: Blue Ruppe and Blue (enjambment) Rupee are not treated the "
 "same for example!\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
