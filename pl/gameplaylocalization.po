@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gameplaylocalization\n"
 "POT-Creation-Date: 2020-08-01 20:08\n"
-"PO-Revision-Date: 2020-09-24 16:38+0200\n"
+"PO-Revision-Date: 2020-09-24 20:10+0200\n"
 "Language-Team: \n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -194,7 +194,7 @@ msgstr "Serce"
 #: /Game/ZELDA/Link_Child/Fairy/FairyEffect1.FairyEffect1:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_3.DisplayName
 msgctxt ",084C8453499E5DFC6FDD21B6F5D34ECE"
 msgid "NewNiagaraEmitter"
-msgstr ""
+msgstr "NewNiagaraEmitter"
 
 #. Key:	0865839F44ABD62E12B43287CE84BC34
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -393,7 +393,7 @@ msgstr "Tabliczka"
 #: /Game/ZELDA/Enemys/Boss/GOHMAQueen/NewNiagaraSystem1.NewNiagaraSystem1:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_6.DisplayName
 msgctxt ",11B05E8141B09F555DA34390CBF0AAF8"
 msgid "NewNiagaraEmitter"
-msgstr ""
+msgstr "NewNiagaraEmitter"
 
 #. Key:	123C1373490B609E4EBBDEBA83A9FFB7
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/Outside/ZeldacastleBackyard.ZeldacastleBackyard:PersistentLevel.GuardoPawn_2.text1
@@ -421,7 +421,7 @@ msgstr "OTWÓRZ"
 #: /Game/ZELDA/CharacterModels/AI_PeformanceEnemy.Default__AI_PeformanceEnemy_C.text1
 msgctxt ",13548EA2493EE221A2E14D813C1E9DCE"
 msgid "test"
-msgstr ""
+msgstr "test"
 
 #. Key:	137059624AF5F1176B2E6AB30D5C1F67
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR1.ItemsR1.DisplayNameMap(5 - Value).DisplayNameMap
@@ -487,7 +487,7 @@ msgstr ""
 #: /Game/ZELDA/Maps/MainMenuZelda/Main.Main_C:WidgetTree.TextBlock_0.Text
 msgctxt ",14BD3D1346BB9870837B2CB6443DD056"
 msgid "4K"
-msgstr ""
+msgstr "4K"
 
 #. Key:	14EE8FE4487C43C815033EA40CD3E8C8
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL1.ItemsL1.DisplayNameMap(8 - Value).DisplayNameMap
@@ -495,7 +495,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt ",14EE8FE4487C43C815033EA40CD3E8C8"
 msgid "Keaton"
-msgstr ""
+msgstr "Keaton"
 
 #. Key:	1592886F4C4EA02ECAD7F2ACA81D6F84
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectRight.iTEMSelectRight_C:ExecuteUbergraph_iTEMSelectRight [Script Bytecode]
@@ -770,7 +770,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt ",218AFD134742642780B70E8663D07996"
 msgid "Keaton"
-msgstr ""
+msgstr "Keaton"
 
 #. Key:	228C1BCE407815A8B10D70A6FAD8B504
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/SelectedFile.SelectedFile_C:WidgetTree.TextBlock_110.Text
@@ -795,7 +795,7 @@ msgstr "Masz orzech Deku! Możesz go wybrać w menu itemów."
 #: [Script Bytecode]
 msgctxt ",23B93E9648B7C965772080A67C643E76"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. Key:	23CD5F224E06FCEAAC3AEC9C79EAF224
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextButton1_6.Text
@@ -929,7 +929,7 @@ msgstr "Przeglądaj"
 #: /Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextBlock.Text
 msgctxt ",282724AF43C3BFC3D3AA5489328F0E39"
 msgid "Gamepad"
-msgstr ""
+msgstr "Gamepad"
 
 #. Key:	29044E534588A7098E004C8D8B37BFC8
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR3.ItemsR3.DisplayNameMap(4 - Value).DisplayNameMap
@@ -1137,7 +1137,7 @@ msgstr " Sklepikarz->>>>"
 #: /Game/ZELDA/Blueprints/TalkToActors.Default__TalkToActors_C.text2
 msgctxt ",2EFAA34049428EB49A5533A59CBADDFE"
 msgid "Test"
-msgstr ""
+msgstr "Test"
 
 #. Key:	2F1A4EC54618D78FA12C18B6CCF53CDA
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
@@ -1809,7 +1809,7 @@ msgstr "Ale na szczęście przyszedłeś"
 #: /Game/ZELDA/CPP_Environment/Maps/MainMenuZelda/Main_BP.Main_BP_C:WidgetTree.TextBlock_0.Text
 msgctxt ",50EEA1FC40598D611710E7B8D6971739"
 msgid "4K"
-msgstr ""
+msgstr "4K"
 
 #. Key:	52FAB60D43FD541392B3E2A613A4868D
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/World_Objects/Chests/Chest_BP.Default__Chest_BP_C.TEXT
@@ -1851,7 +1851,7 @@ msgstr "Nic"
 #: [Script Bytecode]
 msgctxt ",53BB494E408EDF32E00EB59EDEBB1639"
 msgid "....."
-msgstr ""
+msgstr "....."
 
 #. Key:	53BD0931490330251D582DA9B13205BF
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL1.ItemsL1.DisplayNameMap(4 - Value).DisplayNameMap
@@ -2066,7 +2066,7 @@ msgstr "tutaj są itemy do testów:"
 #: Value).DisplayNameMap
 msgctxt ",5F563E2F4E9677794A5750B5173E013B"
 msgid "Item1R"
-msgstr ""
+msgstr "Item1R"
 
 #. Key:	5F8E56A748D208FA3DE73396BA7A78F4
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
@@ -2095,7 +2095,7 @@ msgstr " Spoczywaj w pokoju Satoru Iwata"
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/Outside/ZeldacastleBackyard.ZeldacastleBackyard:PersistentLevel.talon_pawn_2.text1
 msgctxt ",618751C644EED204ED2F309C6926D488"
 msgid "ZZZZzzzZzzzzzzZZzZzZZZZZzzzzZz"
-msgstr ""
+msgstr "ZZZZzzzZzzzzzzZZzZzZZZZZzzzzZz"
 
 #. Key:	61F8B0CF41D9E5D718F360B166A41BDB
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectLeft2.iTEMSelectLeft2_C:ExecuteUbergraph_iTEMSelectLeft2 [Script Bytecode]
@@ -2111,7 +2111,7 @@ msgstr "To jest Maska Wspomnień Kafeiego."
 #: Value).DisplayNameMap
 msgctxt ",621EF04040BB7BDE0C73E2A2984BC28B"
 msgid "keaton"
-msgstr ""
+msgstr "keaton"
 
 #. Key:	62848B3040F7924F319CA6BEF2824256
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard:PersistentLevel.Zelda_Pawn_2.text1
@@ -2190,7 +2190,7 @@ msgstr "Witaj"
 #: Value).DisplayNameMap
 msgctxt ",66826C8249C789EAB4FB0B8F2C60A00A"
 msgid "Item2L"
-msgstr ""
+msgstr "Item2L"
 
 #. Key:	66B535B94B70A526AA3A57B74DB665D2
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
@@ -2243,7 +2243,7 @@ msgstr "On nie ma pojęcia, co jeszcze planujemy!!"
 #: /Game/ZELDA/PauseMenu/MainMenu/VideoSettings.VideoSettings_C:WidgetTree.TextBlock_161.Text
 msgctxt ",68426B6F448403920A66DC8CBB24D1A2"
 msgid "Benchmark"
-msgstr ""
+msgstr "Benchmark"
 
 #. Key:	6AEA0AEB461FA4BA6869F899200CABD5
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/HUD/Ocarina_HUD/OcarinaNotes_HUD_BP.Default__OcarinaNotes_HUD_BP_C.PlayedSong
@@ -2293,7 +2293,7 @@ msgstr "Kolejny"
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor11_15.NewTextRenderComponent.Text
 msgctxt ",6EDAE27243C10628556B038A908793B2"
 msgid "-------->"
-msgstr ""
+msgstr "--------->"
 
 #. Key:	6EE8BFAB441DB4800E1A54A3DF478F94
 #. SourceLocation:	/Game/ZELDA/CharacterModels/Mido/BossBP.Default__BossBP_C.text1
@@ -2331,7 +2331,7 @@ msgstr "On ma taką przerażającą moc!"
 #: /Game/ZELDA/PauseMenu/MainMenu/SelectedFile.SelectedFile_C:WidgetTree.SaveGameSlot.Text
 msgctxt ",717B58C84251BEB4DF4C1AA8700F5A0A"
 msgid "Slot"
-msgstr ""
+msgstr "Slot"
 
 #. Key:	7185D9D94561B0E3467877B4B25B39E6
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/NPCs/Talon/Talon_BP.Talon_BP_C:ExecuteUbergraph_Talon_BP [Script Bytecode]
@@ -2384,7 +2384,7 @@ msgstr "Hej Link, witaj w naszym mieście Goronów!"
 #: /Game/ZELDA/CPP_Environment/Misc/Dialog_System/Dialog_System_BP.Default__Dialog_System_BP_C.Text2
 msgctxt ",72512B5443C864F8119F68B53619467D"
 msgid "Teeeeeeeeeeeeeeeest"
-msgstr ""
+msgstr "Teeeeeeeeeeeeeeeest"
 
 #. Key:	72C00D314B799E0D44DC11AE03C21690
 #. SourceLocation:	/Game/ZELDA/Blueprints/Items/rubeeImage/rubee/RupeeColor_Enum.RupeeColor_Enum.DisplayNameMap(1 - Value).DisplayNameMap
@@ -2455,7 +2455,7 @@ msgstr "Niebieski Rupi"
 #: Value).DisplayNameMap
 msgctxt ",753D0DFA495337E0481C2BBEE80A52D4"
 msgid "Item3L"
-msgstr ""
+msgstr "Item3L"
 
 #. Key:	756BE0B24C0CD0E5BF0AB5A6929B333E
 #. SourceLocation:	/Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.ResolutuionIndicator.Text
@@ -2484,7 +2484,7 @@ msgstr "Proszę, zachowaj to w tajemnicy przed wszystkimi......"
 #: /Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock.Text
 msgctxt ",7634D39B440531FC5F6ADCA8D56D60E3"
 msgid "Antialiasing"
-msgstr ""
+msgstr "Antialiasing"
 
 #. Key:	768CB4AD4806A5FB797E68BBAF77C0EF
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/iTEMSelectLeft2.iTEMSelectLeft2_C:ExecuteUbergraph_iTEMSelectLeft2 [Script Bytecode]
@@ -2588,7 +2588,7 @@ msgstr "ZIELONY OBRAZ"
 #: /Game/ZELDA/CPP_Environment/Misc/Dialog_System/Dialog_System_BP.Default__Dialog_System_BP_C.Text4
 msgctxt ",790279EC431973B26070358435F4FB97"
 msgid "Teeeeeeeeeeeeeeeest"
-msgstr ""
+msgstr "Teeeeeeeeeeeeeeeest"
 
 #. Key:	793B31484CBC2C83AA6D20A51B237505
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KokiriForest.KokiriForest_C:ExecuteUbergraph_KokiriForest [Script Bytecode]
@@ -2665,7 +2665,7 @@ msgstr "Prawe menu"
 #: Value).DisplayNameMap
 msgctxt ",7D78967F4D3FF4638A923094E093B7AF"
 msgid "Item2R"
-msgstr ""
+msgstr "Item2R"
 
 #. Key:	7F372A774E5EFC3AB01C7785C76F8977
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -2765,7 +2765,7 @@ msgstr "Nic"
 #: Value).DisplayNameMap
 msgctxt ",8480FE124C78878C6F934890A60EC759"
 msgid "keaton"
-msgstr ""
+msgstr "keaton"
 
 #. Key:	855EC48A4B28DEDFC2A05A858BADE417
 #. SourceLocation:	/Game/ZELDA/PauseMenu/Item_select1.Item_select1_C:WidgetTree.Deku.Text
@@ -2919,7 +2919,7 @@ msgstr "Sterowanie"
 #: Value).DisplayNameMap
 msgctxt ",8B3E342548178133768ED193AC0CC8A9"
 msgid "Item1L"
-msgstr ""
+msgstr "Item1L"
 
 #. Key:	8B5D0342400C57D43E1032A09629B419
 #. SourceLocation:	/Game/ZELDA/PauseMenu/MainMenu/MainMenuFinalWidget.MainMenuFinalWidget_C:WidgetTree.TextBlock_110.Text
@@ -2993,7 +2993,7 @@ msgstr "3"
 #: /Game/ZELDA/CPP_Environment/Maps/Test/TestMap_CPP.TestMap_CPP:PersistentLevel.TextRenderActor12.NewTextRenderComponent.Text
 msgctxt ",8D681A5349466D1E3ABE83808B79EC71"
 msgid "<--------"
-msgstr ""
+msgstr "<--------"
 
 #. Key:	8E85B68D4D496F3780F4ECAB68DCD0B3
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
@@ -3099,7 +3099,7 @@ msgstr "NewNiagaraEmitter"
 #: /Game/ZELDA/Blueprints/SimpleDialogue.Default__SimpleDialogue_C.Text
 msgctxt ",936E67104D293ED2FEEC6D9E3AD0D768"
 msgid "looooool"
-msgstr ""
+msgstr "looooool"
 
 #. Key:	9376114F4C699EBAA27EF68B9B6F911E
 #. SourceLocation:	/Game/ZELDA/CharacterModels/Mido/BossBP.Default__BossBP_C.text4
@@ -3172,7 +3172,7 @@ msgstr "Czy ktoś może tu trochę się zamknąć?"
 #: /Game/ZELDA/CPP_Environment/Misc/Dialog_System/Dialog_System_BP.Default__Dialog_System_BP_C.Text3
 msgctxt ",96F7530A42368065F5585BB765B0A2CF"
 msgid "Teeeeeeeeeeeeeeeest"
-msgstr ""
+msgstr "Teeeeeeeeeeeeeeeest"
 
 #. Key:	970340C64FD866AF9672869462B4A771
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -3288,7 +3288,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt ",9A4416F949026B6C6ACDB284D292BEF6"
 msgid "Item4R"
-msgstr ""
+msgstr "Item4R"
 
 #. Key:	9A530A35404D3678796E4495835D9275
 #. SourceLocation:	/Game/ZELDA/CharacterModels/Mido/BossBP.BossBP_C:ExecuteUbergraph_BossBP [Script Bytecode]
@@ -3304,7 +3304,7 @@ msgstr "Co zrobiłeś z Wielkim Drzewem Deku..."
 #: Value).DisplayNameMap
 msgctxt ",9A55BF4E4B0C5C3303C6FC940BCA5124"
 msgid "Keaton"
-msgstr ""
+msgstr "Keaton"
 
 #. Key:	9A5682E44829F981DC2BD49DE8AC78F2
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChildLink.ChildLink_C:ExecuteUbergraph_ChildLink [Script Bytecode]
@@ -3426,7 +3426,7 @@ msgstr "Rupii"
 #: /Game/ZELDA/Trash/customTick.customTick_C:TextRender_GEN_VARIABLE.Text
 msgctxt ",9E39363443F26CFD89456188144222F7"
 msgid "custom Tick"
-msgstr ""
+msgstr "niestandardowy Tick"
 
 #. Key:	9E3DB07649938722481FD9A9C22F1000
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KakarikoVillage.KakarikoVillage:PersistentLevel.Tentacle_2.text1
@@ -3460,7 +3460,7 @@ msgstr "Zoptymalizowane komputery klasy średniej / Nintendo Switch"
 #: [Script Bytecode]
 msgctxt ",9EE6BA0842FF805FFF52AFBA6ABF9BC8"
 msgid "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-msgstr ""
+msgstr "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 
 #. Key:	9EF6D87E421BEA9EF0C2ED85850F4E1B
 #. SourceLocation:	/Game/ZELDA/Blueprints/ChangeControls_UI.ChangeControls_UI_C:WidgetTree.TextBlock_52.Text
@@ -3838,7 +3838,7 @@ msgstr "Jestem bob."
 #: [Script Bytecode]
 msgctxt ",B1D2E2064A378488FE2F6E88A6AD3671"
 msgid "Slot 3"
-msgstr ""
+msgstr "Slot 3"
 
 #. Key:	B2C1CBC44718A2525CB8228671ECE4E1
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL3.ItemsL3.DisplayNameMap(8 - Value).DisplayNameMap
@@ -3846,7 +3846,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt ",B2C1CBC44718A2525CB8228671ECE4E1"
 msgid "Keaton"
-msgstr ""
+msgstr "Keaton"
 
 #. Key:	B2CB230544C64B5FF26EDCA8B15AB9FF
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/Playables/Link/Child/Child_Link_BP.Child_Link_BP_C:ExecuteUbergraph_Child_Link_BP [Script Bytecode]
@@ -3980,7 +3980,7 @@ msgstr ""
 #: [Script Bytecode]
 msgctxt ",B81652714472C0E11F445F98DEE3E74B"
 msgid "Slot 1"
-msgstr ""
+msgstr "Slot 1"
 
 #. Key:	B82995A846A7FBCEF815E2A9C26D567D
 #. SourceLocation:	/Game/ZELDA/Blueprints/TypingWidget.TypingWidget_C:WidgetTree.TextBlock_113.Text
@@ -4008,7 +4008,7 @@ msgstr "Nie przypisano klawisza"
 #: /Game/ZELDA/CharacterModels/DefaultPawnForAI.Default__DefaultPawnForAI_C.text1
 msgctxt ",B918AB7E437BBFAC12451A856D55F67C"
 msgid "tessst"
-msgstr ""
+msgstr "tessst"
 
 #. Key:	B9C5EA35479C9FC7CC4B89A71CA6F6CA
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -4070,7 +4070,7 @@ msgstr "To jest Maska Wspomnień Kafeiego."
 #: /Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock_150.Text
 msgctxt ",BB0259CB425444571026CAAB9080F1B6"
 msgid "Motion Blur"
-msgstr ""
+msgstr "Motion Blur"
 
 #. Key:	BB43BBE34EAF92B8D00ABD8E7D8D7856
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -4160,7 +4160,7 @@ msgstr "Żegnaj"
 #: Value).DisplayNameMap
 msgctxt ",BFD55C864F1777A57787B498E7A19D3D"
 msgid "Item4L"
-msgstr ""
+msgstr "Item4L"
 
 #. Key:	C07791EA40543CFAABC9BBBA5ECCD447
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsL3.ItemsL3.DisplayNameMap(3 - Value).DisplayNameMap
@@ -4438,7 +4438,7 @@ msgstr "NewNiagaraEmitter"
 #: [Script Bytecode]
 msgctxt ",CE7F883E4CB0402B1C2B8ABCBAD5B0DD"
 msgid "Link....."
-msgstr ""
+msgstr "Link....."
 
 #. Key:	D000DECC4FE19159E036819049DA9B41
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -4599,7 +4599,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt ",D78D438847966A55E51FDFBC3BFC3794"
 msgid "keaton"
-msgstr ""
+msgstr "keaton"
 
 #. Key:	D7CCE9ED47AC6288BAD237BDCCF7F7FF
 #. SourceLocation:	/Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:Get Resolutuion Indicator Text [Script Bytecode]
@@ -4607,7 +4607,7 @@ msgstr ""
 #: Resolutuion Indicator Text [Script Bytecode]
 msgctxt ",D7CCE9ED47AC6288BAD237BDCCF7F7FF"
 msgid "asd"
-msgstr ""
+msgstr "asd"
 
 #. Key:	D864EE1F441B9A4831CE89A2D9F89471
 #. SourceLocation:	/Game/ZELDA/Blueprints/MiniMap/DungeonMaps.DungeonMaps.DisplayNameMap(0 - Value).DisplayNameMap
@@ -4723,7 +4723,7 @@ msgstr "Tak"
 #: /Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock_416.Text
 msgctxt ",DD1EAA1E4FCB28CA8414F1A7C2CF0810"
 msgid "%%%"
-msgstr ""
+msgstr "%%%"
 
 #. Key:	DDD1D290496A4819C72314954338FE7A
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -4772,6 +4772,8 @@ msgid ""
 "Oh... Navi....\r\n"
 "has returned..."
 msgstr ""
+"Oh... Navi....\r\n"
+"wróciłaś.."
 
 #. Key:	DFC4F6B9488044268212318F210E3219
 #. SourceLocation:	/Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.Default__AdvancedGraphicsSettings_UI_C.DefaultSaveFolderPath
@@ -4831,7 +4833,7 @@ msgstr "Strzała2"
 #: /Game/ZELDA/Trash/eventtick.eventtick_C:TextRender_GEN_VARIABLE.Text
 msgctxt ",E37E5B6D4B339BDB1C8D0A9C7D0BAF30"
 msgid "Event Tick"
-msgstr ""
+msgstr "Event Tick"
 
 #. Key:	E39D03EA44D7EF687F0C24B33B4E89EF
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/KakarikoVillage.KakarikoVillage:PersistentLevel.Boss_2.text1
@@ -4884,7 +4886,7 @@ msgstr "Tarcza"
 #: /Game/ZELDA/CPP_Environment/Maps/OcarinaOfTime/HyruleMarket/HyruleMarket_CPP.HyruleMarket_CPP:PersistentLevel.HylianLady2_2.text1
 msgctxt ",E59F24DE4FD7670F527099A35710735D"
 msgid "test2"
-msgstr ""
+msgstr "test2"
 
 #. Key:	E664D73A4EB3F9EF0F6824A36A60F6ED
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Shop_Enum.Shop_Enum.DisplayNameMap(2 - Value).DisplayNameMap
@@ -4892,7 +4894,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt ",E664D73A4EB3F9EF0F6824A36A60F6ED"
 msgid "Item3R"
-msgstr ""
+msgstr "Item3R"
 
 #. Key:	E6B63980471BEC9DFAEDA3830FC844AF
 #. SourceLocation:	/Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock_182.Text
@@ -4913,7 +4915,7 @@ msgstr "Yooooo, to ja Flinky! Twój kolega wspierający Patreon. "
 #: /Game/ZELDA/Link_Child/Sword/test/test.test_C:TextRender_GEN_VARIABLE.Text
 msgctxt ",E74AF03E42E73A2655DC8EBF7464D6A2"
 msgid "Dua Lipa - Break my Heart"
-msgstr ""
+msgstr "Dua Lipa - Break my Heart"
 
 #. Key:	E93A50F04C1EC31243AE05BD6AADCB39
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/LostWoods.LostWoods_C:ExecuteUbergraph_LostWoods [Script Bytecode]
@@ -5009,7 +5011,7 @@ msgstr "Serce"
 #: /Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock_11.Text
 msgctxt ",EE0F76514FECEC8396046782EE35A083"
 msgid "Ambient Occlusion"
-msgstr ""
+msgstr "Ambient Occlusion"
 
 #. Key:	EE49221541852474BA1B5491B2AA4FC3
 #. SourceLocation:	/Game/ZELDA/Maps/MainMenuZelda/Main.Main_C:WidgetTree.TextBlock_2.Text
@@ -5023,7 +5025,7 @@ msgstr "Wioska Kokariko"
 #: /Game/ZELDA/CPP_Environment/Characters/NPCs/DefaultPawnForAI_BP.Default__DefaultPawnForAI_BP_C.text1
 msgctxt ",EFCD93D6486A15CB56C703BBD9DA7C2C"
 msgid "tessst"
-msgstr ""
+msgstr "tessst"
 
 #. Key:	F018A091473D208C6179EB9C558384F0
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -5155,7 +5157,7 @@ msgstr "OrzechyDeku"
 #: Value).DisplayNameMap
 msgctxt ",F71D7B824093449FB0386B878A06A0AF"
 msgid "Keaton"
-msgstr ""
+msgstr "Keaton"
 
 #. Key:	F77A9C6146032B1BF8E9E8B3971876AE
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/NPCs/Malon/Malon_BP.Default__Malon_BP_C.text3
@@ -5386,7 +5388,7 @@ msgstr ""
 #: [Script Bytecode]
 msgctxt ",FFE1D47942320E1D134D8FBE2377D348"
 msgid "Slot 2"
-msgstr ""
+msgstr "Slot 2"
 
 #. Key:	ColorDesc
 #. SourceLocation:	/Game/ZELDA/Enemys/Boss/GOHMAQueen/NewNiagaraEmitter.NewNiagaraEmitter:NiagaraScriptSource_0.NiagaraGraph_0.NiagaraNodeAssignment_2.SetVariables_9DC1DFEB48E9B533BA07CA8F31717609.NiagaraScriptSource_0.NiagaraGraph_0.VariableToMetaData(0 - Value).VariableToMetaData.Description
