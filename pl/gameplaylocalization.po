@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gameplaylocalization\n"
 "POT-Creation-Date: 2020-08-01 20:08\n"
-"PO-Revision-Date: 2020-09-24 20:10+0200\n"
+"PO-Revision-Date: 2020-09-26 22:48+0200\n"
 "Language-Team: \n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -3165,7 +3165,7 @@ msgstr "nie możemy pozwolić, aby Ganondorf zdobył Triforce!"
 #: [Script Bytecode]
 msgctxt ",96EDB17D4D1DEF2CEF3DBA9EC3A91B4D"
 msgid "Cant a person get a little shut-eye around here?"
-msgstr "Czy ktoś może tu trochę się zamknąć?"
+msgstr "Czy ktoś nie może tu trochę się zdrzemnąć?"
 
 #. Key:	96F7530A42368065F5585BB765B0A2CF
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Misc/Dialog_System/Dialog_System_BP.Default__Dialog_System_BP_C.Text3
@@ -3195,7 +3195,7 @@ msgstr "Czerwony Rupi"
 #: /Game/ZELDA/Blueprints/ShopKeeper/StartMenu.StartMenu_C:WidgetTree.TextBlock_3.Text
 msgctxt ",977751B747F0301D833B58B39915F053"
 msgid "Quit"
-msgstr "Wyjdź "
+msgstr "Wyjdź"
 
 #. Key:	97BAD4B844260BFED6A5EAB800B661E9
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/World_Objects/Chests/Small_Chest_BP.Small_Chest_BP_C:ExecuteUbergraph_Small_Chest_BP [Script Bytecode]
@@ -3802,7 +3802,7 @@ msgid ""
 "That's FIVE Rupees!"
 msgstr ""
 "Masz niebieski Rupi!\r\n"
-"To PIĘĆ Rupii"
+"To PIĘĆ Rupii!"
 
 #. Key:	B096A5AD4E57943A4DC1D3801159D775
 #. SourceLocation:	/Game/ZELDA/CPP_Environment/Characters/NPCs/Malon/Malon_BP.Default__Malon_BP_C.text2
