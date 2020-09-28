@@ -14,7 +14,7 @@ msgstr ""
 "Previous-Translator: Heros_Jani <rojan.kelava@web.de>\n"
 "X-Generator: Poedit 2.4.1\n"
 "Last-Translator: MakerMario <MakerMario@gmx.de>\n"
-"X-Generator: None, Format works by itself sorted by keys and formatted to use Poedit for the respective continuity and error checking\n"
+"X-Generator: None, Format works by itself sorted by keys creating the format that Poedit uses for the respective continuity and error checking\n"
 
 #. Key:	00226FBB4E4F3E44E532BA8741D23425
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
