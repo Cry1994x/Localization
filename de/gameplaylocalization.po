@@ -24,7 +24,7 @@ msgstr ""
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
 msgctxt ",00226FBB4E4F3E44E532BA8741D23425"
 msgid "Link.... now, we are the only ones who can protect Hyrule!"
-msgstr "Link .... Nun, wir sind die Einzigen die Hyrule beschützen können!"
+msgstr "Link .... Nun, sind wir die Einzigen die Hyrule beschützen können!"
 
 #. Key:	002CD48040DF00F25A23849A53C1AACD
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/Outside/ZeldacastleBackyard.ZeldacastleBackyard_C:ExecuteUbergraph_ZeldacastleBackyard [Script Bytecode]
