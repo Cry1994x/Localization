@@ -1,5 +1,6 @@
-# Copyright Epic Games, Inc. All Rights Reserved.
-# All Rights are reserved for each individual's and entity's contribution within the UN(United Nation)which cannot be dismissed. Let's Credit the german Contributors as Writers and Translators in their own regard in this file.
+# Unreal Engine - Copyright Epic Games, Inc. All Rights Reserved.
+# The Lines below are not created using propierity software, therefore all Rights are reserved to each individual and cannot be dismissed
+# All Rights are highly regarded by the UN laws for Humanity(registered as persons with an identity)and legal persons(companies and anything fabricated alike)for sharing and trademarketing their Intelectual and Private Property respectively. This includes the Copyright(Verlagsrecht, Urheberschutz). Let's credit the german Contributors respectively as Writers and Translators in this file.
 msgid ""
 msgstr ""
 "Project-Id-Version: gameplaylocalization\n"
