@@ -3,18 +3,20 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gameplaylocalization\n"
-"POT-Creation-Date: 2020-08-01 20:08\n"
+"POT-Creation-Date: 2020-08-01 20:08 by Heros_Jani\n"
+"Previous-Translator: Heros_Jani <rojan.kelava@web.de>\n"
+"PO-Revision-Date(Previous Translator): 2020-08-20 14:17+0200\n"
+"X-Generator: Poedit 2.4.1 used by the previous translator \n"
+"Last-Translator: MakerMario <MakerMario@gmx.de>\n"
 "PO-Revision-Date: 2020-09-23 18:39+0200\n"
-"Language-Team: Deutsch\nGerman"
+"Language-Team: \n"
 "Language: DE\nGER"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Previous-Translator: Heros_Jani <rojan.kelava@web.de>\n"
-"X-Generator: Poedit 2.4.1\n"
-"Last-Translator: MakerMario <MakerMario@gmx.de>\n"
-"X-Generator: None, Format works by itself sorted by keys creating the format that Poedit uses for the respective continuity and error checking\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n" 
+"X-Generator: \n"
+"Format: According to Poedit 2.4.1\n"
 
 #. Key:	00226FBB4E4F3E44E532BA8741D23425
 #. SourceLocation:	/Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/CastleCourtyard.CastleCourtyard_C:ExecuteUbergraph_CastleCourtyard [Script Bytecode]
@@ -28,7 +30,7 @@ msgstr "Link .... Nun, wir sind die Einzigen die Hyrule beschützen können!"
 #: /Game/ZELDA/Maps/OcarinaOfTime/HyruleMarket/ZeldaCastle/Outside/ZeldacastleBackyard.ZeldacastleBackyard_C:ExecuteUbergraph_ZeldacastleBackyard [Script Bytecode]
 msgctxt ",002CD48040DF00F25A23849A53C1AACD"
 msgid "I hope you understood it! Please try to make the world a better place! \r\nGood bye link!"
-msgstr "Ich hoffe du verstehst das! Bitte schaffe aus der Welt einen besseren Ort\r\n Auf Wiedersehen Link!"
+msgstr "Ich hoffe du verstehst das! Bitte schaffe aus der Welt einen besseren Ort\r\nAuf Wiedersehen Link!"
 
 #. Key:	0168EE4547D3872DE9D6E199CF3C9922
 #. SourceLocation:	/Game/ZELDA/Blueprints/AdvancedGraphicsSettings_UI.AdvancedGraphicsSettings_UI_C:WidgetTree.TextBlock_2.Text
@@ -42,7 +44,7 @@ msgstr "Nachverarbeitung"
 #: /Game/ZELDA/CPP_Environment/World_Objects/Chests/Small_Chest_BP.Small_Chest_BP_C:ExecuteUbergraph_Small_Chest_BP [Script Bytecode]
 msgctxt ",01760A894258122138CC9592FF793CE3"
 msgid "You got a Green Rupee!\r\nThat's ONE Rupee!"
-msgstr "Du erwirbst einen Grünrubin!\r\n Das ist EIN Rubin!"
+msgstr "Du erwirbst einen Grünrubin!\r\nDas ist EIN Rubin!"
 
 #. Key:	02C574D947A8ED7B01E7D68C6DDAC6ED
 #. SourceLocation:	/Game/ZELDA/ZbrushModels/HyruleMarket/ZeldaCastle/ZeldaRoom/TrifoceScene/TriforceModel/Triforce.Triforce_C:ExecuteUbergraph_Triforce [Script Bytecode]
