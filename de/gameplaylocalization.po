@@ -52,7 +52,7 @@ msgstr "Du erwirbst einen Grünrubin!\r\nDas ist EIN Rubin!"
 #: /Game/ZELDA/ZbrushModels/HyruleMarket/ZeldaCastle/ZeldaRoom/TrifoceScene/TriforceModel/Triforce.Triforce_C:ExecuteUbergraph_Triforce [Script Bytecode]
 msgctxt ",02C574D947A8ED7B01E7D68C6DDAC6ED"
 msgid "So, the ancient Sages built the Temple of Time to protect the Triforce from evil ones."
-msgstr "Also erbauten die alten Weisen die Zitadelle der Zeit zum Schutze des Triforces vor Bösem."
+msgstr "Also erbauten die alten Weisen die Festung zur Zeit zum Schutze des Triforces vor Bösem."
 
 #. Key:	0349C9D64C8A88C47F841DB0FDC9C28D
 #. SourceLocation:	/Game/ZELDA/Blueprints/ShopKeeper/Slots/ItemsR2.ItemsR2.DisplayNameMap(3 - Value).DisplayNameMap
